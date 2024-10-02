@@ -1,0 +1,90 @@
+/* /styles/subjects.css */
+
+/* Base styles for the subjects container */
+.subjects-container {
+  overflow-x: auto; /* Allow horizontal scrolling */
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+/* Base styles for each subject table */
+.subject-table {
+  margin-bottom: 30px;
+}
+
+.subject-table h3 {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 1.4rem;
+  color: #6200ea;
+}
+
+/* Table styles */
+.subject-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  overflow-x: auto; /* Horizontal scroll */
+}
+
+.subject-table thead {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+.subject-table th,
+.subject-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+/* Add a subtle background color to table rows */
+.subject-table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+.subject-table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  /* Make tables scrollable on smaller screens */
+  .subject-table table {
+    display: block;
+    overflow-x: auto; /* Enable horizontal scroll */
+    white-space: nowrap; /* Prevent table from wrapping */
+  }
+
+  /* Display all elements in a single line */
+  .subject-table th,
+  .subject-table td {
+    white-space: nowrap; /* Prevent text wrapping */
+    font-size: 0.9rem; /* Adjust font size for small screens */
+    padding: 8px;
+  }
+
+  /* Adjust heading font size */
+  .subject-table h3 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Further adjustments for very small screens */
+  .subject-table th,
+  .subject-table td {
+    font-size: 0.8rem; /* Smaller font size */
+    padding: 6px;
+  }
+
+  .subject-table h3 {
+    font-size: 1rem; /* Adjust heading size */
+  }
+}

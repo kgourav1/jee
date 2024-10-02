@@ -1,0 +1,56 @@
+/* /styles/quotes.css */
+
+.quotes-container {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: center; /* Center the content */
+}
+
+.quotes-container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  margin: 20px 0;
+  font-style: italic;
+  color: #555;
+  border-left: 4px solid #6200ea;
+  padding-left: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #6200ea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #3700b3;
+}
+
+/* Media Query for Mobile Responsiveness */
+@media (max-width: 768px) {
+  .quotes-container {
+    padding: 15px; /* Reduce padding for smaller screens */
+  }
+
+  blockquote {
+    font-size: 1.2rem; /* Smaller font size for mobile */
+  }
+
+  button {
+    width: 100%; /* Full width button for mobile */
+  }
+}

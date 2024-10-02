@@ -1,0 +1,124 @@
+/* /styles/style.css */
+
+/* Base Styles for Navbar */
+#navbar {
+  position: sticky; /* Sticky positioning */
+  top: 0; /* Sticks to the top */
+  z-index: 1000; /* Ensure it stays above other content */
+}
+.navbar {
+  background-color: #6200ea;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
+}
+
+.navbar h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+}
+
+.navbar li {
+  display: inline;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #ffd600;
+}
+
+/* Hamburger Menu Icon */
+.navbar .menu-icon {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+/* Mobile Menu Styles */
+.mobile-menu {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  top: 60px; /* Align below the navbar */
+  right: 0;
+  background-color: #6200ea;
+  width: 100%;
+  padding: 20px;
+  border-top: 1px solid #ffd600;
+  z-index: 10;
+}
+
+.mobile-menu ul {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.mobile-menu a {
+  font-size: 1.2rem;
+}
+
+/* Media Query for Navbar Responsiveness */
+@media (max-width: 768px) {
+  /* Navbar changes for small screens */
+  .navbar {
+    flex-wrap: wrap; /* Allow wrapping */
+    padding: 15px 20px; /* Reduced padding */
+  }
+
+  /* Show Hamburger Menu and hide main nav */
+  .navbar ul {
+    display: none; /* Hide desktop menu */
+  }
+
+  .navbar .menu-icon {
+    display: block; /* Show hamburger menu */
+  }
+
+  /* Mobile Menu Styling */
+  .mobile-menu {
+    display: none; /* Hidden by default */
+  }
+
+  /* Display mobile menu when active */
+  .mobile-menu.active {
+    display: flex; /* Show menu when active */
+    ul {
+      display: inline;
+    }
+    li {
+      margin-right: 10px;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  /* Further Adjustments for Very Small Screens */
+  .navbar h1 {
+    font-size: 1.2rem; /* Smaller font size */
+  }
+
+  .navbar .menu-icon {
+    font-size: 2rem; /* Slightly larger hamburger icon */
+  }
+
+  .mobile-menu a {
+    font-size: 1rem; /* Slightly smaller links */
+  }
+}

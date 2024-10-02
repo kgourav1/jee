@@ -1,0 +1,183 @@
+/* /styles/weekly-goals.css */
+
+/* General Styles */
+.weekly-goals-container {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px 0;
+  max-width: 800px; /* Restrict maximum width for larger screens */
+  margin: 0 auto; /* Center align the weekly goals container */
+}
+
+.weekly-goals-container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Progress Bar */
+.weekly-progress-bar {
+  width: 100%;
+  background: #f3f3f3;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.weekly-progress {
+  height: 20px;
+  width: 0; /* Start with 0 and dynamically update */
+  background: #6200ea;
+  border-radius: 20px;
+  transition: width 0.3s ease-in-out;
+}
+
+/* Add Weekly Goal Input Section */
+.add-weekly-goal {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+#weekly-goal-input {
+  width: 75%; /* Reduced width for input box */
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+#add-weekly-goal-btn {
+  width: 20%; /* Reduced width for add button */
+  padding: 10px;
+  font-size: 1rem;
+  background-color: #6200ea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#add-weekly-goal-btn:hover {
+  background-color: #3700b3;
+}
+
+/* Weekly Goals List Styles */
+.weekly-goal-list {
+  list-style: none;
+  padding: 0;
+}
+
+.weekly-goal-list li {
+  background: #fafafa;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.3s ease;
+}
+
+.weekly-goal-list li.completed {
+  background: #e0ffe0;
+  text-decoration: line-through;
+}
+
+.weekly-goal-list .weekly-goal-text {
+  flex-grow: 1;
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+.weekly-goal-list .weekly-goal-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.weekly-goal-list .edit-weekly-btn,
+.weekly-goal-list .delete-weekly-btn,
+.weekly-goal-list .complete-weekly-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #6200ea;
+  transition: color 0.3s ease;
+}
+
+.weekly-goal-list .edit-weekly-btn:hover,
+.weekly-goal-list .delete-weekly-btn:hover,
+.weekly-goal-list .complete-weekly-btn:hover {
+  color: #3700b3;
+}
+
+/* Media Query for Mobile Responsiveness */
+@media (max-width: 768px) {
+  .weekly-goals-container {
+    padding: 15px; /* Reduce padding for smaller screens */
+  }
+
+  .weekly-goals-container h2 {
+    font-size: 1.5rem; /* Smaller font size for mobile */
+  }
+
+  /* Adjust Add Weekly Goal Section */
+  .add-weekly-goal {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #weekly-goal-input {
+    width: 100%; /* Full width input box for mobile */
+    margin-bottom: 10px; /* Add margin between input and button */
+  }
+
+  #add-weekly-goal-btn {
+    width: 100%; /* Full width button for mobile */
+  }
+
+  /* Adjust Weekly Goals List Items */
+  .weekly-goal-list li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .weekly-goal-list .weekly-goal-actions {
+    width: 100%;
+    justify-content: flex-end;
+    margin-top: 10px; /* Add space between weekly goal text and actions */
+  }
+
+  .weekly-goal-list .weekly-goal-actions button {
+    font-size: 0.9rem; /* Slightly smaller button text */
+  }
+}
+
+@media (max-width: 480px) {
+  .weekly-goals-container {
+    padding: 10px; /* Further reduce padding for very small screens */
+  }
+
+  .weekly-goals-container h2 {
+    font-size: 1.3rem; /* Even smaller font size for small devices */
+  }
+
+  #weekly-goal-input,
+  #add-weekly-goal-btn {
+    padding: 8px; /* Reduce padding in input and button */
+    font-size: 0.9rem; /* Smaller text */
+  }
+
+  /* Weekly Goals List Styles */
+  .weekly-goal-list .weekly-goal-text {
+    font-size: 0.9rem; /* Smaller weekly goal text */
+  }
+
+  .weekly-goal-list .weekly-goal-actions button {
+    font-size: 0.8rem; /* Smaller button text */
+  }
+}
