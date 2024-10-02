@@ -31,7 +31,7 @@ function updateCountdown() {
 setInterval(updateCountdown, 1000);
 
 // Fetch syllabus data from test.json
-fetch("/data/test.json")
+fetch("data/test.json")
   .then((response) => response.json())
   .then((data) => {
     populateSyllabusTables(data);
