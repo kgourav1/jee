@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Evaluate \\( \\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2} \\):",
+    "choice1": "4",
+    "choice2": "2",
+    "choice3": "∞",
+    "choice4": "0",
+    "answer": 1,
+    "explanation": "Factor the numerator as \\( (x - 2)(x + 2) \\). The limit becomes \\( \\lim_{x \\to 2} (x + 2) = 4 \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to 0} \\frac{1 - \\cos x}{x^2} \\):",
+    "choice1": "1",
+    "choice2": "1/2",
+    "choice3": "0",
+    "choice4": "∞",
+    "answer": 2,
+    "explanation": "Using the trigonometric identity, \\( 1 - \\cos x = 2 \\sin^2 (x/2) \\), and substituting, the limit simplifies to \\( \\lim_{x \\to 0} \\frac{2 \\sin^2 (x/2)}{x^2} = \\frac{1}{2} \\)."
+  },
+  {
+    "question": "Evaluate \\( \\lim_{x \\to 0} \\frac{\\sqrt{1 + x} - 1}{x} \\):",
+    "choice1": "1",
+    "choice2": "1/2",
+    "choice3": "2",
+    "choice4": "∞",
+    "answer": 2,
+    "explanation": "Rationalize the numerator: \\( \\frac{(\\sqrt{1 + x} - 1)(\\sqrt{1 + x} + 1)}{x(\\sqrt{1 + x} + 1)} = \\lim_{x \\to 0} \\frac{x}{x(\\sqrt{1 + x} + 1)} = \\frac{1}{2} \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to 0} \\frac{\\ln (1 + x)}{x} \\):",
+    "choice1": "1",
+    "choice2": "e",
+    "choice3": "0",
+    "choice4": "∞",
+    "answer": 1,
+    "explanation": "Using L'Hôpital's Rule, differentiate the numerator and denominator: \\( \\lim_{x \\to 0} \\frac{1/(1 + x)}{1} = 1 \\)."
+  },
+  {
+    "question": "Evaluate \\( \\lim_{x \\to 0} \\frac{e^x - e^{-x}}{x} \\):",
+    "choice1": "0",
+    "choice2": "2",
+    "choice3": "1",
+    "choice4": "∞",
+    "answer": 2,
+    "explanation": "Using L'Hôpital's Rule, differentiate the numerator and denominator: \\( \\lim_{x \\to 0} (e^x + e^{-x}) = 2 \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to \\infty} \\sqrt{x^2 + 1} - x \\):",
+    "choice1": "1",
+    "choice2": "0",
+    "choice3": "-1",
+    "choice4": "∞",
+    "answer": 3,
+    "explanation": "Rationalize the expression: \\( \\lim_{x \\to \\infty} \\frac{(x^2 + 1) - x^2}{\\sqrt{x^2 + 1} + x} = \\lim_{x \\to \\infty} \\frac{1}{\\sqrt{x^2 + 1} + x} = -1 \\)."
+  },
+  {
+    "question": "If \\( f(x) = \\frac{2x^3 - 3x^2 + x}{x^3 - x^2 + x} \\), then \\( \\lim_{x \\to 0} f(x) \\) is:",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "∞",
+    "choice4": "1/2",
+    "answer": 1,
+    "explanation": "Substitute x = 0 in the expression: \\( \\lim_{x \\to 0} \\frac{2 \\cdot 0^3 - 3 \\cdot 0^2 + 0}{0^3 - 0^2 + 0} = 0 \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to 1} \\frac{x^5 - 1}{x - 1} \\):",
+    "choice1": "5",
+    "choice2": "1",
+    "choice3": "∞",
+    "choice4": "0",
+    "answer": 1,
+    "explanation": "Factor the numerator as \\( (x - 1)(x^4 + x^3 + x^2 + x + 1) \\). The limit becomes \\( \\lim_{x \\to 1} (x^4 + x^3 + x^2 + x + 1) = 5 \\)."
+  },
+  {
+    "question": "Evaluate \\( \\lim_{x \\to \\pi} \\frac{\\sin x}{x - \\pi} \\):",
+    "choice1": "1",
+    "choice2": "0",
+    "choice3": "-1",
+    "choice4": "∞",
+    "answer": 3,
+    "explanation": "Use L'Hôpital's Rule: \\( \\lim_{x \\to \\pi} \\frac{\\cos x}{1} = \\cos \\pi = -1 \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to 0} \\frac{\\sqrt{1 + x} - \\sqrt{1 - x}}{x} \\):",
+    "choice1": "1",
+    "choice2": "0",
+    "choice3": "2",
+    "choice4": "∞",
+    "answer": 3,
+    "explanation": "Rationalize the expression: \\( \\frac{(\\sqrt{1 + x} - \\sqrt{1 - x})(\\sqrt{1 + x} + \\sqrt{1 - x})}{x(\\sqrt{1 + x} + \\sqrt{1 - x})} = \\lim_{x \\to 0} \\frac{2x}{x(\\sqrt{1 + x} + \\sqrt{1 - x})} = 2 \\)."
+  },
+  {
+    "question": "Evaluate \\( \\lim_{x \\to \\infty} \\frac{2x + 3}{x - 1} \\):",
+    "choice1": "2",
+    "choice2": "0",
+    "choice3": "∞",
+    "choice4": "1",
+    "answer": 1,
+    "explanation": "Divide numerator and denominator by x: \\( \\lim_{x \\to \\infty} \\frac{2 + 3/x}{1 - 1/x} = 2 \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to 1} \\frac{x - 1}{x^2 - 1} \\):",
+    "choice1": "∞",
+    "choice2": "0",
+    "choice3": "1/2",
+    "choice4": "1",
+    "answer": 3,
+    "explanation": "Factor the denominator as \\( (x - 1)(x + 1) \\). The limit becomes \\( \\lim_{x \\to 1} \\frac{1}{x + 1} = 1/2 \\)."
+  },
+  {
+    "question": "Evaluate \\( \\lim_{x \\to 0} \\frac{x - \\sin x}{x^3} \\):",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "1/6",
+    "choice4": "1/2",
+    "answer": 3,
+    "explanation": "Using Taylor series expansion, \\( \\sin x = x - \\frac{x^3}{6} + O(x^5) \\). Thus, \\( x - \\sin x = \\frac{x^3}{6} \\). The limit is \\( \\frac{1}{6} \\)."
+  },
+  {
+    "question": "Find \\( \\lim_{x \\to 0} \\frac{\\tan x}{x} \\):",
+    "choice1": "1",
+    "choice2": "∞",
+    "choice3": "0",
+    "choice4": "2",
+    "answer": 1,
+    "explanation": "The standard limit \\( \\lim_{x \\to 0} \\frac{\\tan x}{x} = 1 \\)."
+  }
+]

@@ -4,14 +4,15 @@ const countdownElement = document.getElementById("countdown");
 const testDateElement = document.getElementById("test-date");
 
 // Set the test date (ensure it matches the date in HTML)
-const testDate = new Date("October 06, 2024 10:00:00").getTime();
+const testDate = new Date("October 04, 2024 10:00:00").getTime();
 
 function updateCountdown() {
   const now = new Date().getTime();
   const distance = testDate - now;
 
   if (distance < 0) {
-    countdownElement.innerHTML = "Test has started!";
+    countdownElement.innerHTML =
+      "<a href='/test_series' target='_blank'>Click here to give the TEST!</a>";
     return;
   }
 

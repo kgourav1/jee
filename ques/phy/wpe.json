@@ -1,0 +1,74 @@
+[
+  {
+    "question": "A force of 15 N is applied to move an object 4 m in the direction of the force. What is the work done on the object?",
+    "choice1": "60 J",
+    "choice2": "30 J",
+    "choice3": "45 J",
+    "choice4": "75 J",
+    "answer": 1,
+    "explanation": "Work done \\( W \\) is calculated using the formula \\( W = F \\cdot d \\cdot \\cos(\\theta) \\). Here, \\( \\theta = 0° \\) since the force is in the direction of motion, so \\( W = 15 \\cdot 4 cdot 1 = 60 \\) J."
+  },
+  {
+    "question": "An object gains 100 J of kinetic energy. If its mass is 2 kg, what is its final speed?",
+    "choice1": "5 m/s",
+    "choice2": "10 m/s",
+    "choice3": "7.07 m/s",
+    "choice4": "12.5 m/s",
+    "answer": 1,
+    "explanation": "Kinetic energy \\( KE \\) is given by the formula \\( KE = \\frac{1}{2} mv^2 \\). Rearranging gives \\( v = \\sqrt{\\frac{2 KE}{m}} = \\sqrt{\\frac{2 \\times 100}{2}} = \\sqrt{100} = 10 \\) m/s."
+  },
+  {
+    "question": "If 200 J of work is done in 5 seconds, what is the power developed?",
+    "choice1": "20 W",
+    "choice2": "40 W",
+    "choice3": "50 W",
+    "choice4": "60 W",
+    "answer": 2,
+    "explanation": "Power \\( P \\) is given by the formula \\( P = \\frac{W}{t} \\). Therefore, \\( P = \\frac{200}{5} = 40 \\) W."
+  },
+  {
+    "question": "A 10 kg object is lifted to a height of 5 m. What is the gravitational potential energy gained by the object?",
+    "choice1": "50 J",
+    "choice2": "100 J",
+    "choice3": "200 J",
+    "choice4": "500 J",
+    "answer": 4,
+    "explanation": "Gravitational potential energy \\( PE \\) is given by the formula \\( PE = mgh \\). Substituting the values, \\( PE = 10 \\times 9.8 \times 5 = 490 \\) J."
+  },
+  {
+    "question": "A car performs 600 J of work in moving a distance of 300 m. What is the average force applied by the car?",
+    "choice1": "2 N",
+    "choice2": "5 N",
+    "choice3": "10 N",
+    "choice4": "15 N",
+    "answer": 2,
+    "explanation": "Using the work formula \\( W = F cdot d \\), we can rearrange to find \\( F = \\frac{W}{d} = \\frac{600}{300} = 2 \\) N."
+  },
+  {
+    "question": "What is the work done by a conservative force when an object is moved along a closed path?",
+    "choice1": "Zero",
+    "choice2": "Positive",
+    "choice3": "Negative",
+    "choice4": "Equal to the total energy",
+    "answer": 1,
+    "explanation": "The work done by a conservative force along a closed path is zero because the initial and final positions are the same."
+  },
+  {
+    "question": "If a machine has an efficiency of 80% and uses 1000 J of energy, what is the useful work output?",
+    "choice1": "800 J",
+    "choice2": "500 J",
+    "choice3": "100 J",
+    "choice4": "200 J",
+    "answer": 1,
+    "explanation": "Useful work output = efficiency × input energy = 0.80 × 1000 J = 800 J."
+  },
+  {
+    "question": "A spring has a spring constant of 200 N/m. How much work is done in compressing the spring by 0.1 m?",
+    "choice1": "1 J",
+    "choice2": "2 J",
+    "choice3": "0.5 J",
+    "choice4": "4 J",
+    "answer": 1,
+    "explanation": "The work done on the spring is given by \\( W = \\frac{1}{2} k x^2 \\). Substituting the values, \\( W = \\frac{1}{2} \\cdot 200 \\cdot (0.1)^2 = 1 \\) J."
+  }
+]

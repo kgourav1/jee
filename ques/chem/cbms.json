@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the shape of the water molecule (H2O) due to its bent geometry?",
+    "choice1": "Linear",
+    "choice2": "Trigonal Planar",
+    "choice3": "Tetrahedral",
+    "choice4": "Bent",
+    "answer": 4,
+    "explanation": "Water has a bent geometry due to the two lone pairs on the oxygen atom, which repel the bonded hydrogen atoms."
+  },
+  {
+    "question": "Which of the following molecules contains a coordinate covalent bond?",
+    "choice1": "NH3",
+    "choice2": "HCl",
+    "choice3": "CO2",
+    "choice4": "H3O+",
+    "answer": 4,
+    "explanation": "In the hydronium ion (H3O+), one of the hydrogen ions is bonded to the oxygen atom through a coordinate covalent bond where the oxygen donates both electrons."
+  },
+  {
+    "question": "What is the bond angle in a methane (CH4) molecule?",
+    "choice1": "90°",
+    "choice2": "109.5°",
+    "choice3": "120°",
+    "choice4": "180°",
+    "answer": 2,
+    "explanation": "Methane has a tetrahedral shape with bond angles of approximately 109.5° due to the four bonded hydrogen atoms around the central carbon atom."
+  },
+  {
+    "question": "Which type of bond is formed between sodium (Na) and chlorine (Cl) in sodium chloride (NaCl)?",
+    "choice1": "Covalent bond",
+    "choice2": "Ionic bond",
+    "choice3": "Metallic bond",
+    "choice4": "Hydrogen bond",
+    "answer": 2,
+    "explanation": "In NaCl, sodium donates an electron to chlorine, forming an ionic bond due to the electrostatic attraction between the resulting ions."
+  },
+  {
+    "question": "Which of the following elements can form an expanded octet?",
+    "choice1": "Nitrogen",
+    "choice2": "Oxygen",
+    "choice3": "Phosphorus",
+    "choice4": "Carbon",
+    "answer": 3,
+    "explanation": "Phosphorus can form an expanded octet because it has available d-orbitals in its valence shell."
+  },
+  {
+    "question": "In which of the following compounds is the central atom sp3 hybridized?",
+    "choice1": "BF3",
+    "choice2": "CH4",
+    "choice3": "C2H2",
+    "choice4": "CO2",
+    "answer": 2,
+    "explanation": "In CH4, the carbon atom undergoes sp3 hybridization, forming four equivalent bonds with hydrogen atoms."
+  },
+  {
+    "question": "Which of the following molecules is polar?",
+    "choice1": "CO2",
+    "choice2": "CH4",
+    "choice3": "H2O",
+    "choice4": "CCl4",
+    "answer": 3,
+    "explanation": "Water (H2O) is a polar molecule due to its bent shape and the difference in electronegativity between hydrogen and oxygen."
+  },
+  {
+    "question": "What type of intermolecular force is primarily responsible for the high boiling point of water?",
+    "choice1": "London dispersion forces",
+    "choice2": "Dipole-dipole interactions",
+    "choice3": "Hydrogen bonding",
+    "choice4": "Ionic bonding",
+    "answer": 3,
+    "explanation": "Hydrogen bonding, which occurs between water molecules, is primarily responsible for its high boiling point."
+  },
+  {
+    "question": "Which theory explains the shape of molecules based on the repulsion between electron pairs?",
+    "choice1": "Molecular Orbital Theory",
+    "choice2": "Valence Bond Theory",
+    "choice3": "VSEPR Theory",
+    "choice4": "Lewis Theory",
+    "answer": 3,
+    "explanation": "The VSEPR (Valence Shell Electron Pair Repulsion) Theory explains molecular shapes based on the repulsion between electron pairs around a central atom."
+  },
+  {
+    "question": "What is the hybridization of the central atom in the sulfate ion (SO4^2-)?",
+    "choice1": "sp",
+    "choice2": "sp2",
+    "choice3": "sp3",
+    "choice4": "dsp3",
+    "answer": 3,
+    "explanation": "The central sulfur atom in the sulfate ion (SO4^2-) is sp3 hybridized, as it forms four sigma bonds with oxygen atoms."
+  }
+]

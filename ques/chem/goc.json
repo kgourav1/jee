@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which of the following functional groups is present in alcohols?",
+    "choice1": "Carbonyl",
+    "choice2": "Hydroxyl",
+    "choice3": "Amino",
+    "choice4": "Carboxyl",
+    "answer": 2,
+    "explanation": "Alcohols contain a hydroxyl (-OH) functional group, which is responsible for their chemical properties."
+  },
+  {
+    "question": "What is the IUPAC name of CH3-CH2-COOH?",
+    "choice1": "Propanoic acid",
+    "choice2": "Butanoic acid",
+    "choice3": "Ethanoic acid",
+    "choice4": "Acetic acid",
+    "answer": 1,
+    "explanation": "The compound CH3-CH2-COOH is a three-carbon carboxylic acid, and its IUPAC name is propanoic acid."
+  },
+  {
+    "question": "Which of the following compounds is an isomer of butane (C4H10)?",
+    "choice1": "Propane",
+    "choice2": "2-Methylpropane",
+    "choice3": "Pentane",
+    "choice4": "Hexane",
+    "answer": 2,
+    "explanation": "2-Methylpropane is an isomer of butane, as it has the same molecular formula but a different structural arrangement."
+  },
+  {
+    "question": "What type of reaction is represented by the equation: R-X + NaOH → R-OH + NaX?",
+    "choice1": "Elimination",
+    "choice2": "Substitution",
+    "choice3": "Addition",
+    "choice4": "Rearrangement",
+    "answer": 2,
+    "explanation": "This is a nucleophilic substitution reaction, where the halogen (X) is replaced by a hydroxyl group (OH)."
+  },
+  {
+    "question": "Which reagent can be used to test for the presence of unsaturation in organic compounds?",
+    "choice1": "Bromine water",
+    "choice2": "Sodium bicarbonate",
+    "choice3": "Silver nitrate",
+    "choice4": "Phenolphthalein",
+    "answer": 1,
+    "explanation": "Bromine water is used to test for unsaturation; it will decolorize in the presence of alkenes or alkynes."
+  },
+  {
+    "question": "What is the major product of the reaction between ethene and HBr?",
+    "choice1": "Ethane",
+    "choice2": "1-Bromopropane",
+    "choice3": "Bromoethane",
+    "choice4": "Butane",
+    "answer": 3,
+    "explanation": "The reaction of ethene with HBr results in the addition of H and Br across the double bond, producing bromoethane."
+  },
+  {
+    "question": "Which of the following compounds is aromatic?",
+    "choice1": "Cyclohexane",
+    "choice2": "Benzene",
+    "choice3": "Cyclobutane",
+    "choice4": "1-Hexene",
+    "answer": 2,
+    "explanation": "Benzene is an aromatic compound characterized by its cyclic structure and delocalized pi electrons."
+  },
+  {
+    "question": "What is the main product of the dehydration of ethanol (C2H5OH)?",
+    "choice1": "Ethene",
+    "choice2": "Acetic acid",
+    "choice3": "Ethyl acetate",
+    "choice4": "Ethanol",
+    "answer": 1,
+    "explanation": "The dehydration of ethanol leads to the formation of ethene (C2H4) by the elimination of water (H2O)."
+  },
+  {
+    "question": "Which type of isomerism is shown by compounds having the same molecular formula but different spatial arrangements of atoms?",
+    "choice1": "Structural isomerism",
+    "choice2": "Geometric isomerism",
+    "choice3": "Optical isomerism",
+    "choice4": "Conformational isomerism",
+    "answer": 2,
+    "explanation": "Geometric isomerism occurs due to the different spatial arrangements of atoms, often seen in alkenes."
+  },
+  {
+    "question": "What is the product when propan-2-ol is oxidized?",
+    "choice1": "Propanoic acid",
+    "choice2": "Propanal",
+    "choice3": "Acetone",
+    "choice4": "Propylene",
+    "answer": 3,
+    "explanation": "Propan-2-ol (isopropanol) is oxidized to acetone (propanone), a ketone."
+  }
+]

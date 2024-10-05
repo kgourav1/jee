@@ -1,0 +1,38 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 5 m with a constant speed of 10 m/s. What is the magnitude of its centripetal acceleration?",
+    "choice1": "2 m/s²",
+    "choice2": "10 m/s²",
+    "choice3": "20 m/s²",
+    "choice4": "15 m/s²",
+    "answer": 3,
+    "explanation": "The formula for centripetal acceleration is \\( a_c = \\frac{v^2}{r} \\). Substituting the given values, \\( a_c = \\frac{10^2}{5} = 20 \\) m/s²."
+  },
+  {
+    "question": "A car moves on a circular road of radius 200 m. If the car's speed is increasing at a rate of 1 m/s², what is the magnitude of its total acceleration when its speed is 20 m/s?",
+    "choice1": "2 m/s²",
+    "choice2": "3 m/s²",
+    "choice3": "5 m/s²",
+    "choice4": "1 m/s²",
+    "answer": 3,
+    "explanation": "Total acceleration is given by \\( a = \\sqrt{a_c^2 + a_t^2} \\), where \\( a_c \\) is the centripetal acceleration and \\( a_t \\) is the tangential acceleration. \\( a_c = \\frac{v^2}{r} = \\frac{20^2}{200} = 2 \\) m/s² and \\( a_t = 1 \\) m/s². Hence, \\( a = \\sqrt{2^2 + 1^2} = \\sqrt{5} = 2.24 \\approx 3 \\) m/s²."
+  },
+  {
+    "question": "A particle is moving in a circular path of radius 10 m. If the angular velocity of the particle is 2 rad/s, what is the linear velocity?",
+    "choice1": "5 m/s",
+    "choice2": "10 m/s",
+    "choice3": "15 m/s",
+    "choice4": "20 m/s",
+    "answer": 2,
+    "explanation": "Linear velocity \\( v \\) is given by \\( v = \\omega r \\). Substituting the values, \\( v = 2 \\times 10 = 20 \\) m/s."
+  },
+  {
+    "question": "The period of revolution of a satellite orbiting around the Earth is T. If the radius of the orbit is doubled, what will be the new period of revolution?",
+    "choice1": "2T",
+    "choice2": "\\( \\sqrt{2}T \\)",
+    "choice3": "\\( 2 \\sqrt{2}T \\)",
+    "choice4": "4T",
+    "answer": 3,
+    "explanation": "For a satellite orbiting around a planet, the period of revolution \\( T \\) is given by \\( T = 2\\pi \\sqrt{\\frac{r^3}{GM}} \\). If the radius is doubled, \\( T' = 2\\pi \\sqrt{\\frac{(2r)^3}{GM}} = 2\\pi \\sqrt{8\\frac{r^3}{GM}} = 2\\sqrt{2}T \\)."
+  }
+]

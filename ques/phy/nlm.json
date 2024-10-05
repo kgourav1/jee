@@ -1,0 +1,74 @@
+[
+  {
+    "question": "A block of mass 5 kg is pushed with a force of 20 N on a horizontal surface. If the coefficient of friction between the block and surface is 0.2, what is the acceleration of the block?",
+    "choice1": "2 m/s²",
+    "choice2": "3 m/s²",
+    "choice3": "1 m/s²",
+    "choice4": "4 m/s²",
+    "answer": 1,
+    "explanation": "The frictional force is given by \\( f = \\mu mg \\), where \\( \\mu = 0.2, m = 5 \\) kg, and \\( g = 10 \\) m/s². So, \\( f = 0.2 \\times 5 \\times 10 = 10 \\) N. The net force is \\( F - f = 20 - 10 = 10 \\) N. Therefore, \\( a = \\frac{F_{net}}{m} = \\frac{10}{5} = 2 \\) m/s²."
+  },
+  {
+    "question": "Two blocks of masses 4 kg and 6 kg are connected by a light string and placed on a smooth horizontal surface. A horizontal force of 20 N is applied to the 6 kg mass. What is the tension in the string?",
+    "choice1": "8 N",
+    "choice2": "12 N",
+    "choice3": "16 N",
+    "choice4": "10 N",
+    "answer": 4,
+    "explanation": "Total mass = 4 + 6 = 10 kg. Acceleration \\( a = \\frac{F}{m} = \\frac{20}{10} = 2 \\) m/s². Tension in the string = mass of 4 kg block × acceleration = \\( 4 \\times 2 = 8 \\) N."
+  },
+  {
+    "question": "A body of mass 10 kg is falling under gravity. What is the net force acting on the body when it reaches terminal velocity?",
+    "choice1": "10 N",
+    "choice2": "100 N",
+    "choice3": "0 N",
+    "choice4": "50 N",
+    "answer": 3,
+    "explanation": "At terminal velocity, the net force acting on the body is zero because the gravitational force is balanced by the drag force. Therefore, the acceleration is zero, and so is the net force."
+  },
+  {
+    "question": "A car of mass 1000 kg is moving with a speed of 20 m/s. The brakes are applied, and the car stops in 10 s. What is the force exerted by the brakes?",
+    "choice1": "2000 N",
+    "choice2": "4000 N",
+    "choice3": "1000 N",
+    "choice4": "3000 N",
+    "answer": 2,
+    "explanation": "The acceleration \\( a \\) is given by \\( a = \\frac{v_f - v_i}{t} = \\frac{0 - 20}{10} = -2 \\) m/s². The force exerted by the brakes is \\( F = ma = 1000 \\times (-2) = -2000 \\) N. The magnitude of the force is 4000 N."
+  },
+  {
+    "question": "A 2 kg block is in equilibrium under the action of two forces, F₁ and F₂. If F₁ = 10 N at 30° to the horizontal, find F₂.",
+    "choice1": "5.8 N",
+    "choice2": "11.6 N",
+    "choice3": "10 N",
+    "choice4": "20 N",
+    "answer": 3,
+    "explanation": "For the block to be in equilibrium, the net force in both the x and y directions should be zero. Resolving F₁ into components, we get \\( F_{1x} = 10 \\cos 30° = 8.66 \\) N and \\( F_{1y} = 10 \\sin 30° = 5 \\) N. To balance the horizontal component, \\( F_2 = F_{1x} = 8.66 \\approx 10 \\) N."
+  },
+  {
+    "question": "A force of 10 N is applied at an angle of 60° with the horizontal to a block of mass 5 kg. What is the horizontal component of the force?",
+    "choice1": "5 N",
+    "choice2": "8.66 N",
+    "choice3": "10 N",
+    "choice4": "15 N",
+    "answer": 1,
+    "explanation": "The horizontal component is given by \\( F_x = F \\cos 60° = 10 \\times \\frac{1}{2} = 5 \\) N."
+  },
+  {
+    "question": "Two forces, 3 N and 4 N, act at right angles to each other. What is the magnitude of the resultant force?",
+    "choice1": "5 N",
+    "choice2": "7 N",
+    "choice3": "1 N",
+    "choice4": "12 N",
+    "answer": 1,
+    "explanation": "The magnitude of the resultant force is given by \\( \\sqrt{3^2 + 4^2} = 5 \\) N."
+  },
+  {
+    "question": "A ball of mass 0.5 kg is struck with a force of 5 N for a time of 0.2 s. What is the impulse delivered to the ball?",
+    "choice1": "1 Ns",
+    "choice2": "2 Ns",
+    "choice3": "0.5 Ns",
+    "choice4": "4 Ns",
+    "answer": 1,
+    "explanation": "Impulse is given by the product of force and time, i.e., \\( I = F \\times t = 5 \\times 0.2 = 1 \\) Ns."
+  }
+]

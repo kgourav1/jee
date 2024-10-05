@@ -1,0 +1,92 @@
+[
+  {
+    "question": "In the reaction 2MnO4^- + 5C2O4^2- + 16H^+ → 2Mn^2+ + 10CO2 + 8H2O, which species is oxidized?",
+    "choice1": "MnO4^-",
+    "choice2": "C2O4^2-",
+    "choice3": "H^+",
+    "choice4": "CO2",
+    "answer": 2,
+    "explanation": "The oxalate ion (C2O4^2-) is oxidized to carbon dioxide (CO2), losing electrons in the process."
+  },
+  {
+    "question": "Which of the following is a characteristic of a redox reaction?",
+    "choice1": "Involves the transfer of protons",
+    "choice2": "Involves the transfer of electrons",
+    "choice3": "Involves the formation of ionic bonds",
+    "choice4": "Involves the formation of covalent bonds",
+    "answer": 2,
+    "explanation": "Redox reactions are characterized by the transfer of electrons between species, leading to changes in oxidation states."
+  },
+  {
+    "question": "What is the oxidation state of sulfur in H2SO4?",
+    "choice1": "+4",
+    "choice2": "+6",
+    "choice3": "+2",
+    "choice4": "0",
+    "answer": 2,
+    "explanation": "In sulfuric acid (H2SO4), the oxidation state of sulfur is +6, calculated by balancing the charges of hydrogen and oxygen."
+  },
+  {
+    "question": "In the reaction 4Fe + 3O2 → 2Fe2O3, which element is reduced?",
+    "choice1": "Fe",
+    "choice2": "O2",
+    "choice3": "Fe2O3",
+    "choice4": "None of the above",
+    "answer": 2,
+    "explanation": "Oxygen (O2) is reduced as it gains electrons to form oxide ions (O^2-) in iron(III) oxide (Fe2O3)."
+  },
+  {
+    "question": "What is the volume of 0.1 M NaOH required to neutralize 50 mL of 0.1 M HCl?",
+    "choice1": "25 mL",
+    "choice2": "50 mL",
+    "choice3": "75 mL",
+    "choice4": "100 mL",
+    "answer": 2,
+    "explanation": "In a 1:1 reaction between NaOH and HCl, 50 mL of 0.1 M HCl requires 50 mL of 0.1 M NaOH for neutralization."
+  },
+  {
+    "question": "Which of the following statements is true about a galvanic cell?",
+    "choice1": "It converts electrical energy into chemical energy",
+    "choice2": "It converts chemical energy into electrical energy",
+    "choice3": "It requires an external power source",
+    "choice4": "It involves only oxidation reactions",
+    "answer": 2,
+    "explanation": "A galvanic cell converts chemical energy from spontaneous redox reactions into electrical energy."
+  },
+  {
+    "question": "In a redox reaction, if the oxidation number of a reactant increases, what happens to that reactant?",
+    "choice1": "It is oxidized",
+    "choice2": "It is reduced",
+    "choice3": "It remains unchanged",
+    "choice4": "It is a spectator ion",
+    "answer": 1,
+    "explanation": "If the oxidation number of a reactant increases, it means the reactant has lost electrons and is therefore oxidized."
+  },
+  {
+    "question": "What is the primary purpose of a titration in volumetric analysis?",
+    "choice1": "To determine the pH of a solution",
+    "choice2": "To determine the concentration of a solution",
+    "choice3": "To separate components of a mixture",
+    "choice4": "To identify unknown substances",
+    "answer": 2,
+    "explanation": "Titration is used to determine the concentration of a solution by reacting it with a solution of known concentration."
+  },
+  {
+    "question": "Which of the following substances can act as a reducing agent?",
+    "choice1": "Cl2",
+    "choice2": "H2O",
+    "choice3": "Zn",
+    "choice4": "NaCl",
+    "answer": 3,
+    "explanation": "Zinc (Zn) can act as a reducing agent because it can donate electrons and reduce other substances."
+  },
+  {
+    "question": "What is the endpoint of a titration?",
+    "choice1": "When the titrant is added to the analyte",
+    "choice2": "When the color of the solution changes permanently",
+    "choice3": "When all the analyte is consumed",
+    "choice4": "When the pH of the solution reaches 7",
+    "answer": 2,
+    "explanation": "The endpoint of a titration is indicated by a permanent color change in the solution, indicating that the reaction is complete."
+  }
+]

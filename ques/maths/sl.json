@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Let A(-1,1) and B(2,3) be two points and P be a variable point above the line AB such that the area of triangle PAB is 10. If the locus of P is ax + by = 15, then 5a + 2b is :",
+    "choice1": "-12/5",
+    "choice2": "-6/5",
+    "choice3": "6",
+    "choice4": "4",
+    "answer": 1,
+    "explanation": "The area of a triangle with vertices A(x1, y1), B(x2, y2), and P(x, y) can be found using the formula: |(1/2)[x1(y2 - y) + x2(y - y1) + x(y1 - y2)]|. By substituting the values and simplifying, you can find the equation of the line representing the locus of P, from which 5a + 2b = -12/5."
+  },
+  {
+    "question": "Find the value of 'k' if the line 3x - 4y = 5 passes through the point of intersection of the lines x + 2y = 3 and 2x - y = k.",
+    "choice1": "7",
+    "choice2": "4",
+    "choice3": "5",
+    "choice4": "2",
+    "answer": 1,
+    "explanation": "Find the point of intersection of the lines x + 2y = 3 and 2x - y = k by solving them simultaneously. After obtaining the point of intersection, substitute it into the line 3x - 4y = 5 to find the value of k."
+  },
+  {
+    "question": "A line L passes through the point (1, 2) and is perpendicular to the line joining (1, 1) and (2, 2). What is the equation of L?",
+    "choice1": "x + y = 3",
+    "choice2": "y = 2x - 1",
+    "choice3": "x - y = -1",
+    "choice4": "2x + y = 4",
+    "answer": 1,
+    "explanation": "First, find the slope of the line joining (1, 1) and (2, 2). Then, find the slope of the line perpendicular to it (negative reciprocal). Use point-slope form to find the equation of L using the point (1, 2)."
+  },
+  {
+    "question": "The line 3x + 4y = 7 intersects the y-axis at:",
+    "choice1": "(0, 7/4)",
+    "choice2": "(7/3, 0)",
+    "choice3": "(0, -7/4)",
+    "choice4": "(-7/3, 0)",
+    "answer": 1,
+    "explanation": "To find the y-intercept of the line, substitute x = 0 into the equation 3x + 4y = 7. This gives y = 7/4. So, the line intersects the y-axis at (0, 7/4)."
+  },
+  {
+    "question": "If the lines 2x - y = 5 and 4x + ky = 10 are perpendicular, then the value of k is:",
+    "choice1": "-1/2",
+    "choice2": "2",
+    "choice3": "-2",
+    "choice4": "1/2",
+    "answer": 3,
+    "explanation": "Two lines are perpendicular if the product of their slopes is -1. Find the slopes of the given lines (m1 and m2). For the lines to be perpendicular, m1 * m2 = -1. Substitute the values to find k."
+  },
+  {
+    "question": "The coordinates of the foot of the perpendicular drawn from the point (3, 4) to the line x - 2y + 4 = 0 are:",
+    "choice1": "(1, 1)",
+    "choice2": "(2, 3)",
+    "choice3": "(0, 2)",
+    "choice4": "(2, 0)",
+    "answer": 1,
+    "explanation": "Use the formula for the foot of the perpendicular: [(x1 - am)/(1 + m^2), (y1 + a)/(1 + m^2)], where m is the slope of the given line and a is the constant. Substitute the values to get the coordinates."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Find the equation of the circle passing through the origin and having its center at (2, 3):",
+    "choice1": "x^2 + y^2 - 4x - 6y = 0",
+    "choice2": "x^2 + y^2 - 2x - 3y = 0",
+    "choice3": "x^2 + y^2 - 4x - 6y = -13",
+    "choice4": "x^2 + y^2 + 4x + 6y = -13",
+    "answer": 3,
+    "explanation": "The general equation of a circle is (x - h)^2 + (y - k)^2 = r^2, where (h, k) is the center. Plug in the center (2, 3) and the point (0, 0) to find the radius. Substitute back to get the equation."
+  },
+  {
+    "question": "The radius of the circle x^2 + y^2 - 4x + 6y - 12 = 0 is:",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "5",
+    "choice4": "4",
+    "answer": 3,
+    "explanation": "Rewrite the equation in standard form by completing the square: (x - 2)^2 + (y + 3)^2 = r^2. Compare it with (x - h)^2 + (y - k)^2 = r^2 to get the radius as 5."
+  },
+  {
+    "question": "The line 2x - 3y = 5 is a tangent to a circle with center (1, -2). The radius of the circle is:",
+    "choice1": "4/5",
+    "choice2": "5/2",
+    "choice3": "3",
+    "choice4": "2",
+    "answer": 1,
+    "explanation": "The distance between the center of the circle and the line is the radius. Use the formula: Distance = |Ax1 + By1 + C| / √(A^2 + B^2). Substituting A = 2, B = -3, C = -5, and center (1, -2), the radius is 4/5."
+  },
+  {
+    "question": "The equation of the circle with diameter having endpoints (1, -3) and (4, 5) is:",
+    "choice1": "x^2 + y^2 - 5x - 2y + 4 = 0",
+    "choice2": "x^2 + y^2 - 3x + 2y - 4 = 0",
+    "choice3": "x^2 + y^2 - 5x - 2y - 12 = 0",
+    "choice4": "x^2 + y^2 - 3x + 2y - 12 = 0",
+    "answer": 3,
+    "explanation": "Find the center of the circle, which is the midpoint of the diameter, and the radius, which is half the distance between the endpoints. Use the standard circle equation: (x - h)^2 + (y - k)^2 = r^2."
+  },
+  {
+    "question": "The line y = mx + 3 is a tangent to the circle x^2 + y^2 = 25. The value of m is:",
+    "choice1": "±4/3",
+    "choice2": "3/4",
+    "choice3": "-3/4",
+    "choice4": "±3/4",
+    "answer": 4,
+    "explanation": "The line y = mx + c is tangent to a circle x^2 + y^2 = r^2 if c^2 = r^2(1 + m^2). Substitute c = 3 and r = 5 to find m. Solving, you get ±3/4."
+  },
+  {
+    "question": "Find the length of the chord of the circle x^2 + y^2 = 25, which is cut off by the line 3x - 4y = 0:",
+    "choice1": "5",
+    "choice2": "10",
+    "choice3": "15",
+    "choice4": "20",
+    "answer": 2,
+    "explanation": "Use the formula for the length of a chord: Length = 2√(r^2 - d^2), where d is the perpendicular distance from the center to the line. Calculate d using the distance formula and r = 5."
+  },
+  {
+    "question": "If a circle has a radius of 5 and touches the x-axis at (3, 0), the center of the circle is:",
+    "choice1": "(3, 5)",
+    "choice2": "(3, -5)",
+    "choice3": "(-3, 5)",
+    "choice4": "(0, 5)",
+    "answer": 1,
+    "explanation": "If the circle touches the x-axis at (3, 0), then its center must be at (3, r) or (3, -r). Substituting r = 5, the center is (3, 5)."
+  },
+  {
+    "question": "Find the equation of a circle having its center at (1, 2) and passing through the point (3, 4):",
+    "choice1": "x^2 + y^2 - 2x - 4y = -8",
+    "choice2": "x^2 + y^2 - 2x - 4y = -14",
+    "choice3": "x^2 + y^2 + 2x - 4y = -14",
+    "choice4": "x^2 + y^2 - 4x + 6y = -4",
+    "answer": 2,
+    "explanation": "Use the formula (x - h)^2 + (y - k)^2 = r^2, where (h, k) is the center and (x, y) is the point on the circle. Substitute (1, 2) and (3, 4) to find r^2, and then write the equation."
+  }
+]
