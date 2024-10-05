@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>High Scores</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/highscores.css" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div id="highScores" class="flex-center flex-column">
+        <h1 id="finalScore" class="title">
+          Leaderboard
+          <span
+            id="clearLeaderboard"
+            class="delete-btn"
+            title="Clear the leaderboard"
+          >
+            <i class="fas fa-trash-alt"></i>
+          </span>
+        </h1>
+
+        <div id="highScoresList"></div>
+        <a href="./" class="btn">Go Home <i class="fas fa-home"></i></a>
+      </div>
+    </div>
+
+    <script src="./js/highscores.js"></script>
+  </body>
+</html>

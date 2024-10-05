@@ -1,0 +1,169 @@
+/* Base styling for the entire body */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/* Container to center the game content */
+.container {
+  width: 100%;
+  max-width: 1000px;
+  padding: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+/* Overall game styling */
+#game {
+  text-align: center;
+}
+
+/* Header section styles for the HUD */
+#hud {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Progress bar container */
+#progressBar {
+  background-color: #e0e0e0;
+  border-radius: 25px;
+  overflow: hidden;
+  width: 100%;
+  height: 10px;
+  margin-top: 5px;
+}
+
+#progressBarFull {
+  height: 100%;
+  width: 0;
+  background-color: #4caf50;
+  transition: width 0.4s ease-in-out;
+}
+
+/* HUD item styling */
+.hud-item {
+  flex: 1;
+  text-align: center;
+}
+
+/* Text styling for the HUD */
+.hud-prefix {
+  font-size: 18px;
+  font-weight: 600;
+  color: #666;
+}
+
+.hud-main-text {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333;
+}
+
+/* Question styling */
+#question {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 30px 0;
+  line-height: 1.5; /* Increase line height for better readability */
+}
+
+/* Choice container */
+.choice-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f1f1f1;
+  padding: 15px 20px;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.choice-container:hover {
+  background-color: #e0f7fa; /* Light teal background on hover */
+}
+
+/* Prefix styling for choices (A, B, C, D) */
+.choice-prefix {
+  font-size: 20px;
+  font-weight: bold;
+  color: #26a69a;
+}
+
+/* Text for each choice */
+.choice-text {
+  flex: 1;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+/* Styling for selected choices */
+.choice-container.correct {
+  border-color: #4caf50;
+  background-color: #e8f5e9;
+}
+
+.choice-container.incorrect {
+  border-color: #f44336;
+  background-color: #ffebee;
+}
+
+/* Skip button styling */
+.skip-btn {
+  margin-top: 20px;
+  padding: 15px 30px;
+  background-color: #42a5f5;
+  color: #ffffff;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.skip-btn:hover {
+  background-color: #1e88e5;
+}
+
+/* MathJax styling */
+.mathjax {
+  font-size: 20px; /* Font size for MathJax content */
+  color: #333;
+  line-height: 1.6; /* Line height for better readability */
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+
+  #question {
+    font-size: 18px;
+  }
+
+  .choice-text {
+    font-size: 16px;
+  }
+
+  .skip-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}

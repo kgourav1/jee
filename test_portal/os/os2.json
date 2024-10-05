@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Two blocks of masses 3 kg and 2 kg are moving towards each other with velocities of 4 m/s and 6 m/s, respectively. What is the velocity of the center of mass of the system?",
+    "choice1": "1.2 m/s",
+    "choice2": "0 m/s",
+    "choice3": "3 m/s",
+    "choice4": "2 m/s",
+    "answer": 1,
+    "explanation": "The velocity of the center of mass \\( V_{cm} = \\frac{m_1v_1 + m_2v_2}{m_1 + m_2} = \\frac{3 \\cdot 4 + 2 \\cdot (-6)}{3 + 2} = \\frac{12 - 12}{5} = 0 \\) m/s."
+  },
+  {
+    "question": "A 5 kg object moving at 10 m/s collides elastically with a 3 kg object at rest. What is the final velocity of the 3 kg object after the collision?",
+    "choice1": "4 m/s",
+    "choice2": "5 m/s",
+    "choice3": "3.75 m/s",
+    "choice4": "6 m/s",
+    "answer": 1,
+    "explanation": "Using conservation of momentum and kinetic energy for elastic collisions, we find that the final velocity of the 3 kg object is 4 m/s."
+  },
+  {
+    "question": "In a perfectly inelastic collision, a 2 kg object moving at 3 m/s collides with a stationary 4 kg object. What is the final velocity of the combined mass?",
+    "choice1": "2 m/s",
+    "choice2": "1 m/s",
+    "choice3": "3 m/s",
+    "choice4": "4 m/s",
+    "answer": 1,
+    "explanation": "Using conservation of momentum, \\( m_1v_1 + m_2v_2 = (m_1 + m_2)v_f \\). Thus, \\( (2 \\times 3 + 0) = (2 + 4)v_f \\), giving \\( v_f = 1 \\) m/s."
+  },
+  {
+    "question": "A 10 kg cart moving at 5 m/s collides with a 15 kg cart moving at 2 m/s in the same direction. What is the velocity of the center of mass after the collision if they stick together?",
+    "choice1": "2.5 m/s",
+    "choice2": "3.75 m/s",
+    "choice3": "4 m/s",
+    "choice4": "5 m/s",
+    "answer": 2,
+    "explanation": "Using conservation of momentum, \\( V_{cm} = \\frac{m_1v_1 + m_2v_2}{m_1 + m_2} = \\frac{10 \\cdot 5 + 15 \\cdot 2}{10 + 15} = \\frac{50 + 30}{25} = 3.2 \\) m/s."
+  },
+  {
+    "question": "A ball of mass 0.5 kg moving at 3 m/s collides elastically with a stationary ball of mass 0.5 kg. What is the final velocity of the first ball after the collision?",
+    "choice1": "1.5 m/s",
+    "choice2": "0 m/s",
+    "choice3": "3 m/s",
+    "choice4": "1 m/s",
+    "answer": 1,
+    "explanation": "In an elastic collision with equal masses, the velocities are exchanged. Thus, the final velocity of the first ball becomes 0 m/s."
+  },
+  {
+    "question": "Two bodies of masses 1 kg and 2 kg collide elastically. If the first body was moving with a velocity of 4 m/s, what is the velocity of the second body after the collision?",
+    "choice1": "3 m/s",
+    "choice2": "1 m/s",
+    "choice3": "2 m/s",
+    "choice4": "4 m/s",
+    "answer": 2,
+    "explanation": "Using the elastic collision formulas, the final velocity of the second body can be calculated using \\( v_{2f} = \\frac{2m_1v_{1i} + (m_2 - m_1)v_{2i}}{m_1 + m_2} = \\frac{2 \\cdot 1 \\cdot 4 + (2 - 1) \\cdot 0}{1 + 2} = 2 \\) m/s."
+  },
+  {
+    "question": "If the momentum of an object is 50 kg·m/s and its mass is 10 kg, what is its velocity?",
+    "choice1": "5 m/s",
+    "choice2": "10 m/s",
+    "choice3": "50 m/s",
+    "choice4": "2 m/s",
+    "answer": 1,
+    "explanation": "Momentum \\( p = mv \\), so \\( v = \\frac{p}{m} = \\frac{50}{10} = 5 \\) m/s."
+  },
+  {
+    "question": "A bullet of mass 0.02 kg is fired into a block of mass 2 kg at rest. If the bullet embeds itself in the block, what is the final velocity of the system immediately after the collision?",
+    "choice1": "0.1 m/s",
+    "choice2": "0.5 m/s",
+    "choice3": "1 m/s",
+    "choice4": "2 m/s",
+    "answer": 1,
+    "explanation": "Using conservation of momentum, \\( m_{bullet}v_{bullet} + m_{block}v_{block} = (m_{bullet} + m_{block})v_f \\). If the bullet's velocity is 300 m/s, then \\( (0.02 \\cdot 300 + 2 cdot 0) = (0.02 + 2)v_f \\), giving \\( v_f = \\frac{6}{2.02} \\approx 0.1 \\) m/s."
+  },
+  {
+    "question": "A 4 kg object moving at 6 m/s collides with a 2 kg object at rest. If the collision is perfectly elastic, what is the speed of the 2 kg object after the collision?",
+    "choice1": "4 m/s",
+    "choice2": "2 m/s",
+    "choice3": "3 m/s",
+    "choice4": "1 m/s",
+    "answer": 2,
+    "explanation": "Using the conservation of momentum and kinetic energy equations for elastic collisions, the final speed of the 2 kg object is found to be 4 m/s."
+  },
+  {
+    "question": "In a head-on elastic collision between two equal masses, if one mass is initially at rest, what fraction of the kinetic energy is transferred from one mass to the other?",
+    "choice1": "1/4",
+    "choice2": "1/2",
+    "choice3": "3/4",
+    "choice4": "1/3",
+    "answer": 2,
+    "explanation": "In a head-on elastic collision between equal masses, half of the initial kinetic energy is transferred to the other mass."
+  },
+  {
+    "question": "A particle moves in a circle of radius 5 m with a constant speed of 10 m/s. What is the magnitude of its centripetal acceleration?",
+    "choice1": "2 m/s²",
+    "choice2": "10 m/s²",
+    "choice3": "20 m/s²",
+    "choice4": "15 m/s²",
+    "answer": 3,
+    "explanation": "The formula for centripetal acceleration is \\( a_c = \\frac{v^2}{r} \\). Substituting the given values, \\( a_c = \\frac{10^2}{5} = 20 \\) m/s²."
+  },
+  {
+    "question": "A car moves on a circular road of radius 200 m. If the car's speed is increasing at a rate of 1 m/s², what is the magnitude of its total acceleration when its speed is 20 m/s?",
+    "choice1": "2 m/s²",
+    "choice2": "3 m/s²",
+    "choice3": "5 m/s²",
+    "choice4": "1 m/s²",
+    "answer": 3,
+    "explanation": "Total acceleration is given by \\( a = \\sqrt{a_c^2 + a_t^2} \\), where \\( a_c \\) is the centripetal acceleration and \\( a_t \\) is the tangential acceleration. \\( a_c = \\frac{v^2}{r} = \\frac{20^2}{200} = 2 \\) m/s² and \\( a_t = 1 \\) m/s². Hence, \\( a = \\sqrt{2^2 + 1^2} = \\sqrt{5} = 2.24 \\approx 3 \\) m/s²."
+  },
+  {
+    "question": "A particle is moving in a circular path of radius 10 m. If the angular velocity of the particle is 2 rad/s, what is the linear velocity?",
+    "choice1": "5 m/s",
+    "choice2": "10 m/s",
+    "choice3": "15 m/s",
+    "choice4": "20 m/s",
+    "answer": 2,
+    "explanation": "Linear velocity \\( v \\) is given by \\( v = \\omega r \\). Substituting the values, \\( v = 2 \\times 10 = 20 \\) m/s."
+  },
+  {
+    "question": "The period of revolution of a satellite orbiting around the Earth is T. If the radius of the orbit is doubled, what will be the new period of revolution?",
+    "choice1": "2T",
+    "choice2": "\\( \\sqrt{2}T \\)",
+    "choice3": "\\( 2 \\sqrt{2}T \\)",
+    "choice4": "4T",
+    "answer": 3,
+    "explanation": "For a satellite orbiting around a planet, the period of revolution \\( T \\) is given by \\( T = 2\\pi \\sqrt{\\frac{r^3}{GM}} \\). If the radius is doubled, \\( T' = 2\\pi \\sqrt{\\frac{(2r)^3}{GM}} = 2\\pi \\sqrt{8\\frac{r^3}{GM}} = 2\\sqrt{2}T \\)."
+  },
+  {
+    "question": "A block of mass 5 kg is pushed with a force of 20 N on a horizontal surface. If the coefficient of friction between the block and surface is 0.2, what is the acceleration of the block?",
+    "choice1": "2 m/s²",
+    "choice2": "3 m/s²",
+    "choice3": "1 m/s²",
+    "choice4": "4 m/s²",
+    "answer": 1,
+    "explanation": "The frictional force is given by \\( f = \\mu mg \\), where \\( \\mu = 0.2, m = 5 \\) kg, and \\( g = 10 \\) m/s². So, \\( f = 0.2 \\times 5 \\times 10 = 10 \\) N. The net force is \\( F - f = 20 - 10 = 10 \\) N. Therefore, \\( a = \\frac{F_{net}}{m} = \\frac{10}{5} = 2 \\) m/s²."
+  },
+  {
+    "question": "Two blocks of masses 4 kg and 6 kg are connected by a light string and placed on a smooth horizontal surface. A horizontal force of 20 N is applied to the 6 kg mass. What is the tension in the string?",
+    "choice1": "8 N",
+    "choice2": "12 N",
+    "choice3": "16 N",
+    "choice4": "10 N",
+    "answer": 4,
+    "explanation": "Total mass = 4 + 6 = 10 kg. Acceleration \\( a = \\frac{F}{m} = \\frac{20}{10} = 2 \\) m/s². Tension in the string = mass of 4 kg block × acceleration = \\( 4 \\times 2 = 8 \\) N."
+  },
+  {
+    "question": "A body of mass 10 kg is falling under gravity. What is the net force acting on the body when it reaches terminal velocity?",
+    "choice1": "10 N",
+    "choice2": "100 N",
+    "choice3": "0 N",
+    "choice4": "50 N",
+    "answer": 3,
+    "explanation": "At terminal velocity, the net force acting on the body is zero because the gravitational force is balanced by the drag force. Therefore, the acceleration is zero, and so is the net force."
+  },
+  {
+    "question": "A car of mass 1000 kg is moving with a speed of 20 m/s. The brakes are applied, and the car stops in 10 s. What is the force exerted by the brakes?",
+    "choice1": "2000 N",
+    "choice2": "4000 N",
+    "choice3": "1000 N",
+    "choice4": "3000 N",
+    "answer": 2,
+    "explanation": "The acceleration \\( a \\) is given by \\( a = \\frac{v_f - v_i}{t} = \\frac{0 - 20}{10} = -2 \\) m/s². The force exerted by the brakes is \\( F = ma = 1000 \\times (-2) = -2000 \\) N. The magnitude of the force is 4000 N."
+  },
+  {
+    "question": "A 2 kg block is in equilibrium under the action of two forces, F₁ and F₂. If F₁ = 10 N at 30° to the horizontal, find F₂.",
+    "choice1": "5.8 N",
+    "choice2": "11.6 N",
+    "choice3": "10 N",
+    "choice4": "20 N",
+    "answer": 3,
+    "explanation": "For the block to be in equilibrium, the net force in both the x and y directions should be zero. Resolving F₁ into components, we get \\( F_{1x} = 10 \\cos 30° = 8.66 \\) N and \\( F_{1y} = 10 \\sin 30° = 5 \\) N. To balance the horizontal component, \\( F_2 = F_{1x} = 8.66 \\approx 10 \\) N."
+  },
+  {
+    "question": "A force of 10 N is applied at an angle of 60° with the horizontal to a block of mass 5 kg. What is the horizontal component of the force?",
+    "choice1": "5 N",
+    "choice2": "8.66 N",
+    "choice3": "10 N",
+    "choice4": "15 N",
+    "answer": 1,
+    "explanation": "The horizontal component is given by \\( F_x = F \\cos 60° = 10 \\times \\frac{1}{2} = 5 \\) N."
+  },
+  {
+    "question": "Two forces, 3 N and 4 N, act at right angles to each other. What is the magnitude of the resultant force?",
+    "choice1": "5 N",
+    "choice2": "7 N",
+    "choice3": "1 N",
+    "choice4": "12 N",
+    "answer": 1,
+    "explanation": "The magnitude of the resultant force is given by \\( \\sqrt{3^2 + 4^2} = 5 \\) N."
+  },
+  {
+    "question": "A ball of mass 0.5 kg is struck with a force of 5 N for a time of 0.2 s. What is the impulse delivered to the ball?",
+    "choice1": "1 Ns",
+    "choice2": "2 Ns",
+    "choice3": "0.5 Ns",
+    "choice4": "4 Ns",
+    "answer": 1,
+    "explanation": "Impulse is given by the product of force and time, i.e., \\( I = F \\times t = 5 \\times 0.2 = 1 \\) Ns."
+  },
+  {
+    "question": "A force of 15 N is applied to move an object 4 m in the direction of the force. What is the work done on the object?",
+    "choice1": "60 J",
+    "choice2": "30 J",
+    "choice3": "45 J",
+    "choice4": "75 J",
+    "answer": 1,
+    "explanation": "Work done \\( W \\) is calculated using the formula \\( W = F \\cdot d \\cdot \\cos(\\theta) \\). Here, \\( \\theta = 0° \\) since the force is in the direction of motion, so \\( W = 15 \\cdot 4 cdot 1 = 60 \\) J."
+  },
+  {
+    "question": "An object gains 100 J of kinetic energy. If its mass is 2 kg, what is its final speed?",
+    "choice1": "5 m/s",
+    "choice2": "10 m/s",
+    "choice3": "7.07 m/s",
+    "choice4": "12.5 m/s",
+    "answer": 1,
+    "explanation": "Kinetic energy \\( KE \\) is given by the formula \\( KE = \\frac{1}{2} mv^2 \\). Rearranging gives \\( v = \\sqrt{\\frac{2 KE}{m}} = \\sqrt{\\frac{2 \\times 100}{2}} = \\sqrt{100} = 10 \\) m/s."
+  },
+  {
+    "question": "If 200 J of work is done in 5 seconds, what is the power developed?",
+    "choice1": "20 W",
+    "choice2": "40 W",
+    "choice3": "50 W",
+    "choice4": "60 W",
+    "answer": 2,
+    "explanation": "Power \\( P \\) is given by the formula \\( P = \\frac{W}{t} \\). Therefore, \\( P = \\frac{200}{5} = 40 \\) W."
+  },
+  {
+    "question": "A 10 kg object is lifted to a height of 5 m. What is the gravitational potential energy gained by the object?",
+    "choice1": "50 J",
+    "choice2": "100 J",
+    "choice3": "200 J",
+    "choice4": "500 J",
+    "answer": 4,
+    "explanation": "Gravitational potential energy \\( PE \\) is given by the formula \\( PE = mgh \\). Substituting the values, \\( PE = 10 \\times 9.8 \times 5 = 490 \\) J."
+  },
+  {
+    "question": "A car performs 600 J of work in moving a distance of 300 m. What is the average force applied by the car?",
+    "choice1": "2 N",
+    "choice2": "5 N",
+    "choice3": "10 N",
+    "choice4": "15 N",
+    "answer": 2,
+    "explanation": "Using the work formula \\( W = F cdot d \\), we can rearrange to find \\( F = \\frac{W}{d} = \\frac{600}{300} = 2 \\) N."
+  },
+  {
+    "question": "What is the work done by a conservative force when an object is moved along a closed path?",
+    "choice1": "Zero",
+    "choice2": "Positive",
+    "choice3": "Negative",
+    "choice4": "Equal to the total energy",
+    "answer": 1,
+    "explanation": "The work done by a conservative force along a closed path is zero because the initial and final positions are the same."
+  },
+  {
+    "question": "If a machine has an efficiency of 80% and uses 1000 J of energy, what is the useful work output?",
+    "choice1": "800 J",
+    "choice2": "500 J",
+    "choice3": "100 J",
+    "choice4": "200 J",
+    "answer": 1,
+    "explanation": "Useful work output = efficiency × input energy = 0.80 × 1000 J = 800 J."
+  },
+  {
+    "question": "A spring has a spring constant of 200 N/m. How much work is done in compressing the spring by 0.1 m?",
+    "choice1": "1 J",
+    "choice2": "2 J",
+    "choice3": "0.5 J",
+    "choice4": "4 J",
+    "answer": 1,
+    "explanation": "The work done on the spring is given by \\( W = \\frac{1}{2} k x^2 \\). Substituting the values, \\( W = \\frac{1}{2} \\cdot 200 \\cdot (0.1)^2 = 1 \\) J."
+  }
+]
