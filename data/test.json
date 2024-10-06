@@ -1,18 +1,20 @@
 {
   "Maths": [
-    { "name": "Straight Lines" },
-    { "name": "Circle" },
-    { "name": "Limits" }
+    { "name": "Trigonometrical Ratios, Functions and Identities" },
+    { "name": "Trigonometrical Equations and Inequations" },
+    { "name": "Inverse Trigonometric Functions" },
+    { "name": "Differentiation" },
+    { "name": "Application of Derivatives" },
+    { "name": "Matrices and Determinants" }
   ],
   "Physics": [
-    { "name": "Circular Motion" },
-    { "name": "Newton’s Laws of Motion" },
-    { "name": "Work, Power and Energy" },
-    { "name": "Center of Mass and Momentum Conservation (Collision)" }
+    { "name": "Motion in One Dimension" },
+    { "name": "Motion in Two Dimension and Projectile Motion" },
+    { "name": "Current Electricity" }
   ],
   "Chemistry": [
-    { "name": "Chemical Bonding and Molecular Structure" },
-    { "name": "Redox Reactions and Volumetric Analysis" },
-    { "name": "General Organic Chemistry" }
+    { "name": "Chemical Equilibrium" },
+    { "name": "Isomerism of Organic Compounds" },
+    { "name": "Coordination Compounds" }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "Maths": [
+    { "name": "Straight Lines" },
+    { "name": "Circle" },
+    { "name": "Limits" }
+  ],
+  "Physics": [
+    { "name": "Circular Motion" },
+    { "name": "Newton’s Laws of Motion" },
+    { "name": "Work, Power and Energy" },
+    { "name": "Center of Mass and Momentum Conservation (Collision)" }
+  ],
+  "Chemistry": [
+    { "name": "Chemical Bonding and Molecular Structure" },
+    { "name": "Redox Reactions and Volumetric Analysis" },
+    { "name": "General Organic Chemistry" }
+  ]
+}
