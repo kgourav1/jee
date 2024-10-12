@@ -10,7 +10,14 @@ function showHome(subject) {
   playButton.href = `./game.html?sub=${subject}`;
 }
 
-let sub = ["Maths", "Chemistry", "Physics"];
+let sub = [
+  "Math 06/10",
+  "Chem 06/10",
+  "Phys 06/10",
+  "Maths 13/10",
+  "Chem 13/10",
+  "Phys 13/10",
+];
 
 // Function to create a subject button
 function createSubjectButton(setNumber) {
@@ -31,7 +38,7 @@ function createSubjectButtons() {
   // Get the subjects container element
   var subjectsContainer = document.querySelector(".subjects");
   // Loop to create buttons for sets 0 to 4
-  for (var i = 0; i < 3; i++) {
+  for (var i = 0; i < 6; i++) {
     // Create subject button
     var subjectButton = createSubjectButton(i);
     // Append the created button to the subjects container
