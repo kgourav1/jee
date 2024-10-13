@@ -11,7 +11,14 @@ function getUrlParameter(name) {
   return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 //subject mapping
-let sub = ["Maths", "Chemistry", "Physics"];
+let sub = [
+  "Math 06/10",
+  "Chem 06/10",
+  "Phys 06/10",
+  "Maths 13/10",
+  "Chem 13/10",
+  "Phys 13/10",
+];
 
 const map = {};
 for (let i = 0; i < 5; i++) {
