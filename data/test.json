@@ -1,20 +1,17 @@
 {
   "Maths": [
-    { "name": "Trigonometrical Ratios, Functions and Identities" },
-    { "name": "Trigonometrical Equations and Inequations" },
-    { "name": "Inverse Trigonometric Functions" },
-    { "name": "Differentiation" },
-    { "name": "Application of Derivatives" },
-    { "name": "Matrices and Determinants" }
+    { "name": "Functions" },
+    { "name": "Quadratic Equations" },
+    { "name": "Logarithmic" }
   ],
   "Physics": [
-    { "name": "Motion in One Dimension" },
-    { "name": "Motion in Two Dimension and Projectile Motion" },
-    { "name": "Current Electricity" }
+    { "name": "Electrostatics" },
+    { "name": "Ray Optics" },
+    { "name": "Gravitation" }
   ],
   "Chemistry": [
-    { "name": "Chemical Equilibrium" },
-    { "name": "Isomerism of Organic Compounds" },
-    { "name": "Coordination Compounds" }
+    { "name": "d and f Block Elements" },
+    { "name": "Solutions and Colligative Properties" },
+    { "name": "Chemical Kinetics" }
   ]
 }

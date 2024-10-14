@@ -19,6 +19,7 @@ const syllabus = {
     "Ellipse",
     "Hyperbola",
     "Limits",
+    "Logarithmic",
     "Mathematical Reasoning",
     "Statistics",
     "Probability",

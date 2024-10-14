@@ -1,0 +1,19 @@
+{
+  "Maths": [
+    { "name": "Trigonometrical Ratios, Functions and Identities" },
+    { "name": "Trigonometrical Equations and Inequations" },
+    { "name": "Inverse Trigonometric Functions" },
+    { "name": "Differentiation" },
+    { "name": "Matrices and Determinants" }
+  ],
+  "Physics": [
+    { "name": "Motion in One Dimension" },
+    { "name": "Motion in Two Dimension and Projectile Motion" },
+    { "name": "Current Electricity" }
+  ],
+  "Chemistry": [
+    { "name": "Chemical Equilibrium" },
+    { "name": "Isomerism of Organic Compounds" },
+    { "name": "Coordination Compounds" }
+  ]
+}

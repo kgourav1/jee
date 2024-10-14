@@ -4,7 +4,7 @@ const countdownElement = document.getElementById("countdown");
 const testDateElement = document.getElementById("test-date");
 
 // Set the test date (ensure it matches the date in HTML)
-const testDate = new Date("October 13, 2024 00:00:00").getTime();
+const testDate = new Date("October 20, 2024 00:00:00").getTime();
 
 function updateCountdown() {
   const now = new Date().getTime();
