@@ -233,3 +233,22 @@ td.total-score {
     width: calc(100% / 4);
   }
 }
+
+.dates {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  .btn {
+    width: 15rem;
+  }
+}
+
+.disabled {
+  background-color: #ccc; /* Gray background */
+  color: #666; /* Darker gray text */
+  pointer-events: none; /* Disable clicking */
+  cursor: not-allowed; /* Change cursor to indicate disabled state */
+}

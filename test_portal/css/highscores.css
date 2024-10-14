@@ -1,10 +1,6 @@
 body {
   color: #fff;
 }
-#highScoresList {
-  list-style: none;
-  margin-bottom: 4rem;
-}
 
 .high-score {
   font-size: 2.8rem;
@@ -17,4 +13,31 @@ body {
   position: relative;
   top: -10px;
   cursor: pointer;
+}
+
+#highScoresList {
+  list-style: none;
+  margin-bottom: 4rem;
+  height: 60vh;
+  overflow: auto;
+}
+
+/* WebKit-based browsers (Chrome, Safari) */
+#highScoresList::-webkit-scrollbar {
+  width: 5px; /* Set the width of the scrollbar */
+}
+
+#highScoresList::-webkit-scrollbar-track {
+  background: transparent; /* Background of the track */
+}
+
+#highScoresList::-webkit-scrollbar-thumb {
+  background-color: green; /* Color of the scrollbar thumb */
+  border-radius: 5px; /* Rounded corners for the thumb */
+}
+
+/* Firefox */
+#highScoresList {
+  scrollbar-width: thin; /* For Firefox */
+  scrollbar-color: green transparent; /* thumb color and track color */
 }

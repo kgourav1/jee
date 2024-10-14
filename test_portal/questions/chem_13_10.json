@@ -1,0 +1,272 @@
+[
+  {
+    "question": "For the reaction \\(N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)\\), the equilibrium constant \\(K_c\\) is 0.5 at a certain temperature. If the initial concentrations are \\([N_2] = 0.2 \\, M\\) and \\([H_2] = 0.3 \\, M\\), what is the equilibrium concentration of \\([NH_3]\\)?",
+    "choice1": "0.1 M",
+    "choice2": "0.2 M",
+    "choice3": "0.4 M",
+    "choice4": "0.3 M",
+    "answer": 3,
+    "explanation": "Using the ICE table and the equilibrium expression, we find \\(K_c = \\frac{[NH_3]^2}{[N_2][H_2]^3} = 0.5\\) leads to the equilibrium concentration of \\([NH_3] = 0.4 \\, M\\)."
+  },
+  {
+    "question": "According to Le Chatelier’s principle, what will happen to the equilibrium position of the reaction \\(A(g) + B(g) \\rightleftharpoons C(g) + D(g)\\) if the volume of the container is decreased?",
+    "choice1": "Shift to the right",
+    "choice2": "Shift to the left",
+    "choice3": "No change",
+    "choice4": "Depends on temperature",
+    "answer": 1,
+    "explanation": "Decreasing the volume increases the pressure, and the equilibrium will shift toward the side with fewer moles of gas."
+  },
+  {
+    "question": "In a saturated solution of \\(BaSO_4\\), the concentrations are \\([Ba^{2+}] = 1.0 \\, \\times 10^{-5} M\\) and \\([SO_4^{2-}] = 1.0 \\, \\times 10^{-5} M\\). Calculate the solubility product \\(K_{sp}\\).",
+    "choice1": "\\(1.0 \\times 10^{-10}\\)",
+    "choice2": "\\(1.0 \\times 10^{-20}\\)",
+    "choice3": "\\(1.0 \\times 10^{-30}\\)",
+    "choice4": "\\(1.0 \\times 10^{-15}\\)",
+    "answer": 1,
+    "explanation": "The solubility product \\(K_{sp} = [Ba^{2+}][SO_4^{2-}] = (1.0 \\times 10^{-5})(1.0 \\times 10^{-5}) = 1.0 \\times 10^{-10}\\)."
+  },
+  {
+    "question": "How does an increase in temperature affect the equilibrium constant of an exothermic reaction?",
+    "choice1": "Increases",
+    "choice2": "Decreases",
+    "choice3": "No effect",
+    "choice4": "Depends on pressure",
+    "answer": 2,
+    "explanation": "For an exothermic reaction, an increase in temperature shifts the equilibrium position to the left, resulting in a decrease in the equilibrium constant."
+  },
+  {
+    "question": "For the reaction \\(2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)\\), if the initial concentrations are \\([SO_2] = 0.5 \\, M\\) and \\([O_2] = 0.1 \\, M\\), what will be the change in \\([SO_3]\\) at equilibrium if \\(K_c = 4.0\\)?",
+    "choice1": "0.2 M",
+    "choice2": "0.4 M",
+    "choice3": "0.1 M",
+    "choice4": "0.3 M",
+    "answer": 1,
+    "explanation": "Setting up the equilibrium expression \\(K_c = \\frac{[SO_3]^2}{[SO_2]^2[O_2]}\\) gives us the change needed to reach equilibrium."
+  },
+  {
+    "question": "If \\(K_p\\) for the reaction \\(N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)\\) is 0.04 at a certain temperature, what is \\(K_c\\)?",
+    "choice1": "0.01",
+    "choice2": "0.04",
+    "choice3": "0.1",
+    "choice4": "0.5",
+    "answer": 1,
+    "explanation": "Using the relationship \\(K_p = K_c(RT)^{\\Delta n}\\) where \\(\\Delta n = -1\\) leads to \\(K_c = K_p/(RT)\\)."
+  },
+  {
+    "question": "For the reaction \\(H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)\\), if \\(K_c = 50\\), what will be the effect of adding more \\(H_2\\) to the system?",
+    "choice1": "Shift right",
+    "choice2": "Shift left",
+    "choice3": "No effect",
+    "choice4": "Increase \\(K_c\\)",
+    "answer": 1,
+    "explanation": "According to Le Chatelier's principle, adding more reactant shifts the equilibrium to the right to produce more product."
+  },
+  {
+    "question": "What is the equilibrium constant expression for the reaction \\(aA + bB \\rightleftharpoons cC + dD\\)?",
+    "choice1": "\\(K_c = \\frac{[C]^c[D]^d}{[A]^a[B]^b}\\)",
+    "choice2": "\\(K_c = \\frac{[A]^a[B]^b}{[C]^c[D]^d}\\)",
+    "choice3": "\\(K_p = \\frac{[C]^c[D]^d}{[A]^a[B]^b}\\)",
+    "choice4": "\\(K_p = \\frac{[A]^a[B]^b}{[C]^c[D]^d}\\)",
+    "answer": 1,
+    "explanation": "The equilibrium constant is expressed as the concentration of products over reactants, each raised to the power of their stoichiometric coefficients."
+  },
+  {
+    "question": "For the equilibrium \\(CO(g) + Cl_2(g) \\rightleftharpoons COCl_2(g)\\), if \\([CO] = 0.1 \\, M\\), \\([Cl_2] = 0.2 \\, M\\), and \\([COCl_2] = 0.05 \\, M\\), what is the value of \\(K_c\\)?",
+    "choice1": "0.5",
+    "choice2": "0.25",
+    "choice3": "0.1",
+    "choice4": "2",
+    "answer": 2,
+    "explanation": "Using the equilibrium expression, \\(K_c = \\frac{[COCl_2]}{[CO][Cl_2]} = \\frac{0.05}{0.1 \\times 0.2} = 0.25\\)."
+  },
+  {
+    "question": "The reaction \\(2H_2(g) + O_2(g) \\rightleftharpoons 2H_2O(g)\\) has an equilibrium constant \\(K = 16\\) at a certain temperature. What would be the value of \\(K\\) if the reaction is reversed?",
+    "choice1": "0.0625",
+    "choice2": "16",
+    "choice3": "4",
+    "choice4": "0.25",
+    "answer": 1,
+    "explanation": "For the reverse reaction, \\(K_{reverse} = \\frac{1}{K_{forward}} = \\frac{1}{16} = 0.0625\\)."
+  },
+  {
+    "question": "Which of the following is a type of structural isomerism?",
+    "choice1": "Cis-trans isomerism",
+    "choice2": "Geometric isomerism",
+    "choice3": "Chain isomerism",
+    "choice4": "Optical isomerism",
+    "answer": 3,
+    "explanation": "Chain isomerism occurs due to different arrangements of the carbon skeleton in a molecule."
+  },
+  {
+    "question": "Identify the type of isomerism present in but-2-ene.",
+    "choice1": "Structural isomerism",
+    "choice2": "Cis-trans isomerism",
+    "choice3": "Optical isomerism",
+    "choice4": "Chain isomerism",
+    "answer": 2,
+    "explanation": "But-2-ene can exist as cis and trans isomers due to restricted rotation around the double bond."
+  },
+  {
+    "question": "What type of isomerism is exhibited by 2-butanol and 1-butanol?",
+    "choice1": "Chain isomerism",
+    "choice2": "Position isomerism",
+    "choice3": "Functional group isomerism",
+    "choice4": "Geometric isomerism",
+    "answer": 2,
+    "explanation": "They are position isomers because the hydroxyl group (-OH) is positioned differently on the carbon chain."
+  },
+  {
+    "question": "Which compound exhibits optical isomerism?",
+    "choice1": "2-pentene",
+    "choice2": "2-butanol",
+    "choice3": "Hexane",
+    "choice4": "Propene",
+    "answer": 2,
+    "explanation": "2-butanol has a chiral center, making it capable of existing in two non-superimposable mirror images."
+  },
+  {
+    "question": "What is the relationship between two compounds that are geometric isomers?",
+    "choice1": "Same molecular formula but different connectivity",
+    "choice2": "Same molecular formula but different spatial arrangement",
+    "choice3": "Same connectivity but different molecular formula",
+    "choice4": "Same functional groups but different chain lengths",
+    "answer": 2,
+    "explanation": "Geometric isomers have the same connectivity of atoms but differ in the spatial arrangement due to restricted rotation."
+  },
+  {
+    "question": "Which of the following pairs of compounds are structural isomers?",
+    "choice1": "\\(C_2H_4\\) and \\(C_2H_6\\)",
+    "choice2": "1-butanol and 2-butanol",
+    "choice3": "\\(C_3H_6O\\) and \\(C_3H_8O\\)",
+    "choice4": "\\(C_4H_8\\) and \\(C_4H_{10}\\)",
+    "answer": 3,
+    "explanation": "C_3H_6O and C_3H_8O have different structural arrangements of the same atoms."
+  },
+  {
+    "question": "Which of the following can exhibit both geometric and optical isomerism?",
+    "choice1": "1-butene",
+    "choice2": "2-butene",
+    "choice3": "3-hexene",
+    "choice4": "1,2-dibromoethane",
+    "answer": 4,
+    "explanation": "1,2-dibromoethane has both cis-trans isomers and a chiral center for optical isomerism."
+  },
+  {
+    "question": "Which of the following statements is true regarding isomers?",
+    "choice1": "Isomers have the same physical and chemical properties",
+    "choice2": "Isomers must have different molecular formulas",
+    "choice3": "Isomers can have different boiling points",
+    "choice4": "All isomers are structural isomers",
+    "answer": 3,
+    "explanation": "Isomers can have different physical properties like boiling points due to different structural arrangements."
+  },
+  {
+    "question": "How many stereoisomers can exist for a compound with two chiral centers?",
+    "choice1": "2",
+    "choice2": "4",
+    "choice3": "6",
+    "choice4": "8",
+    "answer": 2,
+    "explanation": "The number of stereoisomers is given by \\(2^n\\), where \\(n\\) is the number of chiral centers. Here, \\(n=2\\), so \\(2^2=4\\)."
+  },
+  {
+    "question": "What is the correct IUPAC name for the complex \\([Cu(NH_3)_4]Cl_2\\)?",
+    "choice1": "[Tetrammoniacopper(II) chloride]",
+    "choice2": "[Tetramminecopper(II) chloride]",
+    "choice3": "[Copper(II) tetraammine chloride]",
+    "choice4": "[Copper(II) chloride tetraammine]",
+    "answer": 2,
+    "explanation": "In IUPAC nomenclature, the ligands are named before the metal with their oxidation state in parentheses."
+  },
+  {
+    "question": "In the coordination compound \\([Co(NH_3)_6]Cl_3\\), what is the oxidation state of cobalt?",
+    "choice1": "+2",
+    "choice2": "+3",
+    "choice3": "+1",
+    "choice4": "0",
+    "answer": 2,
+    "explanation": "The overall charge is neutral; ammonia is a neutral ligand, and chloride has a charge of -1, hence Co must be +3."
+  },
+  {
+    "question": "Which of the following is an example of a bidentate ligand?",
+    "choice1": "\\(NH_3\\)",
+    "choice2": "\\(Cl^-\\)",
+    "choice3": "EDTA",
+    "choice4": "CO",
+    "answer": 3,
+    "explanation": "EDTA is a hexadentate ligand that can form multiple bonds with a metal ion."
+  },
+  {
+    "question": "What is the geometry of the complex \\([Ni(CO)_4]\\)?",
+    "choice1": "Tetrahedral",
+    "choice2": "Square planar",
+    "choice3": "Octahedral",
+    "choice4": "Linear",
+    "answer": 1,
+    "explanation": "Nickel forms a tetrahedral complex with four CO ligands due to its hybridization."
+  },
+  {
+    "question": "Which of the following statements about coordination compounds is correct?",
+    "choice1": "All ligands are anionic",
+    "choice2": "Coordination number is always 4",
+    "choice3": "Ligands can be neutral or charged",
+    "choice4": "All coordination compounds are colored",
+    "answer": 3,
+    "explanation": "Ligands can be neutral (e.g., H2O, NH3) or anionic (e.g., Cl-, OH-)."
+  },
+  {
+    "question": "What is the coordination number of the complex \\([Fe(CN)_6]^{3-}\\)?",
+    "choice1": "4",
+    "choice2": "6",
+    "choice3": "2",
+    "choice4": "8",
+    "answer": 2,
+    "explanation": "The coordination number is the number of bonds formed between the metal ion and the ligands, which is 6 in this case."
+  },
+  {
+    "question": "Which metal forms square planar complexes with d8 configuration?",
+    "choice1": "Cu",
+    "choice2": "Ni",
+    "choice3": "Pt",
+    "choice4": "Fe",
+    "answer": 3,
+    "explanation": "Platinum is known to form square planar complexes when it has a d8 electron configuration."
+  },
+  {
+    "question": "What is the term for the ability of a ligand to form a complex with a metal ion?",
+    "choice1": "Chelation",
+    "choice2": "Coordination",
+    "choice3": "Ligand substitution",
+    "choice4": "Isomerization",
+    "answer": 2,
+    "explanation": "Coordination is the term used to describe the interaction between ligands and metal ions to form coordination complexes."
+  },
+  {
+    "question": "Which of the following is an example of an octahedral complex?",
+    "choice1": "[Ni(CN)₄]²⁻",
+    "choice2": "[Co(NH₃)₆]³⁺",
+    "choice3": "[Ag(NH₃)₂]⁺",
+    "choice4": "[CuCl₂]⁻",
+    "answer": 2,
+    "explanation": "[Co(NH₃)₆]³⁺ has a coordination number of 6 and forms an octahedral geometry."
+  },
+  {
+    "question": "What type of isomerism can occur in coordination compounds?",
+    "choice1": "Chain isomerism",
+    "choice2": "Structural isomerism",
+    "choice3": "Geometric isomerism",
+    "choice4": "Both b and c",
+    "answer": 4,
+    "explanation": "Coordination compounds can exhibit both structural (different connectivity) and geometric (different spatial arrangements) isomerism."
+  },
+  {
+    "question": "Which of the following compounds exhibits both structural and stereoisomerism?",
+    "choice1": "1-bromo-2-chloropropane",
+    "choice2": "2-butene",
+    "choice3": "3-methyl-2-pentene",
+    "choice4": "2,3-dimethylbutane",
+    "answer": 3,
+    "explanation": "3-methyl-2-pentene can exhibit both structural isomerism (different arrangements of the carbon chain) and stereoisomerism (cis-trans isomerism due to the double bond)."
+  }
+]

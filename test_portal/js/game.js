@@ -24,7 +24,7 @@ function getUrlParameter(name) {
 }
 
 // Path for fetching JSON file based on the subject (sub) parameter
-const jsonFilePath = `./os/${subValue}.json`;
+const jsonFilePath = `./questions/${subValue}.json`;
 
 // Fetch the JSON file
 fetch(jsonFilePath)

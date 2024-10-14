@@ -1,0 +1,272 @@
+[
+  {
+    "question": "If \\(\\tan \\left( A + B \\right) = \\frac{\\sin A + \\sin B}{\\cos A + \\cos B}\\), and \\(A + B = \\frac{\\pi}{4}\\), then which of the following is true?",
+    "choice1": "\\(\\tan A = \\tan B\\)",
+    "choice2": "\\(\\sin A = \\sin B\\)",
+    "choice3": "\\(\\cos A = \\cos B\\)",
+    "choice4": "\\(A = B\\)",
+    "answer": 1,
+    "explanation": "Since \\(A + B = \\frac{\\pi}{4}\\), using trigonometric identities, we can simplify the given expression to \\(\\tan A = \\tan B\\)."
+  },
+  {
+    "question": "If \\(\\sin \\theta + \\cos \\theta = p\\), then \\(\\sin 2\\theta\\) is equal to:",
+    "choice1": "\\(\\frac{2p}{1 + p^2}\\)",
+    "choice2": "\\(\\frac{2p}{1 - p^2}\\)",
+    "choice3": "\\(\\frac{2p^2}{1 - p^2}\\)",
+    "choice4": "\\(\\frac{2p}{1 - p}\\)",
+    "answer": 1,
+    "explanation": "Squaring both sides and using the identity \\(\\sin^2 \\theta + \\cos^2 \\theta = 1\\), we find \\(\\sin 2\\theta = \\frac{2p}{1 + p^2}\\)."
+  },
+  {
+    "question": "The general solution of the equation \\(\\cos 2x - 2\\sin^2 x = 0\\) is:",
+    "choice1": "\\(x = n\\pi\\)",
+    "choice2": "\\(x = 2n\\pi + \\frac{\\pi}{3}\\)",
+    "choice3": "\\(x = 2n\\pi\\)",
+    "choice4": "\\(x = n\\pi + \\frac{\\pi}{2}\\)",
+    "answer": 3,
+    "explanation": "Simplifying the equation using the identity \\(\\cos 2x = 1 - 2\\sin^2 x\\), we get \\(x = 2n\\pi\\)."
+  },
+  {
+    "question": "The value of \\(\\cos 18^\\circ\\cdot \\cos 54^\\circ\\cdot \\cos 72^\\circ\\) is:",
+    "choice1": "\\(\\frac{1}{8}\\)",
+    "choice2": "\\(\\frac{1}{4}\\)",
+    "choice3": "\\(\\frac{1}{2}\\)",
+    "choice4": "\\(\\frac{3}{8}\\)",
+    "answer": 1,
+    "explanation": "Using known values of trigonometric functions for standard angles, the product simplifies to \\(\\frac{1}{8}\\)."
+  },
+  {
+    "question": "If \\(\\tan A = 2\\tan B\\), and \\(\\sin(A + B) = \\frac{1}{2}\\), then the value of \\(A + B\\) is:",
+    "choice1": "\\(\\frac{\\pi}{6}\\)",
+    "choice2": "\\(\\frac{\\pi}{3}\\)",
+    "choice3": "\\(\\frac{\\pi}{4}\\)",
+    "choice4": "\\(\\frac{\\pi}{2}\\)",
+    "answer": 2,
+    "explanation": "Given \\(\\sin(A + B) = \\frac{1}{2}\\), it implies \\(A + B = \\frac{\\pi}{6}\\), and using the tangent ratio, the conditions are satisfied for \\(A + B = \\frac{\\pi}{3}\\)."
+  },
+  {
+    "question": "The value of \\(\\tan^{-1}(\\sin x) + \\cot^{-1}(\\cos x)\\) is equal to:",
+    "choice1": "\\(\\frac{\\pi}{2}\\)",
+    "choice2": "\\(\\pi\\)",
+    "choice3": "\\(0\\)",
+    "choice4": "\\(\\frac{\\pi}{4}\\)",
+    "answer": 1,
+    "explanation": "Using the identity \\(\\tan^{-1} x + \\cot^{-1} x = \\frac{\\pi}{2}\\), the expression simplifies to \\(\\frac{\\pi}{2}\\)."
+  },
+  {
+    "question": "The general solution of the equation \\(\\sin^2 x = \\frac{1}{2}\\) is:",
+    "choice1": "\\(x = n\\pi \\pm \\frac{\\pi}{4}\\)",
+    "choice2": "\\(x = 2n\\pi \\pm \\frac{\\pi}{4}\\)",
+    "choice3": "\\(x = 2n\\pi \\pm \\frac{\\pi}{3}\\)",
+    "choice4": "\\(x = n\\pi \\pm \\frac{\\pi}{6}\\)",
+    "answer": 1,
+    "explanation": "Using the identity \\(\\sin^2 x = \\frac{1}{2}\\), the general solution is \\(x = n\\pi \\pm \\frac{\\pi}{4}\\)."
+  },
+  {
+    "question": "The general solution of \\(\\tan 2x = \\cot x\\) is:",
+    "choice1": "\\(x = n\\pi\\)",
+    "choice2": "\\(x = n\\pi + \\frac{\\pi}{2}\\)",
+    "choice3": "\\(x = 2n\\pi\\)",
+    "choice4": "\\(x = n\\pi + \\frac{\\pi}{3}\\)",
+    "answer": 2,
+    "explanation": "Rewriting \\(\\cot x = \\frac{1}{\\tan x}\\) and simplifying gives \\(x = n\\pi + \\frac{\\pi}{2}\\) as the general solution."
+  },
+  {
+    "question": "The number of solutions of the equation \\(\\cos 3x = \\sin x\\) in \\([0, 2\\pi]\\) is:",
+    "choice1": "4",
+    "choice2": "3",
+    "choice3": "6",
+    "choice4": "5",
+    "answer": 3,
+    "explanation": "Equating \\(\\cos 3x = \\sin x\\) and solving for the number of solutions within the given interval gives 6 solutions."
+  },
+  {
+    "question": "The general solution of the inequality \\(\\tan x > 1\\) is:",
+    "choice1": "\\(x = n\\pi + \\frac{\\pi}{4}\\)",
+    "choice2": "\\(x = n\\pi + \\frac{\\pi}{6}\\)",
+    "choice3": "\\(x = n\\pi + \\frac{\\pi}{2}\\)",
+    "choice4": "\\(x = n\\pi - \\frac{\\pi}{3}\\)",
+    "answer": 1,
+    "explanation": "Since \\(\\tan x > 1\\) when \\(x = n\\pi + \\frac{\\pi}{4}\\), this is the general solution."
+  },
+  {
+    "question": "The general solution of the equation \\(\\cos^2 x = \\frac{3}{4}\\) is:",
+    "choice1": "\\(x = 2n\\pi \\pm \\frac{\\pi}{3}\\)",
+    "choice2": "\\(x = n\\pi \\pm \\frac{\\pi}{6}\\)",
+    "choice3": "\\(x = n\\pi \\pm \\frac{\\pi}{4}\\)",
+    "choice4": "\\(x = 2n\\pi \\pm \\frac{\\pi}{6}\\)",
+    "answer": 4,
+    "explanation": "Solving the equation gives the general solution \\(x = 2n\\pi \\pm \\frac{\\pi}{6}\\)."
+  },
+  {
+    "question": "The value of \\( \\tan^{-1}(\\sin x) + \\cot^{-1}(\\cos x) \\) is:",
+    "choice1": "\\(\\frac{\\pi}{2}\\)",
+    "choice2": "\\(\\pi\\)",
+    "choice3": "\\(0\\)",
+    "choice4": "\\(\\frac{\\pi}{4}\\)",
+    "answer": 2,
+    "explanation": "Using the identity \\( \\tan^{-1}(\\sin x) + \\cot^{-1}(\\cos x) = \\pi\\), the value of the expression is \\(\\pi\\)."
+  },
+  {
+    "question": "The value of \\( \\sin^{-1}\\left( \\frac{1}{2} \\right) + \\cos^{-1}\\left( \\frac{1}{2} \\right) \\) is:",
+    "choice1": "\\(\\frac{\\pi}{2}\\)",
+    "choice2": "\\(\\pi\\)",
+    "choice3": "\\(\\frac{\\pi}{3}\\)",
+    "choice4": "\\(\\frac{2\\pi}{3}\\)",
+    "answer": 1,
+    "explanation": "Since \\( \\sin^{-1}(x) + \\cos^{-1}(x) = \\frac{\\pi}{2} \\), the value is \\(\\frac{\\pi}{2}\\)."
+  },
+  {
+    "question": "The principal value of \\( \\cos^{-1}\\left( -\\frac{1}{2} \\right) \\) is:",
+    "choice1": "\\(\\frac{2\\pi}{3}\\)",
+    "choice2": "\\(\\frac{\\pi}{3}\\)",
+    "choice3": "\\(\\frac{5\\pi}{6}\\)",
+    "choice4": "\\(\\frac{4\\pi}{3}\\)",
+    "answer": 1,
+    "explanation": "The principal value of \\( \\cos^{-1}\\left( -\\frac{1}{2} \\right) \\) lies in the range \\([0,\\pi]\\), which gives \\(\\frac{2\\pi}{3}\\)."
+  },
+  {
+    "question": "The solution to \\( \\tan^{-1}(x) + \\tan^{-1}(2x) = \\frac{\\pi}{4} \\) is:",
+    "choice1": "\\(x = 1\\)",
+    "choice2": "\\(x = 2\\)",
+    "choice3": "\\(x = \\frac{1}{2}\\)",
+    "choice4": "\\(x = 0\\)",
+    "answer": 3,
+    "explanation": "Using the formula \\( \\tan^{-1}(a) + \\tan^{-1}(b) = \\frac{\\pi}{4} \\), we solve for \\(x\\) and find \\(x = \\frac{1}{2}\\)."
+  },
+  {
+    "question": "If \\( y = \\ln(\\sin^{-1} x) \\), then \\( \\frac{dy}{dx} \\) is:",
+    "choice1": "\\( \\frac{1}{\\sqrt{1 - x^2}} \\)",
+    "choice2": "\\( \\frac{1}{x^2 - 1} \\)",
+    "choice3": "\\( \\frac{1}{x^2 + 1} \\)",
+    "choice4": "\\( \\frac{1}{x \\sqrt{1 - x^2}} \\)",
+    "answer": 1,
+    "explanation": "The derivative of \\( y = \\ln(\\sin^{-1} x) \\) is calculated as \\( \\frac{1}{\\sqrt{1 - x^2}} \\)."
+  },
+  {
+    "question": "The derivative of \\( x^x \\) with respect to \\( x \\) is:",
+    "choice1": "\\( x^x(\\ln x + 1) \\)",
+    "choice2": "\\( x^{x-1}(\\ln x + 1) \\)",
+    "choice3": "\\( x^{x-1} \\)",
+    "choice4": "\\( x^x \\ln x \\)",
+    "answer": 1,
+    "explanation": "Using logarithmic differentiation, \\( \\frac{d}{dx}(x^x) = x^x(\\ln x + 1) \\)."
+  },
+  {
+    "question": "If \\( y = \\cos^2(3x) \\), then \\( \\frac{dy}{dx} \\) is:",
+    "choice1": "\\( -6\\cos(3x)\\sin(3x) \\)",
+    "choice2": "\\( -3\\cos(3x) \\)",
+    "choice3": "\\( 6\\cos(3x)\\sin(3x) \\)",
+    "choice4": "\\( 3\\sin(6x) \\)",
+    "answer": 1,
+    "explanation": "Using the chain rule, the derivative of \\( y = \\cos^2(3x) \\) is \\( -6\\cos(3x)\\sin(3x) \\)."
+  },
+  {
+    "question": "The derivative of \\( \\tan^{-1}(x) \\) with respect to \\( \\ln(x) \\) is:",
+    "choice1": "\\( \\frac{1}{1+x^2} \\)",
+    "choice2": "\\( \\frac{x}{1+x^2} \\)",
+    "choice3": "\\( \\frac{1}{x(1+x^2)} \\)",
+    "choice4": "\\( \\frac{2x}{1+x^2} \\)",
+    "answer": 2,
+    "explanation": "By using chain rule, the derivative of \\( \\tan^{-1}(x) \\) with respect to \\( \\ln(x) \\) is \\( \\frac{x}{1+x^2} \\)."
+  },
+  {
+    "question": "If \\( y = \\frac{\\ln x}{x^2} \\), then \\( \\frac{dy}{dx} \\) is:",
+    "choice1": "\\( \\frac{1-2\\ln x}{x^3} \\)",
+    "choice2": "\\( \\frac{2\\ln x - 1}{x^3} \\)",
+    "choice3": "\\( \\frac{1 + 2\\ln x}{x^2} \\)",
+    "choice4": "\\( \\frac{\\ln x}{x^3} \\)",
+    "answer": 1,
+    "explanation": "Using the quotient rule, the derivative of \\( y = \\frac{\\ln x}{x^2} \\) is \\( \\frac{1-2\\ln x}{x^3} \\)."
+  },
+  {
+    "question": "The slope of the tangent to the curve \\( y = x \\sin x \\) at \\( x = \\frac{\\pi}{2} \\) is:",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "0",
+    "choice4": "-1",
+    "answer": 2,
+    "explanation": "The derivative of \\( y = x \\sin x \\) is \\( \\frac{dy}{dx} = \\sin x + x \\cos x \\). Substituting \\( x = \\frac{\\pi}{2} \\), the slope is 2."
+  },
+  {
+    "question": "The derivative of \\( \\sin^{-1}(x^2) \\) is:",
+    "choice1": "\\( \\frac{2x}{\\sqrt{1 - x^4}} \\)",
+    "choice2": "\\( \\frac{2x}{\\sqrt{1 - x^2}} \\)",
+    "choice3": "\\( \\frac{1}{\\sqrt{1 - x^4}} \\)",
+    "choice4": "\\( \\frac{2}{\\sqrt{1 - x^2}} \\)",
+    "answer": 1,
+    "explanation": "Using the chain rule, the derivative of \\( \\sin^{-1}(x^2) \\) is \\( \\frac{2x}{\\sqrt{1 - x^4}} \\)."
+  },
+  {
+    "question": "If \\( f(x) = \\cos(2x) \\cdot e^x \\), then \\( f'(x) \\) is:",
+    "choice1": "\\( e^x(\\cos(2x) - 2\\sin(2x)) \\)",
+    "choice2": "\\( e^x(2\\cos(2x) - \\sin(2x)) \\)",
+    "choice3": "\\( e^x(\\sin(2x) + 2\\cos(2x)) \\)",
+    "choice4": "\\( e^x(2\\sin(2x) - \\cos(2x)) \\)",
+    "answer": 1,
+    "explanation": "By using the product rule, the derivative of \\( f(x) = \\cos(2x) \\cdot e^x \\) is \\( e^x(\\cos(2x) - 2\\sin(2x)) \\)."
+  },
+  {
+    "question": "The value of \\( \\frac{d}{dx} \\left( \\frac{x}{\\sin x} \\right) \\) at \\( x = \\frac{\\pi}{4} \\) is:",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "\\( \\frac{\\pi}{2} \\)",
+    "choice4": "-1",
+    "answer": 1,
+    "explanation": "Using the quotient rule, the derivative of \\( \\frac{x}{\\sin x} \\) is \\( \\frac{\\sin x - x \\cos x}{\\sin^2 x} \\). At \\( x = \\frac{\\pi}{4} \\), the value is 0."
+  },
+  {
+    "question": "The derivative of the function \\( y = \\log(\\sin x) \\) is:",
+    "choice1": "\\( \\cot x \\)",
+    "choice2": "\\( \\frac{1}{x \\sin x} \\)",
+    "choice3": "\\( \\frac{1}{\\sin x \\cdot \\cos x} \\)",
+    "choice4": "\\( \\cot x \\cdot \\csc x \\)",
+    "answer": 1,
+    "explanation": "Using the chain rule, the derivative of \\( y = \\log(\\sin x) \\) is \\( \\frac{1}{\\sin x} \\cdot \\cos x = \\cot x \\)."
+  },
+  {
+    "question": "If \\( A = \\begin{pmatrix} 1 & 2 \\ 3 & 4 \\end{pmatrix} \\), what is \\( \\text{det}(A) \\)?",
+    "choice1": "-2",
+    "choice2": "2",
+    "choice3": "5",
+    "choice4": "10",
+    "answer": 1,
+    "explanation": "The determinant is calculated as \\( \\text{det}(A) = (1)(4) - (2)(3) = 4 - 6 = -2 \\)."
+  },
+  {
+    "question": "If \\( A \\) is a 3x3 matrix with \\( \\text{det}(A) = 5 \\), what is \\( \\text{det}(3A) \\)?",
+    "choice1": "15",
+    "choice2": "45",
+    "choice3": "135",
+    "choice4": "5",
+    "answer": 3,
+    "explanation": "For an \\( n \\times n \\) matrix, \\( \\text{det}(kA) = k^n \\cdot \\text{det}(A) \\). Here, \\( \\text{det}(3A) = 3^3 \\cdot 5 = 27 \\cdot 5 = 135 \\)."
+  },
+  {
+    "question": "If \\( A = \\begin{pmatrix} a & b \\ c & d \\end{pmatrix} \\) and \\( B = \\begin{pmatrix} 0 & 1 \\ 1 & 0 \\end{pmatrix} \\), find \\( AB \\).",
+    "choice1": "\\( \\begin{pmatrix} b & a \\ c & d \\end{pmatrix} \\)",
+    "choice2": "\\( \\begin{pmatrix} a & d \\ b & c \\end{pmatrix} \\)",
+    "choice3": "\\( \\begin{pmatrix} c & d \\ a & b \\end{pmatrix} \\)",
+    "choice4": "\\( \\begin{pmatrix} b & a \\ d & c \\end{pmatrix} \\)",
+    "answer": 1,
+    "explanation": "The product is calculated as \\( AB = \\begin{pmatrix} a(0) + b(1) & a(1) + b(0) \\ c(0) + d(1) & c(1) + d(0) \\end{pmatrix} = \\begin{pmatrix} b & a \\ c & d \\end{pmatrix} \\)."
+  },
+  {
+    "question": "If \\( A \\) is a square matrix and \\( \\text{det}(A) = 0 \\), which of the following is true?",
+    "choice1": "A is invertible.",
+    "choice2": "A has a unique solution.",
+    "choice3": "A is singular.",
+    "choice4": "None of the above.",
+    "answer": 3,
+    "explanation": "If \\( \\text{det}(A) = 0 \\), then matrix \\( A \\) is singular, meaning it does not have an inverse."
+  },
+  {
+    "question": "If \\( A = \\begin{pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \\end{pmatrix} \\), what is \\( \\text{det}(A) \\)?",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "2",
+    "choice4": "3",
+    "answer": 1,
+    "explanation": "The determinant is zero because the rows of the matrix are linearly dependent (the third row is a linear combination of the first two)."
+  }
+]

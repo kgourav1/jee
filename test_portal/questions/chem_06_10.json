@@ -1,0 +1,275 @@
+[
+  {
+    "question": "What is the shape of the water molecule \\(\\text{H}_2\\text{O}\\) due to its bent geometry?",
+    "choice1": "Linear",
+    "choice2": "Trigonal Planar",
+    "choice3": "Tetrahedral",
+    "choice4": "Bent",
+    "answer": 4,
+    "explanation": "Water has a bent geometry due to the two lone pairs on the oxygen atom, which repel the bonded hydrogen atoms."
+  },
+  {
+    "question": "Which of the following molecules contains a coordinate covalent bond?",
+    "choice1": "\\(\\text{NH}_3\\)",
+    "choice2": "\\(\\text{HCl}\\)",
+    "choice3": "\\(\\text{CO}_2\\)",
+    "choice4": "\\(\\text{H}_3\\text{O}^+\\)",
+    "answer": 4,
+    "explanation": "In the hydronium ion (\\text{H}_3\\text{O}^+), one of the hydrogen ions is bonded to the oxygen atom through a coordinate covalent bond where the oxygen donates both electrons."
+  },
+  {
+    "question": "What is the bond angle in a methane \\(\\text{CH}_4\\) molecule?",
+    "choice1": "90°",
+    "choice2": "109.5°",
+    "choice3": "120°",
+    "choice4": "180°",
+    "answer": 2,
+    "explanation": "Methane has a tetrahedral shape with bond angles of approximately 109.5° due to the four bonded hydrogen atoms around the central carbon atom."
+  },
+  {
+    "question": "Which type of bond is formed between sodium \\(\\text{Na}\\) and chlorine \\(\\text{Cl}\\) in sodium chloride \\(\\text{NaCl}\\)?",
+    "choice1": "Covalent bond",
+    "choice2": "Ionic bond",
+    "choice3": "Metallic bond",
+    "choice4": "Hydrogen bond",
+    "answer": 2,
+    "explanation": "In \\text{NaCl}, sodium donates an electron to chlorine, forming an ionic bond due to the electrostatic attraction between the resulting ions."
+  },
+  {
+    "question": "Which of the following elements can form an expanded octet?",
+    "choice1": "Nitrogen",
+    "choice2": "Oxygen",
+    "choice3": "Phosphorus",
+    "choice4": "Carbon",
+    "answer": 3,
+    "explanation": "Phosphorus can form an expanded octet because it has available d-orbitals in its valence shell."
+  },
+  {
+    "question": "In which of the following compounds is the central atom sp³ hybridized?",
+    "choice1": "\\(\\text{BF}_3\\)",
+    "choice2": "\\(\\text{CH}_4\\)",
+    "choice3": "\\(\\text{C}_2\\text{H}_2\\)",
+    "choice4": "\\(\\text{CO}_2\\)",
+    "answer": 2,
+    "explanation": "In \\text{CH}_4, the carbon atom undergoes sp³ hybridization, forming four equivalent bonds with hydrogen atoms."
+  },
+  {
+    "question": "Which of the following molecules is polar?",
+    "choice1": "\\(\\text{CO}_2\\)",
+    "choice2": "\\(\\text{CH}_4\\)",
+    "choice3": "\\(\\text{H}_2\\text{O}\\)",
+    "choice4": "\\(\\text{CCl}_4\\)",
+    "answer": 3,
+    "explanation": "Water (\\text{H}_2\\text{O}) is a polar molecule due to its bent shape and the difference in electronegativity between hydrogen and oxygen."
+  },
+  {
+    "question": "What type of intermolecular force is primarily responsible for the high boiling point of water?",
+    "choice1": "London dispersion forces",
+    "choice2": "Dipole-dipole interactions",
+    "choice3": "Hydrogen bonding",
+    "choice4": "Ionic bonding",
+    "answer": 3,
+    "explanation": "Hydrogen bonding, which occurs between water molecules, is primarily responsible for its high boiling point."
+  },
+  {
+    "question": "Which theory explains the shape of molecules based on the repulsion between electron pairs?",
+    "choice1": "Molecular Orbital Theory",
+    "choice2": "Valence Bond Theory",
+    "choice3": "VSEPR Theory",
+    "choice4": "Lewis Theory",
+    "answer": 3,
+    "explanation": "The VSEPR (Valence Shell Electron Pair Repulsion) Theory explains molecular shapes based on the repulsion between electron pairs around a central atom."
+  },
+  {
+    "question": "What is the hybridization of the central atom in the sulfate ion \\(\\text{SO}_4^{2-}\\)?",
+    "choice1": "sp",
+    "choice2": "sp²",
+    "choice3": "sp³",
+    "choice4": "dsp³",
+    "answer": 3,
+    "explanation": "The central sulfur atom in the sulfate ion (\\text{SO}_4^{2-}) is sp³ hybridized, as it forms four sigma bonds with oxygen atoms."
+  },
+  {
+    "question": "Which of the following functional groups is present in alcohols?",
+    "choice1": "Carbonyl",
+    "choice2": "Hydroxyl",
+    "choice3": "Amino",
+    "choice4": "Carboxyl",
+    "answer": 2,
+    "explanation": "Alcohols contain a hydroxyl (-\\text{OH}) functional group, which is responsible for their chemical properties."
+  },
+  {
+    "question": "What is the IUPAC name of \\(\\text{CH}_3-\\text{CH}_2-\\text{COOH}\\)?",
+    "choice1": "Propanoic acid",
+    "choice2": "Butanoic acid",
+    "choice3": "Ethanoic acid",
+    "choice4": "Acetic acid",
+    "answer": 1,
+    "explanation": "The compound \\text{CH}_3-\\text{CH}_2-\\text{COOH} is a three-carbon carboxylic acid, and its IUPAC name is propanoic acid."
+  },
+  {
+    "question": "Which of the following compounds is an isomer of butane \\(\\text{C}_4\\text{H}_{10}\\)?",
+    "choice1": "Propane",
+    "choice2": "2-Methylpropane",
+    "choice3": "Pentane",
+    "choice4": "Hexane",
+    "answer": 2,
+    "explanation": "2-Methylpropane is an isomer of butane, as it has the same molecular formula but a different structural arrangement."
+  },
+  {
+    "question": "What type of reaction is represented by the equation: \\(\\text{R-X + NaOH -> R-OH + NaX}\\)?",
+    "choice1": "Elimination",
+    "choice2": "Substitution",
+    "choice3": "Addition",
+    "choice4": "Rearrangement",
+    "answer": 2,
+    "explanation": "This is a nucleophilic substitution reaction, where the halogen \\(\\text{X}\\) is replaced by a hydroxyl group \\(\\text{OH}\\)."
+  },
+  {
+    "question": "Which reagent can be used to test for the presence of unsaturation in organic compounds?",
+    "choice1": "Bromine water",
+    "choice2": "Sodium bicarbonate",
+    "choice3": "Silver nitrate",
+    "choice4": "Phenolphthalein",
+    "answer": 1,
+    "explanation": "Bromine water is used to test for unsaturation; it will decolorize in the presence of alkenes or alkynes."
+  },
+  {
+    "question": "What is the major product of the reaction between ethene and \\(\\text{HBr}\\)?",
+    "choice1": "Ethane",
+    "choice2": "1-Bromopropane",
+    "choice3": "Bromoethane",
+    "choice4": "Butane",
+    "answer": 3,
+    "explanation": "The reaction of ethene with \\text{HBr} results in the addition of H and Br across the double bond, producing bromoethane."
+  },
+  {
+    "question": "Which of the following compounds is aromatic?",
+    "choice1": "Cyclohexane",
+    "choice2": "Benzene",
+    "choice3": "Cyclobutane",
+    "choice4": "1-Hexene",
+    "answer": 2,
+    "explanation": "Benzene is an aromatic compound characterized by its cyclic structure and delocalized pi electrons."
+  },
+  {
+    "question": "What is the main product of the dehydration of ethanol \\(\\text{C}_2\\text{H}_5\\text{OH}\\)?",
+    "choice1": "Ethene",
+    "choice2": "Acetic acid",
+    "choice3": "Ethyl acetate",
+    "choice4": "Ethanol",
+    "answer": 1,
+    "explanation": "The dehydration of ethanol leads to the formation of ethene (\\ce{C2H4}) by the elimination of water (\\ce{H2O})."
+  },
+
+  {
+    "question": "Which type of isomerism is shown by compounds having the same molecular formula but different spatial arrangements of atoms?",
+    "choice1": "Structural isomerism",
+    "choice2": "Geometric isomerism",
+    "choice3": "Optical isomerism",
+    "choice4": "Conformational isomerism",
+    "answer": 2,
+    "explanation": "Geometric isomerism occurs due to the different spatial arrangements of atoms, often seen in alkenes."
+  },
+  {
+    "question": "What is the product when propan-2-ol is oxidized?",
+    "choice1": "Propanoic acid",
+    "choice2": "Propanal",
+    "choice3": "Acetone",
+    "choice4": "Propylene",
+    "answer": 3,
+    "explanation": "Propan-2-ol (isopropanol) is oxidized to acetone (propanone), a ketone."
+  },
+
+  {
+    "question": "In the reaction \\(2\\text{MnO}_4^{-} + 5\\text{C}_2\\text{O}_4^{2-} + 16\\text{H}^{+} \\rightarrow 2\\text{Mn}^{2+} + 10\\text{CO}_2 + 8\\text{H}_2\\text{O}\\), which species is oxidized?",
+    "choice1": "\\(\\text{MnO}_4^{-}\\)",
+    "choice2": "\\(\\text{C}_2\\text{O}_4^{2-}\\)",
+    "choice3": "\\(\\text{H}^{+}\\)",
+    "choice4": "\\(\\text{CO}_2\\)",
+    "answer": 2,
+    "explanation": "The oxalate ion (\\text{C}_2\\text{O}_4^{2-}) is oxidized to carbon dioxide (\\text{CO}_2), losing electrons in the process."
+  },
+
+  {
+    "question": "Which of the following is a characteristic of a redox reaction?",
+    "choice1": "Involves the transfer of protons",
+    "choice2": "Involves the transfer of electrons",
+    "choice3": "Involves the formation of ionic bonds",
+    "choice4": "Involves the formation of covalent bonds",
+    "answer": 2,
+    "explanation": "Redox reactions are characterized by the transfer of electrons between species, leading to changes in oxidation states."
+  },
+  {
+    "question": "What is the oxidation state of sulfur in \\(\\text{H}_2\\text{SO}_4\\)?",
+    "choice1": "+4",
+    "choice2": "+6",
+    "choice3": "+2",
+    "choice4": "0",
+    "answer": 2,
+    "explanation": "In sulfuric acid (\\(\\text{H}_2\\text{SO}_4\\)), the oxidation state of sulfur is +6, calculated by balancing the charges of hydrogen and oxygen."
+  },
+  {
+    "question": "In the reaction \\(4\\text{Fe} + 3\\text{O}_2 \\rightarrow 2\\text{Fe}_2\\text{O}_3\\), which element is reduced?",
+    "choice1": "Fe",
+    "choice2": "O2",
+    "choice3": "Fe2O3",
+    "choice4": "None of the above",
+    "answer": 2,
+    "explanation": "Oxygen (\\(\\text{O}_2\\)) is reduced as it gains electrons to form oxide ions (\\(\\text{O}^{2-}\\)) in iron(III) oxide (\\(\\text{Fe}_2\\text{O}_3\\))."
+  },
+  {
+    "question": "What is the volume of 0.1 M NaOH required to neutralize 50 mL of 0.1 M HCl?",
+    "choice1": "25 mL",
+    "choice2": "50 mL",
+    "choice3": "75 mL",
+    "choice4": "100 mL",
+    "answer": 2,
+    "explanation": "In a 1:1 reaction between NaOH and HCl, 50 mL of 0.1 M HCl requires 50 mL of 0.1 M NaOH for neutralization."
+  },
+  {
+    "question": "Which of the following statements is true about a galvanic cell?",
+    "choice1": "It converts electrical energy into chemical energy",
+    "choice2": "It converts chemical energy into electrical energy",
+    "choice3": "It requires an external power source",
+    "choice4": "It involves only oxidation reactions",
+    "answer": 2,
+    "explanation": "A galvanic cell converts chemical energy from spontaneous redox reactions into electrical energy."
+  },
+  {
+    "question": "In a redox reaction, if the oxidation number of a reactant increases, what happens to that reactant?",
+    "choice1": "It is oxidized",
+    "choice2": "It is reduced",
+    "choice3": "It remains unchanged",
+    "choice4": "It is a spectator ion",
+    "answer": 1,
+    "explanation": "If the oxidation number of a reactant increases, it means the reactant has lost electrons and is therefore oxidized."
+  },
+  {
+    "question": "What is the primary purpose of a titration in volumetric analysis?",
+    "choice1": "To determine the pH of a solution",
+    "choice2": "To determine the concentration of a solution",
+    "choice3": "To separate components of a mixture",
+    "choice4": "To identify unknown substances",
+    "answer": 2,
+    "explanation": "Titration is used to determine the concentration of a solution by reacting it with a solution of known concentration."
+  },
+  {
+    "question": "Which of the following substances can act as a reducing agent?",
+    "choice1": "\\(\\text{Cl}_2\\)",
+    "choice2": "\\(\\text{H}_2O\\)",
+    "choice3": "Zn",
+    "choice4": "NaCl",
+    "answer": 3,
+    "explanation": "Zinc (Zn) can act as a reducing agent because it can donate electrons and reduce other substances."
+  },
+  {
+    "question": "What is the endpoint of a titration?",
+    "choice1": "When the titrant is added to the analyte",
+    "choice2": "When the color of the solution changes permanently",
+    "choice3": "When all the analyte is consumed",
+    "choice4": "When the pH of the solution reaches 7",
+    "answer": 2,
+    "explanation": "The endpoint of a titration is indicated by a permanent color change in the solution, indicating that the reaction is complete."
+  }
+]

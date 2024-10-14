@@ -1,0 +1,272 @@
+[
+  {
+    "question": "A stone is thrown vertically upward with a velocity of \\(30 \\, \\text{m/s}\\). Calculate the maximum height reached by the stone. (Take \\(g = 10 \\, \\text{m/s}^2\\))",
+    "choice1": "45 m",
+    "choice2": "90 m",
+    "choice3": "60 m",
+    "choice4": "75 m",
+    "answer": 2,
+    "explanation": "Using the formula \\(v^2 = u^2 - 2gh\\), where \\(v = 0\\) at maximum height, we get \\(h = \\frac{u^2}{2g} = \\frac{(30)^2}{2 \\times 10} = 45 m\\)."
+  },
+  {
+    "question": "A car accelerates from rest at a rate of \\(2 \\, \\text{m/s}^2\\). How far does it travel in \\(10 \\, \\text{s}\\)?",
+    "choice1": "50 m",
+    "choice2": "100 m",
+    "choice3": "200 m",
+    "choice4": "150 m",
+    "answer": 2,
+    "explanation": "Using the equation of motion \\(s = ut + \\frac{1}{2}at^2\\), we find \\(s = 0 + \\frac{1}{2} \\times 2 \\times (10)^2 = 100 m\\)."
+  },
+  {
+    "question": "Two trains are moving in opposite directions at \\(60 \\, \\text{km/h}\\) and \\(90 \\, \\text{km/h}\\). What is their relative speed?",
+    "choice1": "150 km/h",
+    "choice2": "30 km/h",
+    "choice3": "120 km/h",
+    "choice4": "180 km/h",
+    "answer": 1,
+    "explanation": "The relative speed of two objects moving in opposite directions is the sum of their speeds: \\(60 + 90 = 150 \\, \\text{km/h}\\)."
+  },
+  {
+    "question": "A ball is dropped from a height of \\(80 \\, m\\). How long will it take to reach the ground? (Take \\(g = 10 \\, m/s^2\\))",
+    "choice1": "4 s",
+    "choice2": "8 s",
+    "choice3": "6 s",
+    "choice4": "5 s",
+    "answer": 1,
+    "explanation": "Using the equation \\(s = ut + \\frac{1}{2}gt^2\\) with \\(u = 0\\) and \\(s = 80 m\\), we find \\(t = \\sqrt{\\frac{2s}{g}} = \\sqrt{\\frac{160}{10}} = 4 s\\)."
+  },
+  {
+    "question": "An object moves with uniform acceleration of \\(4 \\, m/s^2\\). If it starts from rest, what will be its velocity after \\(5 \\, s\\)?",
+    "choice1": "20 m/s",
+    "choice2": "10 m/s",
+    "choice3": "15 m/s",
+    "choice4": "25 m/s",
+    "answer": 1,
+    "explanation": "Using the formula \\(v = u + at\\), where \\(u = 0\\), we find \\(v = 0 + 4 \\times 5 = 20 \\, m/s\\)."
+  },
+  {
+    "question": "A person walks \\(100 \\, m\\) towards north in \\(20 \\, s\\), then turns east and walks \\(50 \\, m\\) in \\(10 \\, s\\). What is his average speed?",
+    "choice1": "5 m/s",
+    "choice2": "7.5 m/s",
+    "choice3": "10 m/s",
+    "choice4": "6.67 m/s",
+    "answer": 4,
+    "explanation": "Total distance = \\(100 + 50 = 150 \\, m\\), Total time = \\(20 + 10 = 30 \\, s\\), Average speed = \\(\\frac{150}{30} = 5 \\, m/s\\)."
+  },
+  {
+    "question": "A train travels a distance of \\(240 \\, km\\) at a uniform speed of \\(60 \\, km/h\\). How much time does it take to cover this distance?",
+    "choice1": "4 h",
+    "choice2": "3 h",
+    "choice3": "5 h",
+    "choice4": "6 h",
+    "answer": 2,
+    "explanation": "Time = \\(\\frac{Distance}{Speed} = \\frac{240}{60} = 4 \\, h\\)."
+  },
+  {
+    "question": "A car is moving with a uniform speed of \\(72 \\, km/h\\). Convert this speed into meters per second.",
+    "choice1": "20 m/s",
+    "choice2": "18 m/s",
+    "choice3": "22 m/s",
+    "choice4": "25 m/s",
+    "answer": 2,
+    "explanation": "To convert from km/h to m/s, divide by 3.6. \\(72 \\div 3.6 = 20 \\, m/s\\)."
+  },
+  {
+    "question": "An object is thrown upwards with an initial velocity of \\(15 \\, m/s\\). What is the time taken to reach the highest point? (Take \\(g = 10 \\, m/s^2\\))",
+    "choice1": "1.5 s",
+    "choice2": "2 s",
+    "choice3": "3 s",
+    "choice4": "0.5 s",
+    "answer": 2,
+    "explanation": "At the highest point, the final velocity is \\(0\\). Using \\(v = u - gt\\), we get \\(0 = 15 - 10t \\Rightarrow t = 1.5 \\, s\\)."
+  },
+  {
+    "question": "A cyclist travels along a straight path covering \\(300 \\, m\\) in \\(30 \\, s\\) and then stops for \\(10 \\, s\\) before covering another \\(100 \\, m\\) in \\(10 \\, s\\). Calculate the average speed for the entire journey.",
+    "choice1": "10 m/s",
+    "choice2": "7 m/s",
+    "choice3": "8 m/s",
+    "choice4": "9 m/s",
+    "answer": 3,
+    "explanation": "Total distance = \\(300 + 100 = 400 \\, m\\), Total time = \\(30 + 10 + 10 = 50 \\, s\\), Average speed = \\(\\frac{400}{50} = 8 \\, m/s\\)."
+  },
+  {
+    "question": "A projectile is launched at an angle of \\(30^circ\\) with an initial velocity of \\(40 \\, \\text{m/s}\\). Calculate the maximum height reached by the projectile. (Take \\(g = 10 \\, \text{m/s}^2\\))",
+    "choice1": "30 m",
+    "choice2": "20 m",
+    "choice3": "40 m",
+    "choice4": "50 m",
+    "answer": 1,
+    "explanation": "The maximum height is given by \\(h = \\frac{u^2 \\sin^2 \\theta}{2g} = \\frac{(40)^2 \\sin^2 30^circ}{2 \\times 10} = 30 \\, m\\)."
+  },
+  {
+    "question": "A ball is thrown horizontally from a height of \\(20 \\, m\\) with an initial speed of \\(10 \\, m/s\\). How far from the base of the cliff will the ball land?",
+    "choice1": "20 m",
+    "choice2": "25 m",
+    "choice3": "30 m",
+    "choice4": "35 m",
+    "answer": 2,
+    "explanation": "Time to fall is \\(t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{40}{10}} = 2 \\, s\\). Horizontal distance = \\(10 \\, m/s \\times 2 \\, s = 20 \\, m\\)."
+  },
+  {
+    "question": "Two vectors \\(A = 5 \\, \\hat{i} + 3 \\, \\hat{j}\\) and \\(B = 4 \\, \\hat{i} - 2 \\, \\hat{j}\\) are given. What is the resultant vector \\(R = A + B\\)?",
+    "choice1": "\\(9 \\, \\hat{i} + 1 \\, \\hat{j}\\)",
+    "choice2": "\\(1 \\, \\hat{i} + 7 \\, \\hat{j}\\)",
+    "choice3": "\\(1 \\, \\hat{i} + 5 \\, \\hat{j}\\)",
+    "choice4": "\\(7 \\, \\hat{i} + 5 \\, \\hat{j}\\)",
+    "answer": 1,
+    "explanation": "Resultant vector \\(R = (5 + 4) \\, \\hat{i} + (3 - 2) \\, \\hat{j} = 9 \\, \\hat{i} + 1 \\, \\hat{j}\\)."
+  },
+  {
+    "question": "A projectile is launched with an initial velocity of \\(u\\) at an angle \\(\\theta\\) from the horizontal. What is the time of flight of the projectile?",
+    "choice1": "\\(\\frac{2u \\sin \\theta}{g}\\)",
+    "choice2": "\\(\\frac{u \\sin \\theta}{g}\\)",
+    "choice3": "\\(\\frac{u^2 \\sin \\theta}{g}\\)",
+    "choice4": "\\(\\frac{u \\cos \\theta}{g}\\)",
+    "answer": 1,
+    "explanation": "The time of flight \\(T = \\frac{2u \\sin \\theta}{g}\\) for a projectile."
+  },
+  {
+    "question": "A cyclist moves with a velocity of \\(15 \\, m/s\\) eastward and another cyclist moves with a velocity of \\(10 \\, m/s\\) northward. What is their relative velocity with respect to each other?",
+    "choice1": "25 m/s",
+    "choice2": "12.5 m/s",
+    "choice3": "18.03 m/s",
+    "choice4": "5 m/s",
+    "answer": 3,
+    "explanation": "Using the Pythagorean theorem, \\(v_{rel} = \\sqrt{(15)^2 + (10)^2} = 18.03 \\, m/s\\)."
+  },
+  {
+    "question": "A stone is tied to a string and swung in a vertical circle of radius \\(2 \\, m\\). What is the centripetal acceleration at the lowest point if the stone's speed is \\(5 \\, m/s\\)?",
+    "choice1": "6.25 m/s²",
+    "choice2": "5 m/s²",
+    "choice3": "12.5 m/s²",
+    "choice4": "2.5 m/s²",
+    "answer": 1,
+    "explanation": "Centripetal acceleration \\(a_c = \\frac{v^2}{r} = \\frac{(5)^2}{2} = 12.5 \\, m/s^2\\)."
+  },
+  {
+    "question": "A projectile is launched with an initial velocity of \\(50 \\, m/s\\) at an angle of \\(45^circ\\). Calculate the horizontal range of the projectile. (Take \\(g = 10 \\, m/s^2\\))",
+    "choice1": "250 m",
+    "choice2": "125 m",
+    "choice3": "200 m",
+    "choice4": "100 m",
+    "answer": 1,
+    "explanation": "Range \\(R = \\frac{u^2 \\sin(2\\theta)}{g} = \\frac{(50)^2 \\sin(90^circ)}{10} = 250 \\, m\\)."
+  },
+  {
+    "question": "An object moves in a circular path of radius \\(10 \\, m\\) with a speed of \\(20 \\, m/s\\). Calculate its centripetal acceleration.",
+    "choice1": "4 m/s²",
+    "choice2": "8 m/s²",
+    "choice3": "10 m/s²",
+    "choice4": "40 m/s²",
+    "answer": 1,
+    "explanation": "Centripetal acceleration \\(a_c = \\frac{v^2}{r} = \\frac{(20)^2}{10} = 40 \\, m/s^2\\)."
+  },
+  {
+    "question": "A projectile is fired at an angle of \\(60^circ\\) to the horizontal with an initial speed of \\(80 \\, m/s\\). Calculate the time taken to reach the maximum height.",
+    "choice1": "6.93 s",
+    "choice2": "4.93 s",
+    "choice3": "5.56 s",
+    "choice4": "8 s",
+    "answer": 1,
+    "explanation": "Time to maximum height \\(t = \\frac{u \\sin \\theta}{g} = \\frac{80 \\times \\sin 60^circ}{10} = 6.93 \\, s\\)."
+  },
+  {
+    "question": "An object is thrown at an angle of \\(45^circ\\) with a velocity of \\(10 \\, m/s\\). Calculate its horizontal and vertical components of velocity.",
+    "choice1": "7.07 m/s (both)",
+    "choice2": "10 m/s (horizontal), 0 m/s (vertical)",
+    "choice3": "5 m/s (horizontal), 5 m/s (vertical)",
+    "choice4": "10 m/s (vertical), 0 m/s (horizontal)",
+    "answer": 1,
+    "explanation": "Horizontal component: \\(u_x = u \\cos(45^circ) = 10 \\times \\frac{\\sqrt{2}}{2} \\approx 7.07 \\, m/s\\); Vertical component: \\(u_y = u \\sin(45^circ) = 10 \\times \\frac{\\sqrt{2}}{2} \\approx 7.07 \\, m/s\\)."
+  },
+  {
+    "question": "A resistor of \\(10 \\, \\Omega\\) and a resistor of \\(20 \\, \\Omega\\) are connected in series across a \\(60 \\, V\\) battery. Calculate the total current flowing in the circuit.",
+    "choice1": "2 A",
+    "choice2": "3 A",
+    "choice3": "4 A",
+    "choice4": "5 A",
+    "answer": 1,
+    "explanation": "Total resistance \\(R_{total} = R_1 + R_2 = 10 + 20 = 30 \\, \\Omega\\). Current \\(I = \\frac{V}{R_{total}} = \\frac{60}{30} = 2 \\, A\\)."
+  },
+  {
+    "question": "A circuit contains a \\(6 \\, \\Omega\\) and a \\(12 \\, \\Omega\\) resistor in parallel. What is the equivalent resistance of the circuit?",
+    "choice1": "4 \\(\\Omega\\)",
+    "choice2": "2 \\(\\Omega\\)",
+    "choice3": "1.5 \\(\\Omega\\)",
+    "choice4": "18 \\(\\Omega\\)",
+    "answer": 1,
+    "explanation": "Using the formula for parallel resistors: \\(\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} = \\frac{1}{6} + \\frac{1}{12} = \\frac{2 + 1}{12} = \\frac{3}{12}\\) thus \\(R_{eq} = 4 \\, \\Omega\\)."
+  },
+  {
+    "question": "In a circuit, the current flowing through a resistor is \\(5 \\, A\\), and the voltage across the resistor is \\(10 \\, V\\). What is the resistance?",
+    "choice1": "0.5 \\(\\Omega\\)",
+    "choice2": "2 \\(\\Omega\\)",
+    "choice3": "1 \\(\\Omega\\)",
+    "choice4": "5 \\(\\Omega\\)",
+    "answer": 1,
+    "explanation": "Using Ohm's law, \\(V = IR\\), we have \\(R = \\frac{V}{I} = \\frac{10}{5} = 2 \\, \\Omega\\)."
+  },
+  {
+    "question": "A circuit has three resistors \\(R_1 = 5 \\, \\Omega\\), \\(R_2 = 10 \\, \\Omega\\), and \\(R_3 = 15 \\, \\Omega\\) connected in series. What is the total resistance?",
+    "choice1": "30 \\(\\Omega\\)",
+    "choice2": "20 \\(\\Omega\\)",
+    "choice3": "10 \\(\\Omega\\)",
+    "choice4": "15 \\(\\Omega\\)",
+    "answer": 1,
+    "explanation": "Total resistance \\(R_{total} = R_1 + R_2 + R_3 = 5 + 10 + 15 = 30 \\, \\Omega\\)."
+  },
+  {
+    "question": "A capacitor of capacitance \\(C = 2 \\, \\mu F\\) is charged to a voltage of \\(100 \\, V\\). What is the charge stored in the capacitor?",
+    "choice1": "0.2 \\(mC\\)",
+    "choice2": "0.1 \\(mC\\)",
+    "choice3": "0.05 \\(mC\\)",
+    "choice4": "0.3 \\(mC\\)",
+    "answer": 1,
+    "explanation": "Charge \\(Q = C \\cdot V = 2 \\times 10^{-6} \\cdot 100 = 0.2 \\, mC\\)."
+  },
+  {
+    "question": "Using Kirchhoff's loop rule, find the current in a loop consisting of a \\(12 \\, V\\) battery and two resistors \\(4 \\, \\Omega\\) and \\(8 \\, \\Omega\\) in series.",
+    "choice1": "0.5 A",
+    "choice2": "1 A",
+    "choice3": "2 A",
+    "choice4": "3 A",
+    "answer": 2,
+    "explanation": "Total resistance \\(R_{total} = 4 + 8 = 12 \\, \\Omega\\). Using Ohm's law, \\(I = \\frac{V}{R_{total}} = \\frac{12}{12} = 1 A\\)."
+  },
+  {
+    "question": "What is the power consumed by a resistor of \\(10 \\, \\Omega\\) when a current of \\(3 \\, A\\) passes through it?",
+    "choice1": "30 W",
+    "choice2": "60 W",
+    "choice3": "90 W",
+    "choice4": "100 W",
+    "answer": 2,
+    "explanation": "Power is given by \\(P = I^2 R = (3)^2 \\cdot 10 = 90 W\\)."
+  },
+  {
+    "question": "In a parallel circuit with two branches, one branch has a resistance of \\(6 \\, \\Omega\\) and the other has a resistance of \\(3 \\, \\Omega\\). What is the total current if the voltage across the circuit is \\(12 \\, V\\)?",
+    "choice1": "4 A",
+    "choice2": "6 A",
+    "choice3": "8 A",
+    "choice4": "10 A",
+    "answer": 2,
+    "explanation": "Equivalent resistance \\(R_{eq} = \\frac{1}{\\frac{1}{6} + \\frac{1}{3}} = 2 \\Omega\\). Total current \\(I = \\frac{V}{R_{eq}} = \\frac{12}{2} = 6 \\, A\\)."
+  },
+  {
+    "question": "A circuit consists of a \\(20 \\, \\Omega\\) resistor and a \\(5 \\, \\mu F\\) capacitor in series. If the circuit is connected to a \\(100 \\, V\\) source, what will be the time constant?",
+    "choice1": "0.1 s",
+    "choice2": "0.5 s",
+    "choice3": "0.04 s",
+    "choice4": "0.2 s",
+    "answer": 3,
+    "explanation": "Time constant \\(\\tau = R \\cdot C = 20 \\cdot 5 \\times 10^{-6} = 0.0001 \\, s = 0.04 s\\)."
+  },
+  {
+    "question": "Using Kirchhoff's junction rule, if three currents enter a junction with values of \\(I_1 = 5 \\, A\\), \\(I_2 = 3 \\, A\\), and \\(I_3\\) leaves, what is the value of \\(I_3\\)?",
+    "choice1": "6 A",
+    "choice2": "8 A",
+    "choice3": "10 A",
+    "choice4": "2 A",
+    "answer": 1,
+    "explanation": "By Kirchhoff's junction rule, \\(I_1 + I_2 = I_3\\), hence \\(I_3 = 5 + 3 = 8 A\\)."
+  }
+]
