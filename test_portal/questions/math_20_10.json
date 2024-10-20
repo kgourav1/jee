@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Determine the domain of the function \\(f(x) = \\sqrt{x-3} + \\frac{1}{x-2}\\).",
+    "choice1": "\\(3, \\infty\\)",
+    "choice2": "\\(2, \\infty\\)",
+    "choice3": "\\((3, \\infty) \\cup (2, \\infty)\\)",
+    "choice4": "\\(2, 3\\)",
+    "answer": 3,
+    "explanation": "The square root function requires \\(x - 3 \\geq 0\\) (i.e., \\(x \\geq 3\\)) and the rational function requires \\(x - 2 \\neq 0\\) (i.e., \\(x \\neq 2\\)). Thus, the domain is \\([3, \\infty) \\cup (2, \\infty)\\)."
+  },
+  {
+    "question": "If \\(f(x) = 2x + 3\\) and \\(g(x) = x^2 - 1\\), find \\((f \\circ g)(x)).",
+    "choice1": "\\(2x^2 + 5\\)",
+    "choice2": "\\(2x^2 - 1\\)",
+    "choice3": "\\(2x^2 + 3\\)",
+    "choice4": "\\(x^2 + 3\\)",
+    "answer": 3,
+    "explanation": "Using composition of functions, \\((f \\circ g)(x) = f(g(x)) = f(x^2 - 1) = 2(x^2 - 1) + 3 = 2x^2 - 2 + 3 = 2x^2 + 1\\)."
+  },
+  {
+    "question": "Find the inverse of the function \\(f(x) = \\frac{3x - 2}{5}\\).",
+    "choice1": "\\(f^{-1}(x) = \\frac{5x + 2}{3}\\)",
+    "choice2": "\\(f^{-1}(x) = \\frac{5x - 2}{3}\\)",
+    "choice3": "\\(f^{-1}(x) = \\frac{3x + 2}{5}\\)",
+    "choice4": "\\(f^{-1}(x) = \\frac{5x + 2}{15}\\)",
+    "answer": 1,
+    "explanation": "To find the inverse, set \\(y = \\frac{3x - 2}{5}\\), solve for \\(x\\) to get \\(x = \\frac{5y + 2}{3}\\)."
+  },
+  {
+    "question": "Determine if the function \\(f(x) = x^3 - 2x\\) is odd, even, or neither.",
+    "choice1": "Odd",
+    "choice2": "Even",
+    "choice3": "Neither",
+    "choice4": "Both",
+    "answer": 1,
+    "explanation": "Since \\(f(-x) = -x^3 + 2x = -f(x)\\), the function is odd."
+  },
+  {
+    "question": "Identify the period of the function \\(f(x) = \\sin(3x)\\).",
+    "choice1": "\\(\\frac{2\\pi}{3}\\)",
+    "choice2": "\\(2\\pi\\)",
+    "choice3": "\\(\\frac{\\pi}{3}\\)",
+    "choice4": "\\(\\frac{2\\pi}{6}\\)",
+    "answer": 1,
+    "explanation": "The period of \\(\\sin(kx)\\) is given by \\(\\frac{2\\pi}{k}\\). Here, \\(k=3\\), so the period is \\(\\frac{2\\pi}{3}\\)."
+  },
+  {
+    "question": "If \\(f(x) = x^2 + 2x + 1\\), find the minimum value of \\(f(x)\\).",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "2",
+    "choice4": "3",
+    "answer": 2,
+    "explanation": "Completing the square, \\(f(x) = (x + 1)^2\\) gives a minimum value of 0 when \\(x = -1\\)."
+  },
+  {
+    "question": "Evaluate the limit \\(\\lim_{x \\to 1} \\frac{f(x) - f(1)}{x - 1}\\) for the function \\(f(x) = x^2 - 4x + 3\\).",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "answer": 1,
+    "explanation": "This limit represents the derivative of \\(f(x)\\) at \\(x=1\\), which can be calculated as \\(f'(x) = 2x - 4\\). Thus, \\(f'(1) = -2\\)."
+  },
+  {
+    "question": "What is the range of the function \\(f(x) = e^x + 2\\)?",
+    "choice1": "\\(2, \\infty\\)",
+    "choice2": "\\(2, \\infty\\)",
+    "choice3": "\\(0, \\infty\\)",
+    "choice4": "\\(0, \\infty\\)",
+    "answer": 1,
+    "explanation": "The minimum value of \\(e^x\\) is \\(0\\) as \\(x \\to -\\infty\\), so the minimum value of \\(f(x) = e^x + 2 \\geq 2\\)."
+  },
+  {
+    "question": "Determine the transformation for the function \\(f(x) = x^2\\) to get \\(g(x) = (x - 2)^2 + 3\\).",
+    "choice1": "Shift left by 2 and up by 3",
+    "choice2": "Shift right by 2 and up by 3",
+    "choice3": "Shift right by 2 and down by 3",
+    "choice4": "Shift left by 2 and down by 3",
+    "answer": 2,
+    "explanation": "The transformation involves shifting right by 2 and up by 3."
+  },
+  {
+    "question": "Evaluate \\(f(2)\\) if \\(f(x) = \\lfloor x^2 \\rfloor\\).",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "3",
+    "choice4": "2",
+    "answer": 1,
+    "explanation": "Calculating \\(f(2) = \\lfloor 2^2 \\rfloor = \\lfloor 4 \\rfloor = 4\\)."
+  },
+  {
+    "question": "For the function \\(f(x) = \\ln(x - 1)\\), determine the domain.",
+    "choice1": "\\(1, \\infty\\)",
+    "choice2": "\\(1, \\infty\\)",
+    "choice3": "\\(0, 1\\)",
+    "choice4": "\\(0, \\infty\\)",
+    "answer": 1,
+    "explanation": "The domain of \\(f(x) = \\ln(x - 1)\\) requires \\(x - 1 > 0\\), hence the domain is \\(x > 1\\) or \\((1, \\infty)\\)."
+  },
+  {
+    "question": "If \\(f(x) = \\frac{2x - 3}{x + 1}\\), determine the vertical asymptote(s) of the function.",
+    "choice1": "x = -1",
+    "choice2": "x = 3/2",
+    "choice3": "x = 0",
+    "choice4": "x = 1",
+    "answer": 1,
+    "explanation": "A vertical asymptote occurs when the denominator is zero. Setting \\(x + 1 = 0\\) gives \\(x = -1\\) as the vertical asymptote."
+  },
+  {
+    "question": "Find the sum and product of the roots of the equation \\(2x^2 - 4x + 3 = 0\\).",
+    "choice1": "Sum = 2, Product = 1.5",
+    "choice2": "Sum = 2, Product = 3",
+    "choice3": "Sum = 4, Product = 1.5",
+    "choice4": "Sum = 3, Product = 2",
+    "answer": 1,
+    "explanation": "For a quadratic equation \\(ax^2 + bx + c = 0\\), the sum of roots is \\(-b/a\\) and the product is \\(c/a\\). Here, sum = \\(\\frac{4}{2} = 2\\) and product = \\(\\frac{3}{2} = 1.5\\)."
+  },
+  {
+    "question": "Determine the nature of the roots of the equation \\(x^2 + 2x + 5 = 0\\).",
+    "choice1": "Real and different",
+    "choice2": "Real and equal",
+    "choice3": "Imaginary",
+    "choice4": "Real and rational",
+    "answer": 3,
+    "explanation": "The discriminant \\(D = b^2 - 4ac = 2^2 - 4 \\cdot 1 \\cdot 5 = 4 - 20 = -16\\) is negative, indicating imaginary roots."
+  },
+  {
+    "question": "Solve the quadratic equation \\(x^2 - 6x + 9 = 0\\) using the method of completing the square.",
+    "choice1": "x = 3",
+    "choice2": "x = 6",
+    "choice3": "x = 0",
+    "choice4": "x = 9",
+    "answer": 1,
+    "explanation": "Rewriting the equation as \\((x - 3)^2 = 0\\) gives the root x = 3 (a repeated root)."
+  },
+  {
+    "question": "If one root of the quadratic equation \\(x^2 + px + q = 0\\) is \\(r\\), express the other root in terms of \\(p, q,\\) and \\(r\\).",
+    "choice1": "p - r",
+    "choice2": "q/r",
+    "choice3": "q - r",
+    "choice4": "p/r",
+    "answer": 1,
+    "explanation": "The sum of the roots is \\(-p\\) and one root is \\(r\\), so the other root is \\(r_2 = -p - r\\)."
+  },
+  {
+    "question": "Find the value of \\(k\\) if the equation \\(x^2 + kx + 4 = 0\\) has equal roots.",
+    "choice1": "0",
+    "choice2": "4",
+    "choice3": "8",
+    "choice4": "16",
+    "answer": 3,
+    "explanation": "For equal roots, the discriminant must be zero: \\(k^2 - 4 \\cdot 1 \\cdot 4 = 0\\) leads to \\(k^2 = 16\\) or \\(k = \\pm 4\\)."
+  },
+  {
+    "question": "The quadratic equation \\(3x^2 + 7x + k = 0\\) has roots \\(3\\) and \\(-\\frac{1}{3}\\). Find the value of \\(k\\).",
+    "choice1": "1",
+    "choice2": "0",
+    "choice3": "-1",
+    "choice4": "2",
+    "answer": 2,
+    "explanation": "Using Vieta's formulas, the sum of roots is \\(3 - \\frac{1}{3} = \\frac{8}{3}\\) and the product is \\(-1\\). Thus, \\(k = 3 \\cdot 3 - 7 \\cdot \\frac{8}{3} = 0\\)."
+  },
+  {
+    "question": "Solve the inequality \\(x^2 - 4x - 5 < 0\\).",
+    "choice1": "x < -1 or x > 5",
+    "choice2": "-1 < x < 5",
+    "choice3": "x < 5",
+    "choice4": "x > -1",
+    "answer": 2,
+    "explanation": "Factoring gives \\((x - 5)(x + 1) < 0\\). The solution set is \\(-1 < x < 5\\)."
+  },
+  {
+    "question": "The quadratic equation \\(x^2 + ax + b = 0\\) has roots \\(2\\) and \\(3\\). Find the values of \\(a\\) and \\(b\\).",
+    "choice1": "a = -5, b = 6",
+    "choice2": "a = 5, b = 6",
+    "choice3": "a = -6, b = 5",
+    "choice4": "a = -5, b = -6",
+    "answer": 1,
+    "explanation": "Using Vieta's formulas, sum of roots is 5, hence \\(a = -5\\) and product is 6, so \\(b = 6\\)."
+  },
+  {
+    "question": "Find the roots of the equation \\(x^2 - 8x + 16 = 0\\) using the quadratic formula.",
+    "choice1": "x = 8",
+    "choice2": "x = 4",
+    "choice3": "x = 0",
+    "choice4": "x = 2",
+    "answer": 2,
+    "explanation": "The equation can be factored as \\((x - 4)^2 = 0\\), giving a repeated root x = 4."
+  },
+  {
+    "question": "What is the discriminant of the quadratic equation \\(5x^2 + 3x + 2 = 0\\) and what does it signify?",
+    "choice1": "9, real and equal roots",
+    "choice2": "-3, imaginary roots",
+    "choice3": "3, real and different roots",
+    "choice4": "4, real and equal roots",
+    "answer": 2,
+    "explanation": "The discriminant \\(D = 3^2 - 4 \\cdot 5 \\cdot 2 = 9 - 40 = -31\\) is negative, indicating imaginary roots."
+  },
+  {
+    "question": "Simplify the expression \\(\\log_2(8) + \\log_2(4)\\).",
+    "choice1": "6",
+    "choice2": "5",
+    "choice3": "7",
+    "choice4": "3",
+    "answer": 1,
+    "explanation": "\\(\\log_2(8) = 3\\) and \\(\\log_2(4) = 2\\), so \\(3 + 2 = 5\\)."
+  },
+  {
+    "question": "Solve the equation \\(\\log_3(x - 1) = 2\\).",
+    "choice1": "4",
+    "choice2": "9",
+    "choice3": "2",
+    "choice4": "1",
+    "answer": 2,
+    "explanation": "Using the definition of logarithms, we get \\(x - 1 = 3^2 \\Rightarrow x = 9 + 1 = 10\\)."
+  },
+  {
+    "question": "If \\(\\log_a(b) = p\\) and \\(\\log_b(c) = q\\), express \\(\\log_a(c)\\) in terms of \\(p\\) and \\(q\\).",
+    "choice1": "pq",
+    "choice2": "p + q",
+    "choice3": "p/q",
+    "choice4": "p - q",
+    "answer": 2,
+    "explanation": "Using the change of base formula, \\(\\log_a(c) = \\log_a(b) \\cdot \\log_b(c) = p \\cdot q\\)."
+  },
+  {
+    "question": "Find the value of \\(x\\) if \\(\\log_{10}(x) + \\log_{10}(2) = 1\\).",
+    "choice1": "2",
+    "choice2": "10",
+    "choice3": "20",
+    "choice4": "1",
+    "answer": 3,
+    "explanation": "Using the product property: \\(\\log_{10}(2x) = 1 \\Rightarrow 2x = 10 \\Rightarrow x = 5\\)."
+  },
+  {
+    "question": "If \\(2^{x} = 32\\), what is \\(x\\)?",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "6",
+    "choice4": "3",
+    "answer": 2,
+    "explanation": "Since \\(32 = 2^5\\), we can equate the exponents: \\(x = 5\\)."
+  },
+  {
+    "question": "Solve the inequality \\(\\log_2(x + 3) > 2\\).",
+    "choice1": "x < 1",
+    "choice2": "x > 1",
+    "choice3": "x > 5",
+    "choice4": "x < 5",
+    "answer": 3,
+    "explanation": "Converting the logarithmic inequality gives us \\(x + 3 > 2^2 \\Rightarrow x > 1\\)."
+  },
+  {
+    "question": "If \\(y = \\log_{10}(x^2 + 1)\\), find \\(\\frac{dy}{dx}\\) using logarithmic differentiation.",
+    "choice1": "\\(\\frac{2x}{x^2 + 1}\\)",
+    "choice2": "\\(\\frac{1}{2x}\\)",
+    "choice3": "\\(\\frac{1}{x}\\)",
+    "choice4": "\\(2x\\)",
+    "answer": 1,
+    "explanation": "Using the chain rule, \\(\\frac{dy}{dx} = \\frac{1}{x^2 + 1} \\cdot 2x = \\frac{2x}{x^2 + 1}\\)."
+  },
+  {
+    "question": "Evaluate \\(\\log_4(16) + \\log_4(2)\\).",
+    "choice1": "3",
+    "choice2": "4",
+    "choice3": "5",
+    "choice4": "2",
+    "answer": 1,
+    "explanation": "\\(\\log_4(16) = 2\\) and \\(\\log_4(2) = 0.5\\), so \\(2 + 0.5 = 2.5\\)."
+  }
+]

@@ -88,3 +88,95 @@ Here’s a suggested distribution of 30 questions across the three physics topic
 - **Current Electricity**: 10 Questions
 
 This distribution maintains a balanced approach across the three topics while ensuring comprehensive coverage of essential concepts for JEE Mains preparation. Would you like me to create specific questions for each topic?
+
+
+prompt----distribute this there topic to make 30 questions 
+
+
+
+Here’s how we can distribute 30 questions for the topics **d and f Block Elements**, **Solutions and Colligative Properties**, and **Chemical Kinetics**, following the JEE Mains pattern:
+
+### 1. **d and f Block Elements** - 10 Questions
+- Questions on electronic configuration and oxidation states.
+- Problems involving the color, magnetic properties, and complex formation.
+- Questions related to lanthanides and actinides.
+- Chemical reactions of transition elements with various reagents.
+- Trends in ionization energy, atomic size, and reactivity.
+  
+### 2. **Solutions and Colligative Properties** - 10 Questions
+- Questions on types of solutions, concentration terms (molarity, molality, etc.).
+- Problems involving Raoult’s law and vapor pressure.
+- Questions on boiling point elevation and freezing point depression.
+- Osmotic pressure and Van’t Hoff factor questions.
+- Problems involving abnormal molecular mass due to association or dissociation.
+
+### 3. **Chemical Kinetics** - 10 Questions
+- Questions on rate laws and order of reactions.
+- Problems involving integrated rate equations for zero, first, and second-order reactions.
+- Questions on the Arrhenius equation and activation energy.
+- Questions on half-life and effect of temperature on reaction rates.
+- Problems involving reaction mechanisms and determination of rate-determining steps.
+
+If this distribution works for you, I can provide a set of questions for each topic in the required JSON format. Let me know!
+
+
+Here’s how we can distribute the 30 questions for **Electrostatics**, **Ray Optics**, and **Gravitation** based on the JEE Mains pattern:
+
+### 1. **Electrostatics** - 12 Questions
+- Questions on Coulomb’s law and force between charges.
+- Problems involving electric field and potential due to point charges.
+- Questions related to Gauss’s law and its applications.
+- Problems on capacitors, capacitance, and energy stored in capacitors.
+- Questions on electric dipole and potential due to dipole.
+- Problems involving continuous charge distributions.
+- Questions on the behavior of conductors and insulators in electric fields.
+
+### 2. **Ray Optics** - 10 Questions
+- Questions on reflection and refraction laws.
+- Problems involving the mirror and lens formulas.
+- Questions on magnification and image formation by mirrors and lenses.
+- Problems on total internal reflection and optical fibers.
+- Questions related to prism and dispersion of light.
+- Problems involving optical instruments like microscopes and telescopes.
+
+### 3. **Gravitation** - 8 Questions
+- Questions on Newton’s law of gravitation and gravitational force.
+- Problems on gravitational field and potential energy.
+- Questions related to the motion of satellites and orbital velocity.
+- Problems involving Kepler’s laws of planetary motion.
+- Questions on acceleration due to gravity and variation with altitude and depth.
+- Problems on escape velocity and energy considerations in gravitation.
+
+If this distribution works, I can generate a set of questions for each topic in the required JSON format. Let me know!
+
+Here's the distribution of **30 questions** for **Functions**, **Quadratic Equations**, and **Logarithmic** topics based on the JEE Mains pattern:
+
+### 1. **Functions** - 12 Questions
+- Questions on domain and range of functions.
+- Problems involving composition of functions and inverse functions.
+- Questions on odd and even functions.
+- Problems related to periodicity and symmetry of functions.
+- Questions on graphical transformations of functions (shifting, scaling, etc.).
+- Problems on greatest integer function and fractional part function.
+- Questions on types of functions (polynomial, rational, trigonometric, exponential, etc.).
+
+### 2. **Quadratic Equations** - 10 Questions
+- Questions on the roots of quadratic equations and their properties (sum and product of roots).
+- Problems involving the nature of roots (real, imaginary, repeated).
+- Questions related to solving quadratic equations by factorization, completing the square, and the quadratic formula.
+- Problems on forming quadratic equations with given roots.
+- Questions on discriminant and its significance in the nature of roots.
+- Problems involving inequalities derived from quadratic equations.
+
+### 3. **Logarithmic** - 8 Questions
+- Questions on the basic properties of logarithms (product, quotient, and power rules).
+- Problems involving the change of base formula for logarithms.
+- Questions on solving logarithmic equations.
+- Problems involving the relationship between exponential and logarithmic functions.
+- Questions on logarithmic inequalities.
+- Problems involving real-life applications of logarithms (growth, decay, etc.).
+
+If this distribution works, I can generate questions for each topic in JSON format. Let me know!
+
+
+prompt - give questions in json format which will support mathjax library and keep the question medium to hard level as per the jee mains pattern and syllabus , refer to previous year questions 

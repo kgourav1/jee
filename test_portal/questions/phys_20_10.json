@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Two point charges \\(q_1 = 4 \\mu C\\) and \\(q_2 = -6 \\mu C\\) are placed 3 cm apart in a vacuum. What is the magnitude of the electrostatic force between them? \\(k = 9 \\times 10^9 \\text{ N m}^2/\\text{C}^2\\).",
+    "choice1": "36 N",
+    "choice2": "72 N",
+    "choice3": "48 N",
+    "choice4": "18 N",
+    "answer": 3,
+    "explanation": "Using Coulomb's law, \\(F = \\frac{k |q_1 q_2|}{r^2}\\), where \\(r = 0.03 m\\)."
+  },
+  {
+    "question": "A point charge of \\(2 \\times 10^{-6} C\\) is placed at the center of a spherical conducting shell. The shell has an inner radius of 5 cm and an outer radius of 10 cm. What is the electric field at a point 6 cm from the center?",
+    "choice1": "\\(0 N/C\\)",
+    "choice2": "\\(1.2 \\times 10^6 N/C\\)",
+    "choice3": "\\(6.0 \\times 10^5 N/C\\)",
+    "choice4": "\\(9.0 \\times 10^5 N/C\\)",
+    "answer": 1,
+    "explanation": "By Gauss's law, the electric field inside a conducting shell is zero."
+  },
+  {
+    "question": "A capacitor with capacitance \\(C = 20 \\mu F\\) is charged to a potential of 500 V. What is the energy stored in the capacitor?",
+    "choice1": "2.5 J",
+    "choice2": "5 J",
+    "choice3": "10 J",
+    "choice4": "25 J",
+    "answer": 2,
+    "explanation": "The energy stored in a capacitor is given by \\(U = \\frac{1}{2}CV^2\\)."
+  },
+  {
+    "question": "An electric dipole consists of charges \\(+q\\) and \\(-q\\) separated by a distance \\(2a\\). What is the electric potential at a point on the axis of the dipole at a distance \\(r\\) from the center of the dipole, where \\(r \\gg a\\)?",
+    "choice1": "\\(V = 0\\)",
+    "choice2": "\\(V = \\frac{p}{4\\pi \\epsilon_0 r^2}\\)",
+    "choice3": "\\(V = \\frac{q}{4\\pi \\epsilon_0 r}\\)",
+    "choice4": "\\(V = \\frac{2qa}{4\\pi \\epsilon_0 r^2}\\)",
+    "answer": 2,
+    "explanation": "For a dipole, the potential on the axis is \\(V = \\frac{p}{4\\pi \\epsilon_0 r^2}\\), where \\(p = q \\times 2a\\)."
+  },
+  {
+    "question": "A conducting sphere of radius 10 cm is charged with \\(+5 \\mu C\\). What is the electric potential at the surface of the sphere? \\(k = 9 \\times 10^9 \\text{ N m}^2/\\text{C}^2\\).",
+    "choice1": "\\(4.5 \\times 10^5 V\\)",
+    "choice2": "\\(1.8 \\times 10^5 V\\)",
+    "choice3": "\\(9.0 \\times 10^5 V\\)",
+    "choice4": "\\(2.7 \\times 10^5 V\\)",
+    "answer": 1,
+    "explanation": "The potential on the surface of a sphere is \\(V = \\frac{kQ}{R}\\)."
+  },
+  {
+    "question": "The electric field due to a uniformly charged ring of radius \\(R\\) and total charge \\(Q\\) at a point on the axis of the ring at a distance \\(x\\) from the center is given by:",
+    "choice1": "\\(E = \\frac{kQx}{(R^2 + x^2)^{3/2}}\\)",
+    "choice2": "\\(E = \\frac{kQ}{(R^2 + x^2)}\\)",
+    "choice3": "\\(E = \\frac{kQ}{x^2}\\)",
+    "choice4": "\\(E = \\frac{kQ}{(R + x)^2}\\)",
+    "answer": 1,
+    "explanation": "The formula for the electric field on the axis of a uniformly charged ring is derived from symmetry and Coulomb's law."
+  },
+  {
+    "question": "Two large conducting plates are placed parallel to each other with a separation of 0.01 m. The electric field between the plates is 500 N/C. What is the potential difference between the plates?",
+    "choice1": "5 V",
+    "choice2": "50 V",
+    "choice3": "500 V",
+    "choice4": "5,000 V",
+    "answer": 2,
+    "explanation": "The potential difference is \\(V = E \\cdot d\\)."
+  },
+  {
+    "question": "A charged particle moves in a uniform electric field of 100 N/C. The particle experiences a force of 5 \\(\\mu N\\). What is the charge on the particle?",
+    "choice1": "\\(5 \\times 10^{-5} C\\)",
+    "choice2": "\\(5 \\times 10^{-6} C\\)",
+    "choice3": "\\(5 \\times 10^{-8} C\\)",
+    "choice4": "\\(5 \\times 10^{-7} C\\)",
+    "answer": 4,
+    "explanation": "The force on a charge in an electric field is \\(F = qE\\). Solving for \\(q\\), we get \\(q = \\frac{F}{E}\\)."
+  },
+  {
+    "question": "A hollow metallic sphere is given a charge \\(+Q\\). The electric field inside the sphere:",
+    "choice1": "Increases with distance from the center",
+    "choice2": "Decreases with distance from the center",
+    "choice3": "Is uniform and non-zero",
+    "choice4": "Is zero",
+    "answer": 4,
+    "explanation": "The electric field inside a conductor in electrostatic equilibrium is zero."
+  },
+  {
+    "question": "An infinitely long line of charge has a uniform charge density \\(\\lambda\\). Using Gauss’s law, the electric field at a distance \\(r\\) from the line charge is:",
+    "choice1": "\\(E = \\frac{\\lambda}{2 \\pi \\epsilon_0 r}\\)",
+    "choice2": "\\(E = \\frac{\\lambda}{4 \\pi \\epsilon_0 r}\\)",
+    "choice3": "\\(E = \\frac{\\lambda}{\\epsilon_0 r^2}\\)",
+    "choice4": "\\(E = \\frac{\\lambda}{\\epsilon_0 r}\\)",
+    "answer": 1,
+    "explanation": "By applying Gauss’s law, the electric field due to an infinite line of charge is \\(E = \\frac{\\lambda}{2 \\pi \\epsilon_0 r}\\)."
+  },
+  {
+    "question": "A parallel-plate capacitor has plates of area 0.02 m\\(^2\\) separated by 0.01 m. What is the capacitance if the space between the plates is filled with air? \\(\\epsilon_0 = 8.85 \\times 10^{-12} \\text{ F/m}\\).",
+    "choice1": "\\(1.77 \\times 10^{-12} F\\)",
+    "choice2": "\\(1.77 \\times 10^{-10} F\\)",
+    "choice3": "\\(1.77 \\times 10^{-9} F\\)",
+    "choice4": "\\(1.77 \\times 10^{-11} F\\)",
+    "answer": 1,
+    "explanation": "The capacitance of a parallel-plate capacitor is \\(C = \\frac{\\epsilon_0 A}{d}\\)."
+  },
+  {
+    "question": "The electric potential at a point is given by \\(V = \\frac{kq}{r}\\). What is the potential energy of a system of two point charges \\(+q\\) and \\(-q\\) separated by a distance \\(d\\)?",
+    "choice1": "\\(U = 0\\)",
+    "choice2": "\\(U = -\\frac{kq^2}{d}\\)",
+    "choice3": "\\(U = \\frac{kq^2}{d}\\)",
+    "choice4": "\\(U = -\\frac{kq}{d}\\)",
+    "answer": 2,
+    "explanation": "The potential energy of a system of two point charges is \\(U = \\frac{kq_1 q_2}{r}\\). For opposite charges, the energy is negative."
+  },
+  {
+    "question": "A ray of light passes from air into a glass slab of refractive index \\(n = 1.5\\) at an angle of incidence \\(30^\\circ\\). What is the angle of refraction inside the glass?",
+    "choice1": "\\(19.47^\\circ\\)",
+    "choice2": "\\(25.00^\\circ\\)",
+    "choice3": "\\(20.47^\\circ\\)",
+    "choice4": "\\(18.47^\\circ\\)",
+    "answer": 1,
+    "explanation": "Using Snell's law, \\(n_1 \\sin i = n_2 \\sin r\\), where \\(n_1 = 1\\) (for air), \\(i = 30^\\circ\\)."
+  },
+  {
+    "question": "A convex lens of focal length \\(10\\, \\text{cm}\\) is used to form an image of a real object placed 15 cm from the lens. Calculate the position of the image formed.",
+    "choice1": "\\(30\\, \\text{cm}\\) on the opposite side",
+    "choice2": "\\(20\\, \\text{cm}\\) on the opposite side",
+    "choice3": "\\(6\\, \\text{cm}\\) on the same side",
+    "choice4": "\\(15\\, \\text{cm}\\) on the same side",
+    "answer": 2,
+    "explanation": "Using the lens formula, \\(\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}\\), where \\(f = 10\\, \\text{cm}\\) and \\(u = -15\\, \\text{cm}\\)."
+  },
+  {
+    "question": "A plane mirror forms an image that is \\(5\\, \\text{cm}\\) behind the mirror. How far is the object from the mirror?",
+    "choice1": "10 cm",
+    "choice2": "5 cm",
+    "choice3": "15 cm",
+    "choice4": "7.5 cm",
+    "answer": 2,
+    "explanation": "In a plane mirror, the image distance is equal to the object distance, so the object is \\(5\\, \\text{cm}\\) from the mirror."
+  },
+  {
+    "question": "An object is placed 12 cm in front of a concave mirror with a focal length of 8 cm. Calculate the magnification of the image formed.",
+    "choice1": "-1",
+    "choice2": "-2",
+    "choice3": "-0.5",
+    "choice4": "-1.5",
+    "answer": 1,
+    "explanation": "Using the mirror formula and magnification formula, \\(m = -\\frac{v}{u}\\). First find \\(v\\) using \\(\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}\\)."
+  },
+  {
+    "question": "The critical angle for total internal reflection at the interface between glass \\((n = 1.5)\\) and air is:",
+    "choice1": "\\(42^\\circ\\)",
+    "choice2": "\\(48^\\circ\\)",
+    "choice3": "\\(38^\\circ\\)",
+    "choice4": "\\(41^\\circ\\)",
+    "answer": 1,
+    "explanation": "The critical angle is given by \\(\\sin \\theta_c = \\frac{n_2}{n_1}\\), where \\(n_1 = 1.5\\) and \\(n_2 = 1\\)."
+  },
+  {
+    "question": "A convex lens is used to focus sunlight on a paper, and the paper burns after some time. If the focal length of the lens is 10 cm, where should the paper be placed relative to the lens?",
+    "choice1": "At the focal point, 10 cm from the lens",
+    "choice2": "15 cm from the lens",
+    "choice3": "20 cm from the lens",
+    "choice4": "At the optical center",
+    "answer": 1,
+    "explanation": "To focus parallel rays (sunlight), the paper must be placed at the focal point of the lens."
+  },
+  {
+    "question": "A glass prism has a refracting angle of \\(60^\\circ\\) and refractive index \\(n = 1.52\\). Calculate the minimum angle of deviation.",
+    "choice1": "\\(42.5^\\circ\\)",
+    "choice2": "\\(48.6^\\circ\\)",
+    "choice3": "\\(38.7^\\circ\\)",
+    "choice4": "\\(52.4^\\circ\\)",
+    "answer": 2,
+    "explanation": "Using the prism formula \\(\\delta_m = A(n - 1)\\), where \\(A = 60^\\circ\\) and \\(n = 1.52\\)."
+  },
+  {
+    "question": "A person suffering from myopia uses a concave lens with a focal length of \\(50\\, \\text{cm}\\). What is the power of the lens?",
+    "choice1": "-1.5 D",
+    "choice2": "-2.0 D",
+    "choice3": "-1.75 D",
+    "choice4": "-2.5 D",
+    "answer": 2,
+    "explanation": "The power of a lens is given by \\(P = \\frac{1}{f (\\text{in meters})}\\)."
+  },
+  {
+    "question": "In a compound microscope, the objective lens has a focal length of 2 cm and the eyepiece has a focal length of 5 cm. The length of the microscope tube is 20 cm. What is the magnification of the microscope?",
+    "choice1": "200x",
+    "choice2": "150x",
+    "choice3": "100x",
+    "choice4": "50x",
+    "answer": 1,
+    "explanation": "The total magnification of a compound microscope is given by \\(M = \\left(\\frac{L}{f_o}\\right) \\left(1 + \\frac{D}{f_e}\\right)\\), where \\(L = 20 \\text{cm}, f_o = 2 \\text{cm}, f_e = 5 \\text{cm}\\)."
+  },
+  {
+    "question": "A light ray is incident at an angle of \\(30^\\circ\\) on one face of a 45-45-90 prism made of glass \\((n = 1.5)\\). Will the light undergo total internal reflection at the second face of the prism?",
+    "choice1": "Yes, because the angle of incidence exceeds the critical angle.",
+    "choice2": "No, because the angle of incidence is less than the critical angle.",
+    "choice3": "Yes, because the refractive index of glass is high.",
+    "choice4": "No, because the angle of incidence is exactly the critical angle.",
+    "answer": 1,
+    "explanation": "Using Snell’s law, check if the angle of incidence at the second face is greater than the critical angle."
+  },
+  {
+    "question": "Two masses \\(m_1 = 2\\, \\text{kg}\\) and \\(m_2 = 3\\, \\text{kg}\\) are separated by a distance of \\(r = 0.5\\, \\text{m}\\). Calculate the gravitational force between them. \\(G = 6.67 \\times 10^{-11} \\text{Nm}^2/\\text{kg}^2\\).",
+    "choice1": "\\(8.0 \\times 10^{-9}\\, \\text{N}\\)",
+    "choice2": "\\(1.6 \\times 10^{-9}\\, \\text{N}\\)",
+    "choice3": "\\(2.0 \\times 10^{-9}\\, \\text{N}\\)",
+    "choice4": "\\(4.0 \\times 10^{-9}\\, \\text{N}\\)",
+    "answer": 3,
+    "explanation": "Using Newton's law of gravitation, \\(F = \\frac{G m_1 m_2}{r^2}\\), where \\(m_1 = 2\\, \\text{kg}, m_2 = 3\\, \\text{kg}\\) and \\(r = 0.5\\, \\text{m}\\)."
+  },
+  {
+    "question": "A satellite is orbiting Earth at a height of \\(400\\, \\text{km}\\) above the surface. The mass of Earth is \\(6 \\times 10^{24}\\, \\text{kg}\\) and its radius is \\(6400\\, \\text{km}\\). Calculate the orbital velocity of the satellite.",
+    "choice1": "\\(7.8\\, \\text{km/s}\\)",
+    "choice2": "\\(5.9\\, \\text{km/s}\\)",
+    "choice3": "\\(6.3\\, \\text{km/s}\\)",
+    "choice4": "\\(8.1\\, \\text{km/s}\\)",
+    "answer": 1,
+    "explanation": "Using the formula for orbital velocity, \\(v = \\sqrt{\\frac{GM}{R+h}}\\), where \\(R = 6400\\, \\text{km}, h = 400\\, \\text{km}\\), and \\(G = 6.67 \\times 10^{-11}\\, \\text{Nm}^2/\\text{kg}^2\\)."
+  },
+  {
+    "question": "The gravitational potential energy of a body of mass \\(10\\, \\text{kg}\\) at a height of \\(100\\, \\text{m}\\) from the surface of the Earth is:",
+    "choice1": "\\(-9.8 \\times 10^3\\, \\text{J}\\)",
+    "choice2": "\\(9.8 \\times 10^3\\, \\text{J}\\)",
+    "choice3": "\\(-9.8 \\times 10^4\\, \\text{J}\\)",
+    "choice4": "\\(9.8 \\times 10^4\\, \\text{J}\\)",
+    "answer": 1,
+    "explanation": "Using the formula for gravitational potential energy, \\(U = -\\frac{GMm}{r}\\), and approximating for small heights with \\(U = mgh\\), where \\(g = 9.8\\, \\text{m/s}^2\\)."
+  },
+  {
+    "question": "A satellite is revolving around the Earth in a circular orbit of radius \\(R + h\\), where \\(R\\) is the Earth's radius and \\(h\\) is the height above the Earth's surface. If the height of the satellite is increased by a factor of 2, how will the orbital velocity change?",
+    "choice1": "Decrease by a factor of \\(\\sqrt{2}\\)",
+    "choice2": "Increase by a factor of \\(\\sqrt{2}\\)",
+    "choice3": "Decrease by a factor of 2",
+    "choice4": "Remain the same",
+    "answer": 1,
+    "explanation": "Orbital velocity is given by \\(v = \\sqrt{\\frac{GM}{R+h}}\\). If the height \\(h\\) is doubled, the velocity decreases by a factor of \\(\\sqrt{2}\\)."
+  },
+  {
+    "question": "The acceleration due to gravity at the surface of the Earth is \\(9.8\\, \\text{m/s}^2\\). What will be the value of \\(g\\) at a height equal to half the radius of the Earth?",
+    "choice1": "\\(4.9\\, \\text{m/s}^2\\)",
+    "choice2": "\\(6.53\\, \\text{m/s}^2\\)",
+    "choice3": "\\(3.27\\, \\text{m/s}^2\\)",
+    "choice4": "\\(2.18\\, \\text{m/s}^2\\)",
+    "answer": 3,
+    "explanation": "Using the formula \\(g_h = g \\times \\left(\\frac{R}{R+h}\\right)^2\\), where \\(h = R/2\\)."
+  },
+  {
+    "question": "The escape velocity from Earth is approximately \\(11.2\\, \\text{km/s}\\). What would be the escape velocity from a planet having twice the radius and the same mass as Earth?",
+    "choice1": "\\(11.2\\, \\text{km/s}\\)",
+    "choice2": "\\(7.9\\, \\text{km/s}\\)",
+    "choice3": "\\(15.8\\, \\text{km/s}\\)",
+    "choice4": "\\(5.6\\, \\text{km/s}\\)",
+    "answer": 2,
+    "explanation": "Escape velocity is given by \\(v_{esc} = \\sqrt{\\frac{2GM}{R}}\\). For a planet with twice the radius, \\(v_{esc} \\propto \\frac{1}{\\sqrt{R}}\\), leading to a reduction by a factor of \\(\\sqrt{2}\\)."
+  },
+  {
+    "question": "Using Kepler’s third law, find the ratio of the periods of revolution of two planets, if their orbital radii are in the ratio of 1:4.",
+    "choice1": "1:8",
+    "choice2": "1:16",
+    "choice3": "1:4",
+    "choice4": "1:2",
+    "answer": 4,
+    "explanation": "Kepler’s third law states \\(T^2 \\propto r^3\\). So, if the ratio of radii is 1:4, the ratio of the periods will be \\(1:2\\)."
+  },
+  {
+    "question": "A body is projected vertically upward with a velocity equal to half the escape velocity from Earth. What will be the maximum height reached by the body in terms of the Earth's radius \\(R\\)?",
+    "choice1": "\\(R\\)",
+    "choice2": "\\(\\frac{R}{3}\\)",
+    "choice3": "\\(\\frac{R}{2}\\)",
+    "choice4": "\\(\\frac{R}{4}\\)",
+    "answer": 2,
+    "explanation": "Using energy conservation, the maximum height can be derived from \\(K.E. = P.E.\\), considering the initial kinetic energy to be half of that required for escape."
+  }
+]

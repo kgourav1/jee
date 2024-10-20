@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which of the following transition metals has the highest third ionization energy?",
+    "choice1": "Fe",
+    "choice2": "Mn",
+    "choice3": "Cr",
+    "choice4": "Co",
+    "answer": 3,
+    "explanation": "Cr has the highest third ionization energy due to the half-filled stability of its 3d sub-shell, making it more difficult to remove another electron."
+  },
+  {
+    "question": "Which of the following electronic configurations represents a lanthanide ion \\(\\text{Ln}^{3+}\\)?",
+    "choice1": "\\([Xe] 4f^3\\)",
+    "choice2": "\\([Kr] 4d^{10} 5s^2 5p^6\\)",
+    "choice3": "\\([Xe] 4f^{10}\\)",
+    "choice4": "\\([Ar] 3d^5 4s^2\\)",
+    "answer": 3,
+    "explanation": "A lanthanide ion typically has electrons in the 4f orbital. Ln^3+ ions often lose three electrons, and the correct configuration for a \\(\\text{Ln}^{3+}\\) ion with 4f^{10} matches the pattern."
+  },
+  {
+    "question": "Which one of the following complexes shows the highest magnetic moment?",
+    "choice1": "\\([MnCl_6]^{3-}\\)",
+    "choice2": "\\([Fe(CN)_6]^{3-}\\)",
+    "choice3": "\\([Co(NH_3)_6]^{3+}\\)",
+    "choice4": "\\([Ni(CN)_4]^{2-}\\)",
+    "answer": 1,
+    "explanation": "In \\([MnCl_6]^{3-}\\), Mn has 4 unpaired electrons, giving it the highest magnetic moment."
+  },
+  {
+    "question": "The color of transition metal complexes is due to:",
+    "choice1": "Charge transfer transitions",
+    "choice2": "d-d electronic transitions",
+    "choice3": "p-p transitions",
+    "choice4": "s-d transitions",
+    "answer": 2,
+    "explanation": "The color of transition metal complexes is primarily due to d-d electronic transitions where electrons are excited between different d-orbitals."
+  },
+  {
+    "question": "Which of the following statements about actinides is correct?",
+    "choice1": "Actinides show +3 oxidation state only",
+    "choice2": "Actinides are typically less reactive than lanthanides",
+    "choice3": "Actinides can exhibit multiple oxidation states",
+    "choice4": "Actinides have larger atomic and ionic sizes than lanthanides",
+    "answer": 3,
+    "explanation": "Actinides can exhibit multiple oxidation states due to the similar energy levels of 5f, 6d, and 7s orbitals."
+  },
+  {
+    "question": "The magnetic moment of a transition metal ion in a complex with \\(d^5\\) configuration is closest to:",
+    "choice1": "1.73 BM",
+    "choice2": "2.84 BM",
+    "choice3": "5.92 BM",
+    "choice4": "3.87 BM",
+    "answer": 3,
+    "explanation": "For a \\(d^5\\) configuration with 5 unpaired electrons, the magnetic moment can be calculated using \\(\\mu = \\sqrt{n(n+2)}\\), giving a value of 5.92 BM."
+  },
+  {
+    "question": "Which of the following ions is not expected to form colored solutions?",
+    "choice1": "\\(Ti^{3+}\\)",
+    "choice2": "\\(Sc^{3+}\\)",
+    "choice3": "\\(Fe^{2+}\\)",
+    "choice4": "\\(V^{3+}\\)",
+    "answer": 2,
+    "explanation": "Sc^{3+} does not form colored solutions because it has no electrons in the d-orbital for d-d transitions, making it colorless."
+  },
+  {
+    "question": "Which of the following lanthanides exhibits the highest paramagnetism?",
+    "choice1": "\\(Eu^{2+}\\)",
+    "choice2": "\\(Gd^{3+}\\)",
+    "choice3": "\\(Yb^{2+}\\)",
+    "choice4": "\\(Lu^{3+}\\)",
+    "answer": 2,
+    "explanation": "Gd^{3+} has 7 unpaired electrons in its 4f orbital, leading to the highest paramagnetic behavior."
+  },
+  {
+    "question": "In which of the following reactions is \\(Mn^{2+}\\) reduced?",
+    "choice1": "\\(MnO_4^{-} + 8H^+ + 5e^{-} \\rightarrow Mn^{2+} + 4H_2O\\)",
+    "choice2": "\\(Mn^{2+} + 4OH^{-} \\rightarrow MnO_2 + 2H_2O + 2e^{-}\\)",
+    "choice3": "\\(MnO_2 + 4H^+ + 2e^{-} \\rightarrow Mn^{2+} + 2H_2O\\)",
+    "choice4": "\\(MnO_4^{-} + H_2O_2 \\rightarrow Mn^{2+} + O_2 + H_2O\\)",
+    "answer": 2,
+    "explanation": "In the second reaction, Mn^{2+} is reduced to MnO_2, not oxidized to Mn^{2+}."
+  },
+  {
+    "question": "Which of the following transition metals can exhibit both +2 and +3 oxidation states?",
+    "choice1": "Zn",
+    "choice2": "Cu",
+    "choice3": "Fe",
+    "choice4": "Co",
+    "answer": 3,
+    "explanation": "Fe can exhibit both +2 (ferrous) and +3 (ferric) oxidation states."
+  },
+  {
+    "question": "Which of the following concentration terms is temperature-independent?",
+    "choice1": "Molarity",
+    "choice2": "Molality",
+    "choice3": "Normality",
+    "choice4": "Mole fraction",
+    "answer": 2,
+    "explanation": "Molality is defined as the number of moles of solute per kilogram of solvent, and since mass is independent of temperature, molality remains unchanged."
+  },
+  {
+    "question": "A 0.1 molal aqueous solution of a weak acid \\(HX\\) freezes at -0.372°C. Calculate the degree of dissociation of the acid (\\(K_f\\) for water = 1.86 °C/m).",
+    "choice1": "0.60",
+    "choice2": "0.70",
+    "choice3": "0.50",
+    "choice4": "0.80",
+    "answer": 1,
+    "explanation": "Using the formula for freezing point depression, \\(\\Delta T_f = i \\cdot K_f \\cdot m\\), and solving for the van't Hoff factor \\(i\\), we can find the degree of dissociation."
+  },
+  {
+    "question": "Raoult's law is applicable for which type of solutions?",
+    "choice1": "Ideal solutions",
+    "choice2": "Non-ideal solutions showing positive deviation",
+    "choice3": "Non-ideal solutions showing negative deviation",
+    "choice4": "All solutions",
+    "answer": 1,
+    "explanation": "Raoult's law is applicable only to ideal solutions where the interactions between solute and solvent molecules are similar to those between solvent molecules themselves."
+  },
+  {
+    "question": "The vapor pressure of pure benzene is 100 torr. If 2 moles of a non-volatile solute are dissolved in 8 moles of benzene, what is the vapor pressure of the solution?",
+    "choice1": "80 torr",
+    "choice2": "85 torr",
+    "choice3": "90 torr",
+    "choice4": "75 torr",
+    "answer": 2,
+    "explanation": "Using Raoult's law, \\(P_{solution} = X_{solvent} \\cdot P^0_{solvent}\\), where \\(X_{solvent}\\) is the mole fraction of benzene."
+  },
+  {
+    "question": "Which colligative property can be used to determine the molar mass of macromolecules such as proteins?",
+    "choice1": "Boiling point elevation",
+    "choice2": "Freezing point depression",
+    "choice3": "Osmotic pressure",
+    "choice4": "Vapor pressure lowering",
+    "answer": 3,
+    "explanation": "Osmotic pressure is most effective for determining the molar mass of large molecules like proteins due to the small concentration of solute needed for accurate measurement."
+  },
+  {
+    "question": "Which of the following is true about the Van't Hoff factor \\(i\\) for an electrolyte that undergoes dissociation?",
+    "choice1": "\\(i\\) > 1",
+    "choice2": "\\(i\\) < 1",
+    "choice3": "\\(i = 1\\)",
+    "choice4": "\\(i\\) = 0",
+    "answer": 1,
+    "explanation": "For dissociation, the Van’t Hoff factor \\(i\\) is greater than 1 because more particles are produced than the number of formula units dissolved."
+  },
+  {
+    "question": "A 0.1 M solution of a non-volatile, non-electrolyte solute has an osmotic pressure of 2.46 atm at 27°C. Calculate the molar mass of the solute. (R = 0.0821 L atm/mol K)",
+    "choice1": "100 g/mol",
+    "choice2": "80 g/mol",
+    "choice3": "60 g/mol",
+    "choice4": "40 g/mol",
+    "answer": 3,
+    "explanation": "Using the formula for osmotic pressure, \\(\\pi = nRT/V\\), where \\(\\pi\\) is osmotic pressure, solve for the molar mass."
+  },
+  {
+    "question": "The boiling point of a solution containing 0.5 moles of NaCl in 500 g of water is elevated by 1.87°C. What is the boiling point elevation constant \\(K_b\\) of water?",
+    "choice1": "0.512 °C/m",
+    "choice2": "1.86 °C/m",
+    "choice3": "0.93 °C/m",
+    "choice4": "2.00 °C/m",
+    "answer": 1,
+    "explanation": "Using the formula for boiling point elevation, \\(\\Delta T_b = i \\cdot K_b \\cdot m\\), solve for \\(K_b\\)."
+  },
+  {
+    "question": "Which of the following causes the highest freezing point depression?",
+    "choice1": "\\(0.1 M NaCl\\)",
+    "choice2": "\\(0.1 M glucose\\)",
+    "choice3": "\\(0.1 M BaCl_2\\)",
+    "choice4": "\\(0.1 M Al_2(SO_4)_3\\)",
+    "answer": 4,
+    "explanation": "Aluminum sulfate dissociates into the largest number of ions, leading to the greatest freezing point depression."
+  },
+  {
+    "question": "A solution containing 1 mole of urea in 1000 g of water freezes at -1.86°C. What is the freezing point depression constant \\(K_f\\) for water?",
+    "choice1": "0.512 °C/m",
+    "choice2": "1.86 °C/m",
+    "choice3": "2.00 °C/m",
+    "choice4": "1.00 °C/m",
+    "answer": 2,
+    "explanation": "Using the formula for freezing point depression, \\(\\Delta T_f = i \\cdot K_f \\cdot m\\), solve for \\(K_f\\)."
+  },
+  {
+    "question": "The rate constant for a reaction is doubled when the temperature is increased from 300 K to 310 K. Calculate the activation energy \\(E_a\\) for the reaction. \\(R = 8.314 \\text{ J/mol K}\\).",
+    "choice1": "53.6 kJ/mol",
+    "choice2": "43.3 kJ/mol",
+    "choice3": "66.2 kJ/mol",
+    "choice4": "58.1 kJ/mol",
+    "answer": 1,
+    "explanation": "Using the Arrhenius equation and solving for activation energy, \\(E_a = R \\cdot \\left( \\frac{T_1 T_2}{T_2 - T_1} \\right) \\cdot \\ln \\left( \\frac{k_2}{k_1} \\right)\\)."
+  },
+  {
+    "question": "For a first-order reaction, the half-life is 10 minutes. What is the rate constant?",
+    "choice1": "0.0693 min\\(^{-1}\\)",
+    "choice2": "0.0231 min\\(^{-1}\\)",
+    "choice3": "0.0462 min\\(^{-1}\\)",
+    "choice4": "0.0347 min\\(^{-1}\\)",
+    "answer": 1,
+    "explanation": "For a first-order reaction, the rate constant \\(k\\) is given by \\(k = \\frac{0.693}{t_{1/2}}\\). Substituting the given half-life, \\(t_{1/2} = 10\\) minutes, gives the rate constant."
+  },
+  {
+    "question": "The decomposition of a substance follows first-order kinetics. If 75% of the substance decomposes in 60 minutes, what is the rate constant?",
+    "choice1": "0.0309 min\\(^{-1}\\)",
+    "choice2": "0.0231 min\\(^{-1}\\)",
+    "choice3": "0.0462 min\\(^{-1}\\)",
+    "choice4": "0.0347 min\\(^{-1}\\)",
+    "answer": 1,
+    "explanation": "For first-order kinetics, the integrated rate law is \\(\\ln \\frac{[A_0]}{[A]} = kt\\). Solving for \\(k\\) when 75% decomposes means \\([A] = 0.25[A_0]\\)."
+  },
+  {
+    "question": "In a reaction \\(A \\rightarrow B\\), the rate of reaction is directly proportional to the square of the concentration of A. The overall order of the reaction is:",
+    "choice1": "Zero",
+    "choice2": "First",
+    "choice3": "Second",
+    "choice4": "Third",
+    "answer": 3,
+    "explanation": "The reaction follows second-order kinetics as the rate is proportional to \\([A]^2\\)."
+  },
+  {
+    "question": "The rate constant for a second-order reaction is \\(0.54 \\text{ mol}^{-1} \\text{ L s}^{-1}\\). If the initial concentration of the reactant is 0.1 mol/L, what will be the concentration of the reactant after 25 seconds?",
+    "choice1": "0.04 mol/L",
+    "choice2": "0.02 mol/L",
+    "choice3": "0.06 mol/L",
+    "choice4": "0.01 mol/L",
+    "answer": 1,
+    "explanation": "For a second-order reaction, the integrated rate law is \\(\\frac{1}{[A]} = kt + \\frac{1}{[A_0]}\\). Substituting the given values, we solve for \\([A]\\)."
+  },
+  {
+    "question": "The half-life of a zero-order reaction is 50 seconds. If the initial concentration is 0.4 M, what will be the concentration after 100 seconds?",
+    "choice1": "0.3 M",
+    "choice2": "0.2 M",
+    "choice3": "0.1 M",
+    "choice4": "0.05 M",
+    "answer": 2,
+    "explanation": "For a zero-order reaction, \\([A] = [A_0] - kt\\), and the half-life is given by \\(t_{1/2} = \\frac{[A_0]}{2k}\\)."
+  },
+  {
+    "question": "For the reaction mechanism: \\(A + B \\rightarrow C\\) (slow step), \\(C + B \\rightarrow D\\) (fast step), what is the rate law for the overall reaction?",
+    "choice1": "Rate = \\(k[A]^2\\)",
+    "choice2": "Rate = \\(k[A][B]^2\\)",
+    "choice3": "Rate = \\(k[A][B]\\)",
+    "choice4": "Rate = \\(k[B]^2\\)",
+    "answer": 3,
+    "explanation": "The rate law is determined by the slow step in the reaction mechanism, which involves both \\(A\\) and \\(B\\)."
+  },
+  {
+    "question": "The rate constant of a reaction is found to increase by a factor of 4 when the temperature is raised by 20 K. What is the activation energy \\(E_a\\) of the reaction? (\\(R = 8.314 \\text{ J/mol K}\\))",
+    "choice1": "52.3 kJ/mol",
+    "choice2": "48.7 kJ/mol",
+    "choice3": "60.4 kJ/mol",
+    "choice4": "57.2 kJ/mol",
+    "answer": 2,
+    "explanation": "Using the Arrhenius equation and taking the ratio of the rate constants at two temperatures, we can solve for \\(E_a\\)."
+  },
+  {
+    "question": "The rate of a reaction is given by \\(r = k[A][B]\\). What happens to the rate if the concentration of \\(A\\) is doubled while \\(B\\) is halved?",
+    "choice1": "Rate doubles",
+    "choice2": "Rate halves",
+    "choice3": "Rate remains the same",
+    "choice4": "Rate becomes four times",
+    "answer": 3,
+    "explanation": "Since the reaction is first order in both \\(A\\) and \\(B\\), doubling \\([A]\\) and halving \\([B]\\) will cancel each other's effects."
+  },
+  {
+    "question": "The decomposition of \\(H_2O_2\\) is a first-order reaction. The half-life is 20 minutes at a certain temperature. What fraction of the original \\(H_2O_2\\) remains after 60 minutes?",
+    "choice1": "\\(1/2\\)",
+    "choice2": "\\(1/4\\)",
+    "choice3": "\\(1/8\\)",
+    "choice4": "\\(1/16\\)",
+    "answer": 2,
+    "explanation": "Since the half-life is 20 minutes, after 60 minutes, 3 half-lives have passed, so \\(1/8\\) of the original remains."
+  }
+]

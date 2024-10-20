@@ -14,33 +14,33 @@ let sub = [
   "Math 06/10",
   "Chem 06/10",
   "Phys 06/10",
-  "Maths 13/10",
+  "Math 13/10",
   "Chem 13/10",
   "Phys 13/10",
-  "Maths 20/10",
+  "Math 20/10",
   "Chem 20/10",
   "Phys 20/10",
-  "Maths 27/10",
+  "Math 27/10",
   "Chem 27/10",
   "Phys 27/10",
-  "Maths 03/11",
+  "Math 03/11",
   "Chem 03/11",
   "Phys 03/11",
-  "Maths 10/11",
+  "Math 10/11",
   "Chem 10/11",
   "Phys 10/11",
-  "Maths 17/11",
+  "Math 17/11",
   "Chem 17/11",
   "Phys 17/11",
-  "Maths 24/11",
+  "Math 24/11",
   "Chem 24/11",
   "Phys 24/11",
-  "Maths 01/12",
+  "Math 01/12",
   "Chem 01/12",
   "Phys 01/12",
 ];
 
-let currTest = "13/10";
+let currTest = "20/10";
 
 // Get unique dates from the sub array
 let uniqueDates = [...new Set(sub.map((s) => s.split(" ")[1]))];
