@@ -1,17 +1,14 @@
 {
   "Maths": [
-    { "name": "Functions" },
-    { "name": "Quadratic Equations" },
-    { "name": "Logarithmic" }
+    { "name": "Parabola" },
+    { "name": "Continuity and Differentiability" }
   ],
   "Physics": [
-    { "name": "Electrostatics" },
-    { "name": "Ray Optics" },
-    { "name": "Gravitation" }
+    { "name": "Oscillations (SHM)" },
+    { "name": "Units and Dimensions" }
   ],
   "Chemistry": [
-    { "name": "d and f Block Elements" },
-    { "name": "Solutions and Colligative Properties" },
-    { "name": "Chemical Kinetics" }
+    { "name": "s Block Elements and Hydrogen" },
+    { "name": "p Block Elements" }
   ]
 }

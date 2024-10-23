@@ -1,0 +1,17 @@
+{
+  "Maths": [
+    { "name": "Functions" },
+    { "name": "Quadratic Equations" },
+    { "name": "Logarithmic" }
+  ],
+  "Physics": [
+    { "name": "Electrostatics" },
+    { "name": "Ray Optics" },
+    { "name": "Gravitation" }
+  ],
+  "Chemistry": [
+    { "name": "d and f Block Elements" },
+    { "name": "Solutions and Colligative Properties" },
+    { "name": "Chemical Kinetics" }
+  ]
+}
