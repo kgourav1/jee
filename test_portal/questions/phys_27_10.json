@@ -1,0 +1,272 @@
+[
+  {
+    "question": "A particle performing simple harmonic motion has a period of 2 seconds. If the displacement of the particle at \\( t = 0 \\) is \\( 4 \\; \\text{cm} \\) and its velocity at \\( t = 0 \\) is \\( 6 \\; \\text{cm/s} \\), find the amplitude of oscillation. \\( \\text{(a) 5 cm} \\) \\( \\text{(b) 6 cm} \\) \\( \\text{(c) 8 cm} \\) \\( \\text{(d) 10 cm} \\)",
+    "choice1": "5 cm",
+    "choice2": "6 cm",
+    "choice3": "8 cm",
+    "choice4": "10 cm",
+    "answer": 3,
+    "explanation": "Using \\( A = \\sqrt{x^2 + \\left( \\frac{v}{\\omega} \\right)^2} \\) where \\( \\omega = \\frac{2\\pi}{T} = \\pi \\, \\text{rad/s}. \\)"
+  },
+  {
+    "question": "The displacement \\( x \\) of a particle undergoing SHM is given by \\( x = 4\\sin\\left( 3\\pi t + \\frac{\\pi}{3} \\right) \\; \\text{cm}. \\) Find the maximum velocity of the particle. \\( \\text{(a) 6 cm/s} \\) \\( \\text{(b) 10 cm/s} \\) \\( \\text{(c) 12 cm/s} \\) \\( \\text{(d) 24 cm/s} \\)",
+    "choice1": "6 cm/s",
+    "choice2": "10 cm/s",
+    "choice3": "12 cm/s",
+    "choice4": "24 cm/s",
+    "answer": 3,
+    "explanation": "Maximum velocity \\( v_{\\text{max}} = A\\omega = 4 \\times 3\\pi = 12\\pi \\; \\text{cm/s}. \\)"
+  },
+  {
+    "question": "In a damped oscillation system, the amplitude of oscillation becomes half of its initial value in 5 seconds. The time taken for the amplitude to become one-fourth of its initial value is: \\( \\text{(a) 5 s} \\) \\( \\text{(b) 10 s} \\) \\( \\text{(c) 15 s} \\) \\( \\text{(d) 20 s} \\)",
+    "choice1": "5 s",
+    "choice2": "10 s",
+    "choice3": "15 s",
+    "choice4": "20 s",
+    "answer": 2,
+    "explanation": "The amplitude decreases exponentially, so \\( t_{\\frac{1}{4}} = 2 \\times t_{\\frac{1}{2}} = 10 \\; \\text{s}. \\)"
+  },
+  {
+    "question": "A simple pendulum of length \\( L \\) and mass \\( m \\) is oscillating with an amplitude of \\( \\theta_0 \\). The maximum kinetic energy of the pendulum bob is: \\( \\text{(a) } \\frac{1}{2} mL^2 \\theta_0^2 \\) \\( \\text{(b) } mgL \\theta_0^2 \\) \\( \\text{(c) } mgL \\theta_0 \\) \\( \\text{(d) } mgL \\theta_0^2 \\)",
+    "choice1": "\\(\\frac{1}{2} mL^2 \\theta_0^2 \\)",
+    "choice2": "\\(mgL \\theta_0^2 \\)",
+    "choice3": "\\(mgL \\theta_0 \\)",
+    "choice4": "\\(mgL \\theta_0^2 \\)",
+    "answer": 4,
+    "explanation": "Maximum KE occurs at the equilibrium position, \\( KE_{\\text{max}} = mgL \\theta_0^2 \\)."
+  },
+  {
+    "question": "The time period of a simple pendulum is \\( T \\) on the surface of Earth. The time period of this pendulum at a depth of \\( \\frac{R}{2} \\) (where \\( R \\) is the radius of Earth) is: \\( \\text{(a) } T \\) \\( \\text{(b) } T \\sqrt{\\frac{3}{4}} \\) \\( \\text{(c) } T \\sqrt{2} \\) \\( \\text{(d) } T \\sqrt{\\frac{4}{3}} \\)",
+    "choice1": "\\(T \\)",
+    "choice2": "\\(T \\sqrt{\\frac{3}{4}} \\)",
+    "choice3": "\\(T \\sqrt{2} \\)",
+    "choice4": "\\(T \\sqrt{\\frac{4}{3}} \\)",
+    "answer": 2,
+    "explanation": "At depth \\( d \\), \\( g' = g \\left(1 - \\frac{d}{R}\\right) \\), so \\( T' = T \\sqrt{\\frac{3}{4}}. \\)"
+  },
+  {
+    "question": "A spring-mass system oscillates with a frequency \\( f \\). If the spring constant is made four times its initial value, the new frequency of oscillation will be: \\( \\text{(a) } 2f \\) \\( \\text{(b) } \\frac{f}{2} \\) \\( \\text{(c) } 4f \\) \\( \\text{(d) } f \\)",
+    "choice1": "2f",
+    "choice2": "\\(\\frac{f}{2} \\)",
+    "choice3": "4f",
+    "choice4": "f",
+    "answer": 1,
+    "explanation": "Frequency \\( f \\propto \\sqrt{k} \\). If \\( k \\) is quadrupled, \\( f' = 2f. \\)"
+  },
+  {
+    "question": "A particle undergoing SHM has kinetic energy \\( K = \\frac{1}{2}mv^2 \\) at displacement \\( x \\) from mean position. Find \\( x \\) if total energy is \\( E \\). \\( \\text{(a) } x = \\pm \\sqrt{\\frac{2E}{k} - \\frac{2K}{k}} \\) \\( \\text{(b) } x = \\pm \\sqrt{\\frac{2K}{k}} \\) \\( \\text{(c) } x = \\pm \\sqrt{\\frac{E}{k}} \\) \\( \\text{(d) } x = \\pm \\frac{K}{m} \\)",
+    "choice1": "\\(x = \\pm \\sqrt{\\frac{2E}{k} - \\frac{2K}{k}} \\)",
+    "choice2": "\\(x = \\pm \\sqrt{\\frac{2K}{k}} \\)",
+    "choice3": "\\(x = \\pm \\sqrt{\\frac{E}{k}} \\)",
+    "choice4": "\\(x = \\pm \\frac{K}{m} \\)",
+    "answer": 1,
+    "explanation": "Using \\( E = K + U \\) and \\( U = \\frac{1}{2}kx^2 \\)."
+  },
+  {
+    "question": "A block of mass \\( 2 \\, \\text{kg} \\) attached to a spring executes SHM with an amplitude of \\( 0.1 \\, \\text{m} \\) and a time period of \\( \\frac{\\pi}{5} \\, \\text{s} \\). The maximum force exerted by the spring on the block is: \\( \\text{(a) } 8 \\, \\text{N} \\) \\( \\text{(b) } 12 \\, \\text{N} \\) \\( \\text{(c) } 16 \\, \\text{N} \\) \\( \\text{(d) } 20 \\, \\text{N} \\)",
+    "choice1": "8 N",
+    "choice2": "12 N",
+    "choice3": "16 N",
+    "choice4": "20 N",
+    "answer": 3,
+    "explanation": "Using \\( F_{\\text{max}} = kA \\) and \\( k = \\frac{4\\pi^2 m}{T^2} \\)."
+  },
+  {
+    "question": "The displacement \\( x \\) of a particle executing SHM is \\( x = 10\\cos\\left(\\omega t + \\frac{\\pi}{6}\\right) \\). Find the initial phase of the particle when \\( x = 5 \\). \\( \\text{(a) } \\frac{\\pi}{6} \\) \\( \\text{(b) } \\frac{\\pi}{3} \\) \\( \\text{(c) } \\frac{\\pi}{4} \\) \\( \\text{(d) } \\frac{\\pi}{2} \\)",
+    "choice1": "\\(\\frac{\\pi}{6} \\)",
+    "choice2": "\\(\\frac{\\pi}{3} \\)",
+    "choice3": "\\(\\frac{\\pi}{4} \\)",
+    "choice4": "\\(\\frac{\\pi}{2} \\)",
+    "answer": 2,
+    "explanation": "Solving for \\( \\omega t + \\frac{\\pi}{6} = \\cos^{-1}(0.5). \\)"
+  },
+  {
+    "question": "A particle of mass \\( m \\) is attached to two springs of spring constants \\( k_1 \\) and \\( k_2 \\) in parallel. The effective spring constant \\( k_{\\text{eff}} \\) and frequency of oscillation are: \\( \\text{(a) } k_1 + k_2, \\; \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 + k_2}{m}} \\) \\( \\text{(b) } \\frac{k_1 + k_2}{2}, \\; \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 + k_2}{2m}} \\) \\( \\text{(c) } k_1 - k_2, \\; \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 - k_2}{m}} \\) \\( \\text{(d) } \\frac{k_1}{2} + k_2, \\; \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 + k_2}{m}} \\)",
+    "choice1": "\\( k_1 + k_2, \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 + k_2}{m}} \\)",
+    "choice2": "\\( \\frac{k_1 + k_2}{2}, \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 + k_2}{2m}} \\)",
+    "choice3": "\\( k_1 - k_2, \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 - k_2}{m}} \\)",
+    "choice4": "\\( \\frac{k_1}{2} + k_2, \\frac{1}{2\\pi}\\sqrt{\\frac{k_1 + k_2}{m}} \\)",
+    "answer": 1,
+    "explanation": "Effective spring constant in parallel is \\( k_1 + k_2 \\)."
+  },
+  {
+    "question": "A mass \\( m \\) oscillates on a frictionless surface attached to a spring of spring constant \\( k \\). If the mass is displaced by a distance \\( A \\) and released, what is the period of oscillation? \\( \\text{(a) } 2\\pi \\sqrt{\\frac{m}{k}} \\) \\( \\text{(b) } \\sqrt{\\frac{m}{k}} \\) \\( \\text{(c) } \\frac{m}{k} \\) \\( \\text{(d) } 2\\pi k \\)",
+    "choice1": "\\(2\\pi \\sqrt{\\frac{m}{k}} \\)",
+    "choice2": "\\(\\sqrt{\\frac{m}{k}} \\)",
+    "choice3": "\\(\\frac{m}{k} \\)",
+    "choice4": "\\(2\\pi k \\)",
+    "answer": 1,
+    "explanation": "The period of oscillation is given by \\( T = 2\\pi \\sqrt{\\frac{m}{k}}. \\)"
+  },
+  {
+    "question": "A simple harmonic oscillator has a maximum speed of \\( 8 \\, \\text{m/s} \\) and an amplitude of \\( 2 \\, \text{m} \\). Calculate the spring constant \\( k \\). \\( \\text{(a) } 32 \\, \text{N/m} \\) \\( \\text{(b) } 64 \\, \text{N/m} \\) \\( \\text{(c) } 16 \\, \text{N/m} \\) \\( \\text{(d) } 128 \\, \text{N/m} \\)",
+    "choice1": "32 N/m",
+    "choice2": "64 N/m",
+    "choice3": "16 N/m",
+    "choice4": "128 N/m",
+    "answer": 2,
+    "explanation": "Using \\( v_{\\text{max}} = A\\omega \\) and \\( \\omega = \\sqrt{\\frac{k}{m}} \\), we can solve for \\( k. \\)"
+  },
+  {
+    "question": "A simple harmonic oscillator has a displacement equation given by \\( x(t) = A \\cos(\\omega t + \\phi) \\). If at \\( t = 0 \\), the displacement is \\( 3 \\) m and the velocity is \\( -4 \\) m/s, determine the phase constant \\( \\phi \\). \\( \\text{(a) } \\frac{2\\pi}{3} \\) \\( \\text{(b) } -\\frac{\\pi}{3} \\) \\( \\text{(c) } 0 \\) \\( \\text{(d) } \\frac{\\pi}{3} \\)",
+    "choice1": "\\(\\frac{2\\pi}{3} \\)",
+    "choice2": "\\(-\\frac{\\pi}{3} \\)",
+    "choice3": "\\(0 \\)",
+    "choice4": "\\(\\frac{\\pi}{3} \\)",
+    "answer": 2,
+    "explanation": "Using the velocity equation and the known values to solve for \\( \\phi \\)."
+  },
+  {
+    "question": "A pendulum of length \\( L \\) undergoes small oscillations. If the length of the pendulum is doubled, what happens to its time period? \\( \\text{(a) } \\sqrt{2} \\, T \\) \\( \\text{(b) } 2T \\) \\( \\text{(c) } \\frac{T}{2} \\) \\( \\text{(d) } 4T \\)",
+    "choice1": "\\(\\sqrt{2} \\, T \\)",
+    "choice2": "2T",
+    "choice3": "\\(\\frac{T}{2} \\)",
+    "choice4": "4T",
+    "answer": 2,
+    "explanation": "The time period of a simple pendulum is given by \\( T = 2\\pi \\sqrt{\\frac{L}{g}} \\), which shows it doubles when \\( L \\) is doubled."
+  },
+  {
+    "question": "In a forced oscillator, the natural frequency is \\( \\omega_0 \\) and the frequency of the driving force is \\( \\omega \\). If \\( \\omega \\) is much greater than \\( \\omega_0 \\), what type of resonance is observed? \\( \\text{(a) } Underdamped \\) \\( \\text{(b) } Overdamped \\) \\( \\text{(c) } Critical \\) \\( \\text{(d) } No resonance \\)",
+    "choice1": "Underdamped",
+    "choice2": "Overdamped",
+    "choice3": "Critical",
+    "choice4": "No resonance",
+    "answer": 4,
+    "explanation": "When the driving frequency is much greater than the natural frequency, no resonance occurs."
+  },
+  {
+    "question": "What are the dimensions of force in terms of mass (M), length (L), and time (T)? \\( \\text{(a) } M L^2 T^{-2} \\) \\( \\text{(b) } M L T^{-2} \\) \\( \\text{(c) } M T^{-2} \\) \\( \\text{(d) } M L^2 T^{-1} \\)",
+    "choice1": "\\(M L^2 T^{-2}\\)",
+    "choice2": "\\(M L T^{-2}\\)",
+    "choice3": "\\(M T^{-2}\\)",
+    "choice4": "\\(M L^2 T^{-1}\\)",
+    "answer": 2,
+    "explanation": "Force is defined as mass times acceleration, and acceleration has dimensions of \\( L T^{-2} \\). Thus, \\( F = M \\cdot (L T^{-2}) \\)."
+  },
+  {
+    "question": "Which of the following physical quantities has no dimension? \\( \\text{(a) } Force \\) \\( \\text{(b) } Energy \\) \\( \\text{(c) } Strain \\) \\( \\text{(d) } Velocity \\)",
+    "choice1": "Force",
+    "choice2": "Energy",
+    "choice3": "Strain",
+    "choice4": "Velocity",
+    "answer": 3,
+    "explanation": "Strain is a ratio of lengths (change in length/original length) and is thus dimensionless."
+  },
+  {
+    "question": "The dimensions of a physical quantity are \\( [M^{-1} L^2 T^3] \\). What is the physical quantity? \\( \\text{(a) } Pressure \\) \\( \\text{(b) } Energy \\) \\( \\text{(c) } Surface Tension \\) \\( \\text{(d) } Angular Momentum \\)",
+    "choice1": "Pressure",
+    "choice2": "Energy",
+    "choice3": "Surface Tension",
+    "choice4": "Angular Momentum",
+    "answer": 3,
+    "explanation": "Surface tension has dimensions of force per unit length, which simplifies to \\( [M T^{-2}] / [L] = [M L^{-1} T^{-2}] \\)."
+  },
+  {
+    "question": "If \\( L \\) is a length dimension, \\( T \\) is a time dimension, and \\( M \\) is a mass dimension, which of the following has dimensions \\( [M^0 L^1 T^{-2}] \\)? \\( \\text{(a) } Velocity \\) \\( \\text{(b) } Acceleration \\) \\( \\text{(c) } Force \\) \\( \\text{(d) } Momentum \\)",
+    "choice1": "Velocity",
+    "choice2": "Acceleration",
+    "choice3": "Force",
+    "choice4": "Momentum",
+    "answer": 1,
+    "explanation": "Velocity has dimensions of \\( [L T^{-1}] \\), which is equivalent to \\( [M^0 L^1 T^{-1}] \\)."
+  },
+  {
+    "question": "What are the dimensions of pressure? \\( \\text{(a) } M L^{-1} T^{-2} \\) \\( \\text{(b) } M L T^{-2} \\) \\( \\text{(c) } M L^{-2} T^{-2} \\) \\( \\text{(d) } M L^2 T^{-1} \\)",
+    "choice1": "\\(M L^{-1} T^{-2}\\)",
+    "choice2": "\\(M L T^{-2}\\)",
+    "choice3": "\\(M L^{-2} T^{-2}\\)",
+    "choice4": "\\(M L^2 T^{-1}\\)",
+    "answer": 3,
+    "explanation": "Pressure is defined as force per unit area, and since \\( F = M L T^{-2} \\), pressure is \\( [M L T^{-2}] / [L^2] = [M L^{-2} T^{-2}] \\)."
+  },
+  {
+    "question": "The dimensions of the gravitational constant \\( G \\) in the equation of Newton's law of gravitation are \\( \\text{(a) } M^{-1} L^3 T^{-2} \\) \\( \\text{(b) } M^1 L^2 T^{-2} \\) \\( \\text{(c) } M^1 L^3 T^{-2} \\) \\( \\text{(d) } M^0 L^3 T^{-2} \\)",
+    "choice1": "\\(M^{-1} L^3 T^{-2}\\)",
+    "choice2": "\\(M^1 L^2 T^{-2}\\)",
+    "choice3": "\\(M^1 L^3 T^{-2}\\)",
+    "choice4": "\\(M^0 L^3 T^{-2}\\)",
+    "answer": 1,
+    "explanation": "From \\( F = G \\frac{m_1 m_2}{r^2} \\), we derive the dimensions of \\( G \\) as \\( M^{-1} L^3 T^{-2} \\)."
+  },
+  {
+    "question": "What are the dimensions of energy? \\( \\text{(a) } M L^2 T^{-2} \\) \\( \\text{(b) } M^2 L^2 T^{-2} \\) \\( \\text{(c) } M L^3 T^{-1} \\) \\( \\text{(d) } M L^2 T^{-1} \\)",
+    "choice1": "\\(M L^2 T^{-2}\\)",
+    "choice2": "\\(M^2 L^2 T^{-2}\\)",
+    "choice3": "\\(M L^3 T^{-1}\\)",
+    "choice4": "\\(M L^2 T^{-1}\\)",
+    "answer": 1,
+    "explanation": "Energy is defined as work done, and work has dimensions \\( [M L^2 T^{-2}] \\)."
+  },
+  {
+    "question": "Which of the following quantities is not a scalar? \\( \\text{(a) } Energy \\) \\( \\text{(b) } Work \\) \\( \\text{(c) } Pressure \\) \\( \\text{(d) } Velocity \\)",
+    "choice1": "Energy",
+    "choice2": "Work",
+    "choice3": "Pressure",
+    "choice4": "Velocity",
+    "answer": 4,
+    "explanation": "Velocity is a vector quantity as it has both magnitude and direction, whereas the others are scalars."
+  },
+  {
+    "question": "The dimensions of frequency are represented as \\( \\text{(a) } T^{-1} \\) \\( \\text{(b) } M^0 L^0 T^1 \\) \\( \\text{(c) } M^1 L^0 T^{-2} \\) \\( \\text{(d) } M L^0 T^0 \\)",
+    "choice1": "\\(T^{-1}\\)",
+    "choice2": "\\(M^0 L^0 T^1\\)",
+    "choice3": "\\(M^1 L^0 T^{-2}\\)",
+    "choice4": "\\(M L^0 T^0\\)",
+    "answer": 1,
+    "explanation": "Frequency is defined as the number of cycles per unit time, thus its dimension is \\( T^{-1} \\)."
+  },
+  {
+    "question": "Which of the following combinations is dimensionally homogeneous? \\( \\text{(a) } [M L^2 T^{-2}] + [M L^3 T^{-2}] \\) \\( \\text{(b) } [M L^2 T^{-2}] \\cdot [M L^{-1} T^{-1}] \\) \\( \\text{(c) } [M^2 L^2 T^{-4}] \\cdot [L^2 T^2] \\) \\( \\text{(d) } [M L^2 T^{-2}] + [M^0 L^3 T^{-2}] \\)",
+    "choice1": "\\([M L^2 T^{-2}] + [M L^3 T^{-2}]\\)",
+    "choice2": "\\([M L^2 T^{-2}] \\cdot [M L^{-1} T^{-1}]\\)",
+    "choice3": "\\([M^2 L^2 T^{-4}] \\cdot [L^2 T^2]\\)",
+    "choice4": "\\([M L^2 T^{-2}] + [M^0 L^3 T^{-2}]\\)",
+    "answer": 2,
+    "explanation": "The second option is dimensionally homogeneous since the dimensions will result in \\( [M^2 L T^{-3}] \\)."
+  },
+  {
+    "question": "If \\( R \\) is the universal gas constant with dimensions \\( [M^0 L^2 T^{-2} K^{-1}] \\), what is the dimensional formula for the quantity \\( R \\times T \\) where \\( T \\) is temperature? \\( \\text{(a) } M L^2 T^{-3} \\) \\( \\text{(b) } M L^2 T^{-2} \\) \\( \\text{(c) } M L^2 T^{-1} \\) \\( \\text{(d) } M^0 L^2 T^{-2} \\)",
+    "choice1": "\\(M L^2 T^{-3}\\)",
+    "choice2": "\\(M L^2 T^{-2}\\)",
+    "choice3": "\\(M L^2 T^{-1}\\)",
+    "choice4": "\\(M^0 L^2 T^{-2}\\)",
+    "answer": 2,
+    "explanation": "The dimensions of \\( R \\times T \\) are \\( [M^0 L^2 T^{-2} K^{-1}] \\cdot [K] = [M^0 L^2 T^{-2}] \\)."
+  },
+  {
+    "question": "The dimensions of work done are equivalent to which of the following? \\( \\text{(a) } [M^1 L^2 T^{-2}] \\) \\( \\text{(b) } [M^0 L^2 T^0] \\) \\( \\text{(c) } [M^1 L^1 T^{-1}] \\) \\( \\text{(d) } [M^2 L^2 T^{-2}] \\)",
+    "choice1": "\\(M^1 L^2 T^{-2}\\)",
+    "choice2": "\\(M^0 L^2 T^0\\)",
+    "choice3": "\\(M^1 L^1 T^{-1}\\)",
+    "choice4": "\\(M^2 L^2 T^{-2}\\)",
+    "answer": 1,
+    "explanation": "Work is defined as force times displacement. Since force has dimensions \\( [M L T^{-2}] \\) and displacement has dimensions \\( [L] \\), work has dimensions \\( [M L^2 T^{-2}] \\)."
+  },
+  {
+    "question": "Which of the following is a dimensionless quantity? \\( \\text{(a) } Angular Velocity \\) \\( \\text{(b) } Strain \\) \\( \\text{(c) } Electric Field \\) \\( \\text{(d) } Force \\)",
+    "choice1": "Angular Velocity",
+    "choice2": "Strain",
+    "choice3": "Electric Field",
+    "choice4": "Force",
+    "answer": 2,
+    "explanation": "Strain is a ratio of change in length to original length, making it dimensionless."
+  },
+  {
+    "question": "Which of the following pairs has the same dimensions? \\( \\text{(a) } Work \\text{ and } Energy \\) \\( \\text{(b) } Power \\text{ and } Torque \\) \\( \\text{(c) } Pressure \\text{ and } Stress \\) \\( \\text{(d) } Force \\text{ and } Momentum \\)",
+    "choice1": "Work and Energy",
+    "choice2": "Power and Torque",
+    "choice3": "Pressure and Stress",
+    "choice4": "Force and Momentum",
+    "answer": 1,
+    "explanation": "Work and energy both represent the same physical quantity, hence they have the same dimensions: \\( [M L^2 T^{-2}] \\)."
+  },
+  {
+    "question": "The dimensions of impulse are represented as \\( \\text{(a) } [M L T^{-2}] \\) \\( \\text{(b) } [M L^2 T^{-1}] \\) \\( \\text{(c) } [M^0 L^1 T^{-2}] \\) \\( \\text{(d) } [M^1 L T^{0}] \\)",
+    "choice1": "\\(M L T^{-2}\\)",
+    "choice2": "\\(M L^2 T^{-1}\\)",
+    "choice3": "\\(M^0 L^1 T^{-2}\\)",
+    "choice4": "\\(M^1 L T^{0}\\)",
+    "answer": 2,
+    "explanation": "Impulse is defined as the product of force and time. Since force has dimensions of \\( [M L T^{-2}] \\) and time has dimensions of \\( [T] \\), impulse has dimensions of \\( [M L^2 T^{-1}] \\)."
+  }
+]

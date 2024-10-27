@@ -1,0 +1,272 @@
+[
+  {
+    "question": "If the parabola \\(y^2 = 4ax\\) intersects the line \\(y = mx + c\\) at points \\(P\\) and \\(Q\\), then the midpoint of \\(PQ\\) lies on the line:",
+    "choice1": "\\(y = \\frac{c}{2}\\)",
+    "choice2": "\\(y = mx + a\\)",
+    "choice3": "\\(y = mx\\)",
+    "choice4": "\\(y = c - a\\)",
+    "answer": 2,
+    "explanation": "The midpoint of \\(PQ\\) lies on the directrix of the parabola."
+  },
+  {
+    "question": "Find the focus of the parabola given by \\(y^2 + 4y - 8x + 12 = 0\\).",
+    "choice1": "\\((2, -2)\\)",
+    "choice2": "\\((1, -2)\\)",
+    "choice3": "\\((3, -1)\\)",
+    "choice4": "\\((2, -1)\\)",
+    "answer": 1,
+    "explanation": "Rearrange to get \\((y + 2)^2 = 8(x - 2)\\) and solve for the focus."
+  },
+  {
+    "question": "If the tangent at a point \\(P\\) on the parabola \\(y^2 = 4ax\\) meets the directrix at \\(Q\\), then the angle between \\(PQ\\) and the axis of the parabola is:",
+    "choice1": "\\(45^\\circ\\)",
+    "choice2": "\\(60^\\circ\\)",
+    "choice3": "\\(90^\\circ\\)",
+    "choice4": "\\(135^\\circ\\)",
+    "answer": 3,
+    "explanation": "Using the properties of tangents to parabolas and the definition of the axis."
+  },
+  {
+    "question": "The length of the chord of the parabola \\(y^2 = 4x\\) which passes through the point \\((1, 2)\\) and is bisected at this point is:",
+    "choice1": "\\(\\sqrt{5}\\)",
+    "choice2": "\\(2\\sqrt{5}\\)",
+    "choice3": "\\(4\\sqrt{5}\\)",
+    "choice4": "\\(5\\)",
+    "answer": 2,
+    "explanation": "Using the chord length formula, \\(\\text{length} = 2 \\sqrt{(1 + k^2)a}\\)."
+  },
+  {
+    "question": "The equation of the tangent to the parabola \\(y^2 = 4x\\) at the point \\((4, 4)\\) is:",
+    "choice1": "\\(y = x + 2\\)",
+    "choice2": "\\(y = x - 2\\)",
+    "choice3": "\\(y = x + 4\\)",
+    "choice4": "\\(y = x - 4\\)",
+    "answer": 3,
+    "explanation": "Using \\(y = mx + \\frac{a}{m}\\) for tangents to parabolas."
+  },
+  {
+    "question": "If the length of the latus rectum of a parabola is 20, then the focal length of the parabola is:",
+    "choice1": "5",
+    "choice2": "10",
+    "choice3": "15",
+    "choice4": "20",
+    "answer": 2,
+    "explanation": "The length of the latus rectum is \\(4a\\), so \\(a = 5\\)."
+  },
+  {
+    "question": "The focal chord of the parabola \\(y^2 = 4x\\) makes an angle of \\(45^\\circ\\) with the positive \\(x\\)-axis. The length of this focal chord is:",
+    "choice1": "4",
+    "choice2": "4\\(\\sqrt{2}\\)",
+    "choice3": "8",
+    "choice4": "8\\(\\sqrt{2}\\)",
+    "answer": 4,
+    "explanation": "Using the focal chord length formula for a parabola, \\(\\text{length} = 8a \\sin\\theta\\)."
+  },
+  {
+    "question": "The vertex of the parabola \\(x^2 - 4x - 8y - 28 = 0\\) is:",
+    "choice1": "\\((2, -1)\\)",
+    "choice2": "\\((3, -2)\\)",
+    "choice3": "\\((4, -1)\\)",
+    "choice4": "\\((1, -3)\\)",
+    "answer": 1,
+    "explanation": "Rewrite the equation in standard form to identify the vertex."
+  },
+  {
+    "question": "For the parabola \\(y^2 = -8x\\), find the equation of the directrix.",
+    "choice1": "\\(x = 2\\)",
+    "choice2": "\\(x = -2\\)",
+    "choice3": "\\(x = 4\\)",
+    "choice4": "\\(x = -4\\)",
+    "answer": 1,
+    "explanation": "The directrix is \\(x = -a\\), where \\(a = 4\\)."
+  },
+  {
+    "question": "The line \\(y = 2x + 3\\) is a tangent to the parabola \\(x^2 = 4y\\). Find the point of contact.",
+    "choice1": "\\((4, 3)\\)",
+    "choice2": "\\((2, -1)\\)",
+    "choice3": "\\((3, 2)\\)",
+    "choice4": "\\((1, -3)\\)",
+    "answer": 3,
+    "explanation": "Solving for \\(x\\) and \\(y\\) where the line and parabola meet, we find the point of contact."
+  },
+  {
+    "question": "For the parabola \\(y^2 = 4x\\), find the coordinates of a point \\(P\\) on the parabola such that the tangent at \\(P\\) is inclined at \\(45^\\circ\\) to the \\(x\\)-axis.",
+    "choice1": "\\((2, 2\\sqrt{2})\\)",
+    "choice2": "\\((2\\sqrt{2}, 4)\\)",
+    "choice3": "\\((4, 4\\sqrt{2})\\)",
+    "choice4": "\\((4\\sqrt{2}, 4)\\)",
+    "answer": 2,
+    "explanation": "For the tangent to be inclined at \\(45^\\circ\\), the slope of the tangent line must be \\(1\\), so solve for \\(P\\) accordingly."
+  },
+  {
+    "question": "If a point \\((h, k)\\) lies on the directrix of the parabola \\(y^2 = 4ax\\) and the distance from the focus to this point is \\(5a\\), then \\(h + k\\) equals:",
+    "choice1": "\\(0\\)",
+    "choice2": "\\(a\\)",
+    "choice3": "\\(4a\\)",
+    "choice4": "\\(5a\\)",
+    "answer": 1,
+    "explanation": "Using the property that the distance from any point on the directrix to the focus equals \\(5a\\), solve for \\(h\\) and \\(k\\)."
+  },
+  {
+    "question": "The length of the focal chord of the parabola \\(y^2 = 8x\\) that is inclined at \\(60^\\circ\\) to the \\(x\\)-axis is:",
+    "choice1": "\\(8\\)",
+    "choice2": "\\(8\\sqrt{3}\\)",
+    "choice3": "\\(12\\)",
+    "choice4": "\\(4\\sqrt{3}\\)",
+    "answer": 2,
+    "explanation": "Using the focal chord formula for parabolas, \\(\\text{length} = 4a \\sec\\theta\\), where \\(a = 2\\) and \\(\\theta = 60^\\circ\\)."
+  },
+  {
+    "question": "For the parabola \\(x^2 = -16y\\), find the equation of the tangent at the point where \\(y = -4\\).",
+    "choice1": "\\(x = 4\\)",
+    "choice2": "\\(y = -8x\\)",
+    "choice3": "\\(x = 8\\)",
+    "choice4": "\\(x = -4\\)",
+    "answer": 3,
+    "explanation": "Rearrange \\(y\\) in terms of \\(x\\) and use the derivative \\(\\frac{dy}{dx}\\) to find the tangent."
+  },
+  {
+    "question": "The distance between the focus of the parabola \\(x^2 = 4ay\\) and a point \\((4a, 4a)\\) is:",
+    "choice1": "\\(\\sqrt{10} a\\)",
+    "choice2": "\\(2a\\)",
+    "choice3": "\\(3a\\)",
+    "choice4": "\\(\\sqrt{5} a\\)",
+    "answer": 1,
+    "explanation": "Calculate using the distance formula between the focus at \\((0, a)\\) and the point \\((4a, 4a)\\)."
+  },
+  {
+    "question": "Let \\( f(x) = \\begin{cases} x^2 \\sin \\left( \\frac{1}{x} \\right) & x \\neq 0 \\\\ 0 & x = 0 \\end{cases} \\). Determine whether \\(f(x)\\) is continuous and differentiable at \\(x = 0\\).",
+    "choice1": "Continuous but not differentiable",
+    "choice2": "Differentiable but not continuous",
+    "choice3": "Both continuous and differentiable",
+    "choice4": "Neither continuous nor differentiable",
+    "answer": 1,
+    "explanation": "The function \\(f(x)\\) is continuous at \\(x = 0\\) but is not differentiable there because \\(f'(x)\\) does not exist at \\(x = 0\\) due to the oscillatory nature of \\(\\sin \\left( \\frac{1}{x} \\right)\\)."
+  },
+  {
+    "question": "If \\( f(x) = x^3 - 3x^2 + 6x - 5 \\), find \\(f''(x)\\) and determine the points where \\(f(x)\\) is not differentiable.",
+    "choice1": "Differentiable everywhere",
+    "choice2": "Not differentiable at \\(x = 0\\)",
+    "choice3": "Not differentiable at \\(x = 1\\)",
+    "choice4": "Not differentiable at \\(x = -1\\)",
+    "answer": 1,
+    "explanation": "Since \\(f(x)\\) is a polynomial, it is differentiable everywhere. Computing \\(f''(x) = 6x - 6\\) confirms no points of non-differentiability."
+  },
+  {
+    "question": "Consider \\( g(x) = |x - 1| \\sin \\left( \\frac{1}{x - 1} \\right) \\). Determine whether \\(g(x)\\) is continuous and differentiable at \\(x = 1\\).",
+    "choice1": "Continuous but not differentiable at \\(x = 1\\)",
+    "choice2": "Differentiable but not continuous at \\(x = 1\\)",
+    "choice3": "Both continuous and differentiable at \\(x = 1\\)",
+    "choice4": "Neither continuous nor differentiable at \\(x = 1\\)",
+    "answer": 1,
+    "explanation": "The function \\(g(x)\\) is continuous at \\(x = 1\\) but not differentiable due to the oscillatory nature of \\(\\sin \\left( \\frac{1}{x - 1} \\right)\\) around \\(x = 1\\)."
+  },
+  {
+    "question": "If \\( f(x) = e^x \\cos x \\), find the points of non-differentiability of \\(f(x)\\) on \\(\\mathbb{R}\\).",
+    "choice1": "Differentiable everywhere",
+    "choice2": "Non-differentiable at \\(x = 0\\)",
+    "choice3": "Non-differentiable at \\(x = \\pi/2\\)",
+    "choice4": "Non-differentiable at \\(x = -\\pi/2\\)",
+    "answer": 1,
+    "explanation": "Since \\(f(x) = e^x \\cos x\\) is composed of differentiable functions, it is differentiable everywhere."
+  },
+  {
+    "question": "Find the values of \\(a\\) and \\(b\\) such that the function \\(f(x) = \\begin{cases} ax^2 + bx + 1 & x \\leq 2 \\\\ 3x + 2 & x > 2 \\end{cases}\\) is continuous and differentiable at \\(x = 2\\).",
+    "choice1": "\\(a = 2, b = -3\\)",
+    "choice2": "\\(a = 1, b = -3\\)",
+    "choice3": "\\(a = 2, b = 1\\)",
+    "choice4": "\\(a = 3, b = -2\\)",
+    "answer": 1,
+    "explanation": "To ensure continuity and differentiability at \\(x = 2\\), match the value and derivative of \\(f(x)\\) from both sides at \\(x = 2\\)."
+  },
+  {
+    "question": "If \\( h(x) = \\sin \\left( x^2 \\right) \\), determine whether \\(h(x)\\) is differentiable at \\(x = 0\\) and find \\(h'(0)\\).",
+    "choice1": "Differentiable at \\(x = 0\\) with \\(h'(0) = 0\\)",
+    "choice2": "Differentiable at \\(x = 0\\) with \\(h'(0) = 1\\)",
+    "choice3": "Not differentiable at \\(x = 0\\)",
+    "choice4": "Differentiable at \\(x = 0\\) with \\(h'(0) = -1\\)",
+    "answer": 1,
+    "explanation": "By differentiating \\(h(x) = \\sin(x^2)\\), we get \\(h'(x) = 2x \\cos(x^2)\\), so \\(h'(0) = 0\\)."
+  },
+  {
+    "question": "Let \\(f(x) = \\ln(|x|)\\). Find the points where \\(f(x)\\) is not differentiable.",
+    "choice1": "\\(x = 0\\)",
+    "choice2": "\\(x = 1\\)",
+    "choice3": "\\(x = -1\\)",
+    "choice4": "Differentiable everywhere",
+    "answer": 1,
+    "explanation": "Since \\(\\ln(|x|)\\) is not defined at \\(x = 0\\), it is not differentiable there."
+  },
+  {
+    "question": "The function \\( f(x) = |x^2 - 4| \\) is:",
+    "choice1": "Continuous everywhere but differentiable only at \\(x = \\pm 2\\)",
+    "choice2": "Differentiable everywhere",
+    "choice3": "Continuous everywhere but not differentiable at \\(x = \\pm 2\\)",
+    "choice4": "Differentiable at \\(x = 0\\) only",
+    "answer": 3,
+    "explanation": "At \\(x = \\pm 2\\), there is a cusp in \\(f(x)\\), making it continuous but not differentiable at these points."
+  },
+  {
+    "question": "If \\( f(x) = x |x| \\), find \\(f'(x)\\) and determine the points where \\(f(x)\\) is not differentiable.",
+    "choice1": "Differentiable only at \\(x = 0\\)",
+    "choice2": "Differentiable everywhere",
+    "choice3": "Not differentiable at \\(x = 0\\)",
+    "choice4": "Differentiable at \\(x = \\pm 1\\)",
+    "answer": 3,
+    "explanation": "Since \\(x |x|\\) changes slopes abruptly at \\(x = 0\\), \\(f(x)\\) is not differentiable there."
+  },
+  {
+    "question": "If \\(f(x) = e^{|x|}\\), determine whether \\(f(x)\\) is differentiable at \\(x = 0\\).",
+    "choice1": "Differentiable at \\(x = 0\\)",
+    "choice2": "Differentiable only at \\(x = 1\\)",
+    "choice3": "Not differentiable at \\(x = 0\\)",
+    "choice4": "Differentiable at \\(x = -1\\)",
+    "answer": 3,
+    "explanation": "The function \\(f(x) = e^{|x|}\\) has different left-hand and right-hand derivatives at \\(x = 0\\), making it non-differentiable there."
+  },
+  {
+    "question": "Consider the function \\( f(x) = \\sqrt{x^2 + 1} - |x| \\). Determine whether \\( f(x) \\) is differentiable at \\( x = 0 \\).",
+    "choice1": "Differentiable at \\( x = 0 \\) with \\( f'(0) = 1 \\)",
+    "choice2": "Differentiable at \\( x = 0 \\) with \\( f'(0) = 0 \\)",
+    "choice3": "Not differentiable at \\( x = 0 \\)",
+    "choice4": "Differentiable everywhere",
+    "answer": 2,
+    "explanation": "After simplification, \\( f'(0) = 0 \\) since both sides of the derivative approach zero, making \\(f(x)\\) differentiable at \\(x = 0\\)."
+  },
+  {
+    "question": "If \\( g(x) = x \\sin \\left( \\frac{1}{x} \\right) \\) for \\( x \\neq 0 \\) and \\( g(0) = 0 \\), determine if \\( g(x) \\) is differentiable at \\( x = 0 \\).",
+    "choice1": "Differentiable at \\( x = 0 \\) with \\( g'(0) = 0 \\)",
+    "choice2": "Not differentiable at \\( x = 0 \\)",
+    "choice3": "Differentiable everywhere",
+    "choice4": "Differentiable only at \\( x = 1 \\)",
+    "answer": 1,
+    "explanation": "The function \\( g(x) \\) is differentiable at \\( x = 0 \\) with \\( g'(0) = 0 \\) due to the behavior of \\(x \\sin \\left( \\frac{1}{x} \\right)\\) near zero."
+  },
+  {
+    "question": "Let \\( h(x) = \\begin{cases} x^3 \\sin \\left( \\frac{1}{x} \\right) & x \\neq 0 \\\\ 0 & x = 0 \\end{cases} \\). Is \\( h(x) \\) differentiable at \\( x = 0 \\)?",
+    "choice1": "Differentiable with \\( h'(0) = 0 \\)",
+    "choice2": "Not differentiable at \\( x = 0 \\)",
+    "choice3": "Differentiable everywhere",
+    "choice4": "Differentiable only at \\( x = 1 \\)",
+    "answer": 1,
+    "explanation": "Since \\( h(x) \\) is continuously differentiable and the derivative approaches 0 as \\( x \\to 0 \\), \\( h(x) \\) is differentiable with \\( h'(0) = 0 \\)."
+  },
+  {
+    "question": "Find \\( a \\) such that \\( f(x) = \\begin{cases} a \\cos x & x \\geq 0 \\\\ x + 1 & x < 0 \\end{cases} \\) is continuous and differentiable at \\( x = 0 \\).",
+    "choice1": "\\( a = 1 \\)",
+    "choice2": "\\( a = 0 \\)",
+    "choice3": "\\( a = 2 \\)",
+    "choice4": "\\( a = -1 \\)",
+    "answer": 1,
+    "explanation": "Setting the left and right limits equal for continuity and matching derivatives, we find \\( a = 1 \\)."
+  },
+  {
+    "question": "If \\( f(x) = e^{|x|} \\sin x \\), determine whether \\( f(x) \\) is differentiable at \\( x = 0 \\).",
+    "choice1": "Differentiable at \\( x = 0 \\) with \\( f'(0) = 1 \\)",
+    "choice2": "Not differentiable at \\( x = 0 \\)",
+    "choice3": "Differentiable everywhere",
+    "choice4": "Differentiable only for \\( x > 0 \\)",
+    "answer": 2,
+    "explanation": "Since \\( f(x) = e^{|x|} \\sin x \\) has a cusp at \\( x = 0 \\) due to \\( e^{|x|} \\), it is not differentiable at \\( x = 0 \\)."
+  }
+]

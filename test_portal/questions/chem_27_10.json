@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which of the following statements is correct about the hydration enthalpies of alkali metals? \\( \\text{(a) Li}^+ \\text{ has the highest hydration enthalpy} \\) \\( \\text{(b) Na}^+ \\text{ has higher hydration enthalpy than K}^+ \\) \\( \\text{(c) Cs}^+ \\text{ has the lowest hydration enthalpy} \\) \\( \\text{(d) Hydration enthalpy decreases down the group} \\)",
+    "choice1": "a and b",
+    "choice2": "a, b and d",
+    "choice3": "a, b, c and d",
+    "choice4": "b, c and d",
+    "answer": 3,
+    "explanation": "The hydration enthalpy decreases down the group due to increasing ionic radius, making \\( \\text{Li}^+ \\) the most hydrated."
+  },
+  {
+    "question": "Among the following, which alkali metal ion has the highest polarizing power? \\( \\text{(a) Na}^+ \\) \\( \\text{(b) K}^+ \\) \\( \\text{(c) Cs}^+ \\) \\( \\text{(d) Li}^+ \\)",
+    "choice1": "Na\\(^{+}\\)",
+    "choice2": "K\\(^{+}\\)",
+    "choice3": "Li\\(^{+}\\)",
+    "choice4": "Cs\\(^{+}\\)",
+    "answer": 3,
+    "explanation": "Li\\(^{+}\\) has the smallest ionic radius and highest charge density, making its polarizing power highest."
+  },
+  {
+    "question": "Which of the following is a correct reaction of \\( \\text{H}_2 \\text{O}_2 \\) with sodium? \\( \\text{(a) 2Na + 2H}_2 \\text{O}_2 \\rightarrow 2NaOH + \\text{H}_2 \\) \\( \\text{(b) 2Na + H}_2 \\text{O}_2 \\rightarrow 2NaOH \\) \\( \\text{(c) Na + H}_2 \\text{O}_2 \\rightarrow NaOH + \\text{H}_2 \\) \\( \\text{(d) Na + H}_2 \\text{O}_2 \\rightarrow {Na}_2 \\text{O}_2 + \\text{H}_2 \\)",
+    "choice1": "(a)",
+    "choice2": "(b)",
+    "choice3": "(c)",
+    "choice4": "(d)",
+    "answer": 1,
+    "explanation": "Sodium reacts with \\( \\text{H}_2 \\text{O}_2 \\) to form \\( \\text{NaOH} \\) and \\( \\text{H}_2 \\) gas as shown in option (a)."
+  },
+  {
+    "question": "Identify the compound formed when lithium reacts with nitrogen. \\( \\text{(a) Li}_2 \\text{N} \\) \\( \\text{(b) LiN} \\) \\( \\text{(c) Li}_3 \\text{N} \\) \\( \\text{(d) Li}_4 \\text{N}_2 \\)",
+    "choice1": "Li\\( _2 \\)N",
+    "choice2": "LiN",
+    "choice3": "Li\\( _3 \\)N",
+    "choice4": "Li\\( _4 \\)N\\( _2 \\)",
+    "answer": 3,
+    "explanation": "Lithium forms \\( \\text{Li}_3\\text{N} \\) (lithium nitride) when reacting with nitrogen, which is stable due to lithium's small ionic size and high lattice energy."
+  },
+  {
+    "question": "Which of the following reactions represents the formation of NaH from Na? \\( \\text{(a) Na + H}_2 \\rightarrow NaH \\) \\( \\text{(b) 2Na + H}_2 \\rightarrow 2NaH \\) \\( \\text{(c) Na + H} \\rightarrow NaH \\) \\( \\text{(d) 2Na + H} \\rightarrow 2NaH \\)",
+    "choice1": "(a)",
+    "choice2": "(b)",
+    "choice3": "(c)",
+    "choice4": "(d)",
+    "answer": 2,
+    "explanation": "Sodium hydride, \\( \\text{NaH} \\), is formed by reacting sodium with hydrogen as shown in \\( 2\\text{Na} + \\text{H}_2 \\rightarrow 2\\text{NaH} \\)."
+  },
+  {
+    "question": "Which of the following alkali metals will have the highest first ionization energy? \\( \\text{(a) Li} \\) \\( \\text{(b) Na} \\) \\( \\text{(c) K} \\) \\( \\text{(d) Cs} \\)",
+    "choice1": "Li",
+    "choice2": "Na",
+    "choice3": "K",
+    "choice4": "Cs",
+    "answer": 1,
+    "explanation": "Due to its small atomic size and strong nuclear attraction, lithium has the highest first ionization energy among alkali metals."
+  },
+  {
+    "question": "Which compound of sodium is used to extract titanium from titanium tetrachloride? \\( \\text{(a) NaOH} \\) \\( \\text{(b) Na}_2 \\text{O}_2 \\) \\( \\text{(c) NaCl} \\) \\( \\text{(d) NaH} \\)",
+    "choice1": "NaOH",
+    "choice2": "Na\\( _2 \\)O\\( _2 \\)",
+    "choice3": "NaCl",
+    "choice4": "NaH",
+    "answer": 4,
+    "explanation": "Sodium hydride (NaH) is used in the extraction of titanium as it reduces \\( \\text{TiCl}_4 \\) to titanium."
+  },
+  {
+    "question": "Which hydrogen isotope is used in nuclear fusion reactions? \\( \\text{(a) Protium} \\) \\( \\text{(b) Deuterium} \\) \\( \\text{(c) Tritium} \\) \\( \\text{d) Both b and c} \\)",
+    "choice1": "Protium",
+    "choice2": "Deuterium",
+    "choice3": "Tritium",
+    "choice4": "Both b and c",
+    "answer": 4,
+    "explanation": "Both deuterium and tritium isotopes are used in nuclear fusion reactions due to their suitable nuclear properties."
+  },
+  {
+    "question": "Which of the following s-block metal hydroxides is amphoteric? \\( \\text{(a) NaOH} \\) \\( \\text{(b) KOH} \\) \\( \\text{(c) Mg(OH)}_2 \\) \\( \\text{(d) Be(OH)}_2 \\)",
+    "choice1": "NaOH",
+    "choice2": "KOH",
+    "choice3": "Mg(OH)\\(_2\\)",
+    "choice4": "Be(OH)\\(_2\\)",
+    "answer": 4,
+    "explanation": "Beryllium hydroxide, \\( \\text{Be(OH)}_2 \\), is amphoteric and can react with both acids and bases."
+  },
+  {
+    "question": "Which compound among the following has the highest lattice energy? \\( \\text{(a) NaCl} \\) \\( \\text{(b) NaF} \\) \\( \\text{(c) KCl} \\) \\( \\text{(d) LiF} \\)",
+    "choice1": "NaCl",
+    "choice2": "NaF",
+    "choice3": "KCl",
+    "choice4": "LiF",
+    "answer": 4,
+    "explanation": "LiF has the highest lattice energy due to the small ionic sizes of Li\\(^{+}\\) and F\\(^{-}\\) ions, resulting in a strong ionic bond."
+  },
+  {
+    "question": "Which of the following is the correct order of solubility of the hydroxides of alkali metals in water? \\( \\text{(a) LiOH < NaOH < KOH < CsOH} \\) \\( \\text{(b) NaOH < KOH < LiOH < CsOH} \\) \\( \\text{(c) CsOH < KOH < NaOH < LiOH} \\) \\( \\text{(d) KOH < NaOH < LiOH < CsOH} \\)",
+    "choice1": "LiOH < NaOH < KOH < CsOH",
+    "choice2": "NaOH < KOH < LiOH < CsOH",
+    "choice3": "CsOH < KOH < NaOH < LiOH",
+    "choice4": "KOH < NaOH < LiOH < CsOH",
+    "answer": 1,
+    "explanation": "The solubility of alkali metal hydroxides increases down the group, so the correct order is \\( \\text{LiOH < NaOH < KOH < CsOH} \\)."
+  },
+  {
+    "question": "Among the following reactions, which correctly represents the reaction of \\( \\text{BeCl}_2 \\) with water? \\( \\text{(a) BeCl}_2 + 2\\text{H}_2\\text{O} \\rightarrow \\text{Be(OH)}_2 + 2\\text{HCl} \\) \\( \\text{(b) BeCl}_2 + 2\\text{H}_2\\text{O} \\rightarrow \\text{BeO} + 2\\text{HCl} \\) \\( \\text{(c) BeCl}_2 + 3\\text{H}_2\\text{O} \\rightarrow \\text{Be(OH)}_3 + 2\\text{HCl} \\) \\( \\text{(d) BeCl}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{Be(OH)}_2 \\text{ and } \\text{HCl} \\)",
+    "choice1": "(a)",
+    "choice2": "(b)",
+    "choice3": "(c)",
+    "choice4": "(d)",
+    "answer": 1,
+    "explanation": "Beryllium chloride hydrolyzes in water to form \\( \\text{Be(OH)}_2 \\) and \\( \\text{HCl} \\), as shown in option (a)."
+  },
+  {
+    "question": "Which of the following statements about alkali metals is incorrect? \\( \\text{(a) They have low ionization energies.} \\) \\( \\text{(b) Their oxides are generally basic in nature.} \\) \\( \\text{(c) They form stable complexes easily.} \\) \\( \\text{(d) Their melting points decrease down the group.} \\)",
+    "choice1": "They have low ionization energies.",
+    "choice2": "Their oxides are generally basic in nature.",
+    "choice3": "They form stable complexes easily.",
+    "choice4": "Their melting points decrease down the group.",
+    "answer": 3,
+    "explanation": "Alkali metals do not typically form stable complexes easily due to their large atomic size and low charge density."
+  },
+  {
+    "question": "Calculate the volume of \\( \\text{H}_2 \\) gas produced at STP when 0.5 moles of \\( \\text{Na} \\) reacts with excess water. \\( \\text{(a) 11.2 L} \\) \\( \\text{(b) 5.6 L} \\) \\( \\text{(c) 22.4 L} \\) \\( \\text{(d) 16.8 L} \\)",
+    "choice1": "11.2 L",
+    "choice2": "5.6 L",
+    "choice3": "22.4 L",
+    "choice4": "16.8 L",
+    "answer": 1,
+    "explanation": "The reaction \\( 2\\text{Na} + 2\\text{H}_2\\text{O} \\rightarrow 2\\text{NaOH} + \\text{H}_2 \\) produces 1 mole of \\( \\text{H}_2 \\) for every 2 moles of \\( \\text{Na} \\), so 0.5 moles of \\( \\text{Na} \\) will produce 0.25 moles of \\( \\text{H}_2 \\) gas, equivalent to 11.2 L at STP."
+  },
+  {
+    "question": "Which of the following hydrogen halides has the strongest hydrogen bond? \\( \\text{(a) HF} \\) \\( \\text{(b) HCl} \\) \\( \\text{(c) HBr} \\) \\( \\text{(d) HI} \\)",
+    "choice1": "HF",
+    "choice2": "HCl",
+    "choice3": "HBr",
+    "choice4": "HI",
+    "answer": 1,
+    "explanation": "Hydrogen fluoride (HF) forms the strongest hydrogen bond due to the high electronegativity of fluorine and the small size of the \\( \\text{H–F} \\) bond."
+  },
+  {
+    "question": "Which of the following statements is correct regarding the inert pair effect? \\( \\text{(a) It is more prominent in lighter p-block elements.} \\) \\( \\text{(b) It is due to the high bond dissociation energy of s-electrons.} \\) \\( \\text{(c) It increases down the group in p-block elements.} \\) \\( \\text{(d) It is due to poor shielding of d and f orbitals.} \\)",
+    "choice1": "It is more prominent in lighter p-block elements.",
+    "choice2": "It is due to the high bond dissociation energy of s-electrons.",
+    "choice3": "It increases down the group in p-block elements.",
+    "choice4": "It is due to poor shielding of d and f orbitals.",
+    "answer": 3,
+    "explanation": "The inert pair effect is more significant in heavier elements of p-block as it increases down the group due to the poor shielding by d and f orbitals."
+  },
+  {
+    "question": "In the structure of \\( \\text{XeF}_6 \\), the geometry is distorted due to the presence of: \\( \\text{(a) lone pair-lone pair repulsions} \\) \\( \\text{(b) lone pair-bond pair repulsions} \\) \\( \\text{(c) bond pair-bond pair repulsions} \\) \\( \\text{(d) none of these} \\)",
+    "choice1": "lone pair-lone pair repulsions",
+    "choice2": "lone pair-bond pair repulsions",
+    "choice3": "bond pair-bond pair repulsions",
+    "choice4": "none of these",
+    "answer": 2,
+    "explanation": "\\( \\text{XeF}_6 \\) has a distorted octahedral geometry due to lone pair-bond pair repulsions as xenon has one lone pair."
+  },
+  {
+    "question": "Which of the following compounds has the highest thermal stability? \\( \\text{(a) CO}_2 \\) \\( \\text{(b) SiO}_2 \\) \\( \\text{(c) GeO}_2 \\) \\( \\text{(d) SnO}_2 \\)",
+    "choice1": "\\(CO_2 \\)",
+    "choice2": "\\(SiO_2 \\)",
+    "choice3": "\\(GeO_2 \\)",
+    "choice4": "\\(SnO_2 \\)",
+    "answer": 2,
+    "explanation": "SiO_2 has the highest thermal stability due to its strong \\( \\text{Si–O} \\) bonds and network structure."
+  },
+  {
+    "question": "Which among the following oxides is acidic in nature? \\( \\text{(a) CO} \\) \\( \\text{(b) SiO}_2 \\) \\( \\text{(c) SnO} \\) \\( \\text{(d) PbO} \\)",
+    "choice1": "\\(CO \\)",
+    "choice2": "\\(SiO_2 \\)",
+    "choice3": "\\(SnO \\)",
+    "choice4": "\\(PbO \\)",
+    "answer": 2,
+    "explanation": "SiO_2 is an acidic oxide as it reacts with bases to form silicates."
+  },
+  {
+    "question": "Which of the following halides of boron is the strongest Lewis acid? \\( \\text{(a) BF}_3 \\) \\( \\text{(b) BCl}_3 \\) \\( \\text{(c) BBr}_3 \\) \\( \\text{(d) BI}_3 \\)",
+    "choice1": "\\(BF_3 \\)",
+    "choice2": "\\(BCl_3 \\)",
+    "choice3": "\\(BBr_3 \\)",
+    "choice4": "\\(BI_3 \\)",
+    "answer": 4,
+    "explanation": "BI_3 is the strongest Lewis acid due to the large size of iodine, which results in a weaker \\( \\text{B–I} \\) bond and higher tendency to accept electrons."
+  },
+  {
+    "question": "The boiling point of \\( \\text{NH}_3 \\) is higher than \\( \\text{PH}_3 \\) due to: \\( \\text{(a) greater mass of NH}_3 \\) \\( \\text{(b) greater dipole moment of PH}_3 \\) \\( \\text{(c) hydrogen bonding in NH}_3 \\) \\( \\text{(d) larger molecular size of NH}_3 \\)",
+    "choice1": "greater mass of \\(NH_3 \\)",
+    "choice2": "greater dipole moment of \\(PH_3 \\)",
+    "choice3": "hydrogen bonding in \\(NH_3 \\)",
+    "choice4": "larger molecular size of \\(NH_3 \\)",
+    "answer": 3,
+    "explanation": "NH_3 has a higher boiling point than PH_3 because of hydrogen bonding present in \\( \\text{NH}_3 \\)."
+  },
+  {
+    "question": "Which of the following statements is incorrect about \\( \\text{SO}_3 \\)? \\( \\text{(a) It forms anhydrides of sulfuric acid.} \\) \\( \\text{(b) It has a planar structure.} \\) \\( \\text{(c) It is a Lewis acid.} \\) \\( \\text{(d) It has sp}^3 \\text{ hybridization.} \\)",
+    "choice1": "It forms anhydrides of sulfuric acid.",
+    "choice2": "It has a planar structure.",
+    "choice3": "It is a Lewis acid.",
+    "choice4": "It has \\(sp^3 \\) hybridization.",
+    "answer": 4,
+    "explanation": "SO_3 has \\( \\text{sp}^2 \\) hybridization, resulting in a trigonal planar structure."
+  },
+  {
+    "question": "Which of the following is the correct stability order of oxidation states for Group 15 elements? \\( \\text{(a) +5 > +3 > -3} \\) \\( \\text{(b) -3 > +3 > +5} \\) \\( \\text{(c) +5 > +3 > +1} \\) \\( \\text{(d) +3 > +5 > -3} \\)",
+    "choice1": "+5 > +3 > -3",
+    "choice2": "-3 > +3 > +5",
+    "choice3": "+5 > +3 > +1",
+    "choice4": "+3 > +5 > -3",
+    "answer": 2,
+    "explanation": "Group 15 elements exhibit a stability order of -3 > +3 > +5 for their oxidation states, especially evident with nitrogen."
+  },
+  {
+    "question": "Which of the following is not expected to react with \\( \\text{SO}_2 \\) at room temperature? \\( \\text{(a) Cl}_2 \\) \\( \\text{(b) O}_2 \\) \\( \\text{(c) H}_2\\text{O} \\) \\( \\text{(d) I}_2 \\)",
+    "choice1": "\\(Cl_2 \\)",
+    "choice2": "\\(O_2 \\)",
+    "choice3": "\\(H_2O \\)",
+    "choice4": "\\(I_2 \\)",
+    "answer": 4,
+    "explanation": "I_2 is unreactive with \\( \\text{SO}_2 \\) at room temperature due to the relatively low reactivity of iodine compared to \\( \\text{Cl}_2 \\) and \\( \\text{O}_2 \\)."
+  },
+  {
+    "question": "Which of the following oxoacids of phosphorus contains a P-H bond? \\( \\text{(a) H}_3\\text{PO}_3 \\) \\( \\text{(b) H}_3\\text{PO}_4 \\) \\( \\text{(c) H}_3\\text{P}_2\\text{O}_5 \\) \\( \\text{(d) H}_4\\text{P}_2\\text{O}_7 \\)",
+    "choice1": "\\(H_3PO_3 \\)",
+    "choice2": "\\(H_3PO_4 \\)",
+    "choice3": "\\(H_3P_2O_5 \\)",
+    "choice4": "\\(H_4P_2O_7 \\)",
+    "answer": 1,
+    "explanation": "\\( \\text{H}_3\\text{PO}_3 \\) (phosphorous acid) contains a \\( \\text{P-H} \\) bond."
+  },
+  {
+    "question": "Which of the following statements is correct regarding the stability of \\( \\text{ClO}_4^- \\), \\( \\text{BrO}_4^- \\), and \\( \\text{IO}_4^- \\) ions? \\( \\text{(a) Stability decreases down the group} \\) \\( \\text{(b) Stability increases down the group} \\) \\( \\text{(c) All have equal stability} \\) \\( \\text{(d) None of these} \\)",
+    "choice1": "Stability decreases down the group",
+    "choice2": "Stability increases down the group",
+    "choice3": "All have equal stability",
+    "choice4": "None of these",
+    "answer": 2,
+    "explanation": "The stability of \\( \\text{XO}_4^- \\) ions increases down the group as the larger halide ions stabilize the \\( \\text{O}_4^- \\) structure more effectively."
+  },
+  {
+    "question": "Which of the following halides is least likely to undergo hydrolysis? \\( \\text{(a) AlCl}_3 \\) \\( \\text{(b) SiCl}_4 \\) \\( \\text{(c) NCl}_3 \\) \\( \\text{(d) PCl}_5 \\)",
+    "choice1": "\\(AlCl_3 \\)",
+    "choice2": "\\(SiCl_4 \\)",
+    "choice3": "\\(NCl_3 \\)",
+    "choice4": "\\(PCl_5 \\)",
+    "answer": 3,
+    "explanation": "\\( \\text{NCl}_3 \\) is the least likely to hydrolyze because nitrogen does not have available d-orbitals to expand its octet and accept water molecules."
+  },
+  {
+    "question": "The thermal stability order of Group 16 hydrides is: \\( \\text{(a) H}_2\\text{Te} > \\text{H}_2\\text{Se} > \\text{H}_2\\text{S} > \\text{H}_2\\text{O} \\) \\( \\text{(b) H}_2\\text{O} > \\text{H}_2\\text{S} > \\text{H}_2\\text{Se} > \\text{H}_2\\text{Te} \\) \\( \\text{(c) H}_2\\text{O} > \\text{H}_2\\text{Te} > \\text{H}_2\\text{Se} > \\text{H}_2\\text{S} \\) \\( \\text{(d) H}_2\\text{S} > \\text{H}_2\\text{O} > \\text{H}_2\\text{Se} > \\text{H}_2\\text{Te} \\)",
+    "choice1": "(a)",
+    "choice2": "(b)",
+    "choice3": "(c)",
+    "choice4": "(d)",
+    "answer": 2,
+    "explanation": "The stability of Group 16 hydrides decreases down the group as bond strength decreases from \\( \\text{H}_2\\text{O} \\) to \\( \\text{H}_2\\text{Te} \\)."
+  },
+  {
+    "question": "Which of the following statements is true about \\( \\text{XeF}_2 \\), \\( \\text{XeF}_4 \\), and \\( \\text{XeF}_6 \\)? \\( \\text{(a) All have square planar geometry} \\) \\( \\text{(b) XeF}_4 is square planar while \\text{XeF}_2 and \\text{XeF}_6 are linear \\) \\( \\text{(c) XeF}_2 is linear, \\text{XeF}_4 is square planar, and \\text{XeF}_6 has distorted octahedral geometry \\) \\( \\text{(d) All have octahedral geometry} \\)",
+    "choice1": "All have square planar geometry",
+    "choice2": "\\(XeF_4 \\) is square planar while \\(XeF_2 \\) and \\(XeF_6 \\) are linear",
+    "choice3": "\\(XeF_2 \\) is linear, \\(XeF_4 \\) is square planar, and \\(XeF_6 \\) has distorted octahedral geometry",
+    "choice4": "All have octahedral geometry",
+    "answer": 3,
+    "explanation": "\\( \\text{XeF}_2 \\) is linear, \\( \\text{XeF}_4 \\) is square planar, and \\( \\text{XeF}_6 \\) has a distorted octahedral geometry due to the presence of lone pairs."
+  },
+  {
+    "question": "Which of the following has the highest bond angle? \\( \\text{(a) H}_2\\text{O} \\) \\( \\text{(b) NH}_3 \\) \\( \\text{(c) CH}_4 \\) \\( \\text{(d) Cl}_2\\text{O} \\)",
+    "choice1": "\\(H_2O \\)",
+    "choice2": "\\(NH_3 \\)",
+    "choice3": "\\(CH_4 \\)",
+    "choice4": "\\(Cl_2O \\)",
+    "answer": 3,
+    "explanation": "\\( \\text{CH}_4 \\) has the highest bond angle (109.5°) due to its tetrahedral structure."
+  }
+]

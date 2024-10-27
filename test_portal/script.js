@@ -40,7 +40,7 @@ let sub = [
   "Phys 01/12",
 ];
 
-let currTest = "20/10";
+let currTest = "27/10";
 
 // Get unique dates from the sub array
 let uniqueDates = [...new Set(sub.map((s) => s.split(" ")[1]))];
